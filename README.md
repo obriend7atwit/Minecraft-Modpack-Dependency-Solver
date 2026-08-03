@@ -127,4 +127,4 @@ When citing this work, use the capstone title shown above and the final author, 
 
 ## License
 
-No software license has been selected. Until the repository owner adds a `LICENSE` file, no permission to reuse, modify, or redistribute the code is granted by default.
+[MIT](LICENSE)
