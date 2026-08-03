@@ -1,0 +1,15 @@
+{
+  "case_id": "custom-small-multi-error",
+  "expected_action_types": [
+    "add_dependency",
+    "remove_mod"
+  ],
+  "expected_issue_types": [
+    "missing_dependency",
+    "hard_conflict"
+  ],
+  "manually_reviewed": false,
+  "modification_description": "Deterministic custom multi error scenario generated offline.",
+  "modification_type": "multi_error",
+  "original_case_id": "custom-small-valid"
+}

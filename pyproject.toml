@@ -1,0 +1,44 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "minecraft-modpack-solver"
+version = "0.1.0"
+description = "Explainable weighted dependency repair for Fabric and Modrinth Minecraft modpacks."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+  "httpx>=0.27",
+  "networkx>=3.3",
+  "packaging>=24.1",
+  "pydantic>=2.7",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.0",
+]
+research = [
+  "matplotlib>=3.9",
+]
+
+[project.scripts]
+modpack-solver = "modpack_solver.cli:main"
+
+[project.urls]
+Repository = "https://github.com/obriend7atwit/Minecraft-Modpack-Dependency-Solver"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+addopts = "-p no:cacheprovider -m 'not stress'"
+testpaths = ["tests"]
+markers = [
+  "stress: bounded expensive solver-search tests",
+  "live_api: tests that require explicitly enabled live network access",
+]

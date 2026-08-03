@@ -1,0 +1,5 @@
+system,failure_category,case_count
+baseline,none,145
+baseline,repair_not_found,13
+weighted_default,none,158
+weighted_preservation,none,158

@@ -1,0 +1,13 @@
+case_id,initial_issue,revealed_after_first,repair_depth,weighted_actions,total_cost,states_expanded,final_status
+cascade-01-missing-chain,missing_dependency,missing_dependency,3,add_dependency,3,4,compatible
+cascade-02-add-conflict,missing_dependency,hard_conflict,2,"add_dependency, remove_mod",11,3,compatible
+cascade-03-version-dependency,minecraft_version_mismatch,missing_dependency,2,"upgrade_mod, add_dependency",5,3,compatible
+cascade-04-version-transitive,minecraft_version_mismatch,missing_dependency,4,"upgrade_mod, add_dependency",7,6,compatible
+cascade-05-global-choice,missing_dependency,,1,add_dependency,1,9,compatible
+cascade-06-shared-fan-in,missing_dependency,,1,add_dependency,1,2,compatible
+cascade-07-diamond,missing_dependency,,1,add_dependency,1,2,compatible
+cascade-08-cycle,missing_dependency,,1,add_dependency,1,2,compatible
+cascade-09-loader-choice,missing_dependency,missing_dependency,2,add_dependency,2,3,compatible
+cascade-10-conflict-alternative,minecraft_version_mismatch,missing_dependency,2,"upgrade_mod, add_dependency",5,6,compatible
+cascade-11-no-solution,missing_dependency,,0,none,N/A,3,no_solution
+cascade-12-multi-error,"duplicate_mod_version, missing_dependency, hard_conflict, minecraft_version_mismatch","duplicate_mod_version, missing_dependency, hard_conflict, minecraft_version_mismatch",5,"add_dependency, upgrade_mod, remove_mod",26,36,compatible

@@ -1,0 +1,21 @@
+{
+  "case_id": "cascade-10-conflict-alternative",
+  "checker_matches_expected": true,
+  "final_known_repair_compatible": true,
+  "fixture_exists": true,
+  "graph_builds": true,
+  "injection_log_exists": true,
+  "injection_matches_case_diff": true,
+  "known_repair_replays": true,
+  "manifest_hash_present": false,
+  "metadata_cache_exists": false,
+  "metadata_coverage_rate": 1.0,
+  "observed_issue_types": [
+    "minecraft_version_mismatch"
+  ],
+  "observed_status": "incompatible",
+  "source_family_id": "cascade-10-conflict-alternative",
+  "source_url_present": false,
+  "source_version_present": false,
+  "warnings": []
+}

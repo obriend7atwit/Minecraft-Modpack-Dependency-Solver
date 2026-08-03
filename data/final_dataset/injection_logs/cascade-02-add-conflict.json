@@ -1,0 +1,26 @@
+{
+  "case_id": "cascade-02-add-conflict",
+  "changed_mod_ids": [],
+  "description": "Adding the required library reveals its conflict with an existing selection.",
+  "ground_truth_source": "construction_or_inverse_injection",
+  "known_inverse_repair": [
+    {
+      "action_type": "add_dependency",
+      "cost": 1,
+      "reason": "Hand-constructed independent cascading repair.",
+      "target_mod_id": "conflict-b",
+      "target_version_id": "conflict-b-1.0.0",
+      "target_version_number": "1.0.0"
+    },
+    {
+      "action_type": "remove_mod",
+      "cost": 10,
+      "reason": "Hand-constructed independent cascading repair.",
+      "target_mod_id": "conflict-d",
+      "target_version_id": null,
+      "target_version_number": null
+    }
+  ],
+  "observed_solver_result": null,
+  "parent_case_id": null
+}

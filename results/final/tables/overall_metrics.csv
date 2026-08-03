@@ -1,0 +1,4 @@
+system,total_cases,repairable_cases,successful_repairs,repair_success_rate,average_preservation_rate,full_preservation_repairs,full_preservation_rate_all_expected_repairs,preserved_mod_fraction_all_expected_repairs,average_weighted_cost,average_action_count,average_removed_mods,median_runtime_ms,average_states_expanded,cascading_repair_success,optimal_plan_agreement,no_solution_correctness,explanation_completeness,dependency_chain_explanation_accuracy,cascading_step_explanation_accuracy,global_plan_reason_accuracy
+baseline,158,104,91,87.50%,94.93%,71,68.27%,94.04%,4.143,1.099,0.220,1.628,0.000,27.27%,N/A,100.00%,N/A,N/A,N/A,N/A
+weighted_default,158,104,104,100.00%,97.46%,88,84.62%,99.76%,4.327,1.212,0.154,3.601,2.658,100.00%,100.00%,100.00%,100.00%,100.00%,100.00%,100.00%
+weighted_preservation,158,104,104,100.00%,98.42%,92,88.46%,99.82%,6.654,1.288,0.115,3.683,2.658,100.00%,100.00%,100.00%,100.00%,100.00%,100.00%,100.00%

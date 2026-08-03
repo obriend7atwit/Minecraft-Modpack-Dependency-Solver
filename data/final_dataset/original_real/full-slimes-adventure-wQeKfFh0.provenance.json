@@ -1,0 +1,22 @@
+{
+  "collected_at": "2026-07-20T00:44:09.508018+00:00",
+  "collection_method": "official_modrinth_api_mrpack_manifest_only",
+  "manifest_file_count": 95,
+  "manual_review_required": true,
+  "maximum_required_depth": 4,
+  "metadata_coverage_rate": 1.0,
+  "mod_jars_downloaded": false,
+  "pack_size_category": "large",
+  "pack_title": "Slimes Adventure",
+  "project_id": "8yKzGJOG",
+  "publication_ready": false,
+  "raw_archive_retained": false,
+  "required_edge_count": 129,
+  "resolved_mod_count": 95,
+  "selected_mod_count": 95,
+  "slug": "slimes-adventure",
+  "source_manifest_sha256": "d47309a996eb9f22d27b070c957c72793a80771e43c5d7b6744be7ac0d1d8e77",
+  "source_url": "https://modrinth.com/modpack/slimes-adventure/version/wQeKfFh0",
+  "unresolved_mod_count": 0,
+  "version_id": "wQeKfFh0"
+}

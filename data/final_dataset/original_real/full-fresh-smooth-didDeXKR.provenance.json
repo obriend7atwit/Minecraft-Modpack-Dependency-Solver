@@ -1,0 +1,22 @@
+{
+  "collected_at": "2026-07-20T00:44:22.502997+00:00",
+  "collection_method": "official_modrinth_api_mrpack_manifest_only",
+  "manifest_file_count": 117,
+  "manual_review_required": true,
+  "maximum_required_depth": 3,
+  "metadata_coverage_rate": 1.0,
+  "mod_jars_downloaded": false,
+  "pack_size_category": "large",
+  "pack_title": "Fresh & Smooth",
+  "project_id": "ICQPO4fX",
+  "publication_ready": false,
+  "raw_archive_retained": false,
+  "required_edge_count": 109,
+  "resolved_mod_count": 117,
+  "selected_mod_count": 117,
+  "slug": "fresh-smooth",
+  "source_manifest_sha256": "7fe8bc586a7eb43b5893346194fb41321373e5c32d85682392334815c031c1c2",
+  "source_url": "https://modrinth.com/modpack/fresh-smooth/version/didDeXKR",
+  "unresolved_mod_count": 0,
+  "version_id": "didDeXKR"
+}

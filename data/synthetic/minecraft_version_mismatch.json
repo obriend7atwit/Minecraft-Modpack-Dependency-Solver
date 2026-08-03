@@ -1,0 +1,30 @@
+{
+  "config": {
+    "minecraft_version": "1.20.1",
+    "loader": "fabric",
+    "selected_mods": [
+      {
+        "mod_id": "example-storage",
+        "version_id": "example-storage-1.0.0"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "mod_id": "example-storage",
+      "name": "Example Storage",
+      "slug": "example-storage",
+      "source": "synthetic"
+    }
+  ],
+  "versions": [
+    {
+      "version_id": "example-storage-1.0.0",
+      "mod_id": "example-storage",
+      "version_number": "1.0.0",
+      "game_versions": ["1.19.4"],
+      "loaders": ["fabric"],
+      "version_type": "release"
+    }
+  ]
+}

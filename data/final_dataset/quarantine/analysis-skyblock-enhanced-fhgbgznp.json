@@ -1,0 +1,27 @@
+{
+  "analysis_status": "excluded_pending_metadata_review",
+  "checker_errors": [
+    {
+      "affected_mod_ids": [
+        "byNkmv5G",
+        "1A2mKfBx"
+      ],
+      "issue_type": "unknown_dependency_target",
+      "message": "Selected version 'byNkmv5G@7.34.0' has a required dependency target '1A2mKfBx' that is not available in current metadata."
+    },
+    {
+      "affected_mod_ids": [
+        "byNkmv5G",
+        "1A2mKfBx"
+      ],
+      "issue_type": "missing_dependency",
+      "message": "Selected version 'byNkmv5G@7.34.0' requires '1A2mKfBx', but it is not selected."
+    }
+  ],
+  "collection_status": "collected",
+  "normalized_case_path": "data\\final_dataset\\original_real\\full-skyblock-enhanced-fhgbGZNp.json",
+  "reason": "The normalized source manifest produces checker errors and cannot serve as an unchanged compatible control without manual adjudication.",
+  "slug": "skyblock-enhanced",
+  "source_url": "https://modrinth.com/modpack/skyblock-enhanced/version/fhgbGZNp",
+  "version_id": "fhgbGZNp"
+}

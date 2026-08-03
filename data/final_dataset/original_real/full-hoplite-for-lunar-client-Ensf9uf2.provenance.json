@@ -1,0 +1,22 @@
+{
+  "collected_at": "2026-07-20T00:44:20.889376+00:00",
+  "collection_method": "official_modrinth_api_mrpack_manifest_only",
+  "manifest_file_count": 13,
+  "manual_review_required": true,
+  "maximum_required_depth": 1,
+  "metadata_coverage_rate": 1.0,
+  "mod_jars_downloaded": false,
+  "pack_size_category": "small",
+  "pack_title": "Hoplite for Lunar Client",
+  "project_id": "oVn5uNcU",
+  "publication_ready": false,
+  "raw_archive_retained": false,
+  "required_edge_count": 6,
+  "resolved_mod_count": 13,
+  "selected_mod_count": 13,
+  "slug": "hoplite-for-lunar-client",
+  "source_manifest_sha256": "8a33c3f26e82c6cf25bb39f5d29428f09c50a6cc1be9ba2ce072bf4798604d80",
+  "source_url": "https://modrinth.com/modpack/hoplite-for-lunar-client/version/Ensf9uf2",
+  "unresolved_mod_count": 0,
+  "version_id": "Ensf9uf2"
+}

@@ -1,0 +1,4256 @@
+{
+  "config": {
+    "loader": "fabric",
+    "minecraft_version": "1.20.1",
+    "selected_mods": [
+      {
+        "mod_id": "dense-medium-layered_dag-mod-000",
+        "version_id": "dense-medium-layered_dag-mod-000-v0-incompatible",
+        "version_number": "0.1.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-001",
+        "version_id": "dense-medium-layered_dag-mod-001-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-002",
+        "version_id": "dense-medium-layered_dag-mod-002-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-003",
+        "version_id": "dense-medium-layered_dag-mod-003-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-004",
+        "version_id": "dense-medium-layered_dag-mod-004-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-005",
+        "version_id": "dense-medium-layered_dag-mod-005-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-006",
+        "version_id": "dense-medium-layered_dag-mod-006-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-007",
+        "version_id": "dense-medium-layered_dag-mod-007-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-008",
+        "version_id": "dense-medium-layered_dag-mod-008-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-009",
+        "version_id": "dense-medium-layered_dag-mod-009-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-010",
+        "version_id": "dense-medium-layered_dag-mod-010-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-011",
+        "version_id": "dense-medium-layered_dag-mod-011-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-012",
+        "version_id": "dense-medium-layered_dag-mod-012-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-013",
+        "version_id": "dense-medium-layered_dag-mod-013-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-014",
+        "version_id": "dense-medium-layered_dag-mod-014-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-015",
+        "version_id": "dense-medium-layered_dag-mod-015-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-016",
+        "version_id": "dense-medium-layered_dag-mod-016-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-017",
+        "version_id": "dense-medium-layered_dag-mod-017-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-018",
+        "version_id": "dense-medium-layered_dag-mod-018-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-019",
+        "version_id": "dense-medium-layered_dag-mod-019-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-020",
+        "version_id": "dense-medium-layered_dag-mod-020-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-021",
+        "version_id": "dense-medium-layered_dag-mod-021-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-022",
+        "version_id": "dense-medium-layered_dag-mod-022-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-023",
+        "version_id": "dense-medium-layered_dag-mod-023-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-024",
+        "version_id": "dense-medium-layered_dag-mod-024-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-025",
+        "version_id": "dense-medium-layered_dag-mod-025-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-026",
+        "version_id": "dense-medium-layered_dag-mod-026-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-027",
+        "version_id": "dense-medium-layered_dag-mod-027-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-028",
+        "version_id": "dense-medium-layered_dag-mod-028-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-029",
+        "version_id": "dense-medium-layered_dag-mod-029-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-030",
+        "version_id": "dense-medium-layered_dag-mod-030-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-031",
+        "version_id": "dense-medium-layered_dag-mod-031-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-032",
+        "version_id": "dense-medium-layered_dag-mod-032-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-033",
+        "version_id": "dense-medium-layered_dag-mod-033-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-034",
+        "version_id": "dense-medium-layered_dag-mod-034-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-035",
+        "version_id": "dense-medium-layered_dag-mod-035-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-036",
+        "version_id": "dense-medium-layered_dag-mod-036-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-037",
+        "version_id": "dense-medium-layered_dag-mod-037-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-038",
+        "version_id": "dense-medium-layered_dag-mod-038-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-039",
+        "version_id": "dense-medium-layered_dag-mod-039-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-040",
+        "version_id": "dense-medium-layered_dag-mod-040-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-041",
+        "version_id": "dense-medium-layered_dag-mod-041-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-042",
+        "version_id": "dense-medium-layered_dag-mod-042-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-043",
+        "version_id": "dense-medium-layered_dag-mod-043-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-044",
+        "version_id": "dense-medium-layered_dag-mod-044-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-045",
+        "version_id": "dense-medium-layered_dag-mod-045-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-046",
+        "version_id": "dense-medium-layered_dag-mod-046-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-047",
+        "version_id": "dense-medium-layered_dag-mod-047-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-048",
+        "version_id": "dense-medium-layered_dag-mod-048-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-049",
+        "version_id": "dense-medium-layered_dag-mod-049-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-050",
+        "version_id": "dense-medium-layered_dag-mod-050-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-051",
+        "version_id": "dense-medium-layered_dag-mod-051-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-052",
+        "version_id": "dense-medium-layered_dag-mod-052-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-053",
+        "version_id": "dense-medium-layered_dag-mod-053-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-054",
+        "version_id": "dense-medium-layered_dag-mod-054-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-055",
+        "version_id": "dense-medium-layered_dag-mod-055-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-056",
+        "version_id": "dense-medium-layered_dag-mod-056-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-057",
+        "version_id": "dense-medium-layered_dag-mod-057-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-058",
+        "version_id": "dense-medium-layered_dag-mod-058-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-059",
+        "version_id": "dense-medium-layered_dag-mod-059-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-060",
+        "version_id": "dense-medium-layered_dag-mod-060-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-061",
+        "version_id": "dense-medium-layered_dag-mod-061-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-062",
+        "version_id": "dense-medium-layered_dag-mod-062-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-063",
+        "version_id": "dense-medium-layered_dag-mod-063-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-064",
+        "version_id": "dense-medium-layered_dag-mod-064-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-065",
+        "version_id": "dense-medium-layered_dag-mod-065-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-066",
+        "version_id": "dense-medium-layered_dag-mod-066-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-067",
+        "version_id": "dense-medium-layered_dag-mod-067-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-068",
+        "version_id": "dense-medium-layered_dag-mod-068-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-069",
+        "version_id": "dense-medium-layered_dag-mod-069-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-070",
+        "version_id": "dense-medium-layered_dag-mod-070-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-071",
+        "version_id": "dense-medium-layered_dag-mod-071-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-072",
+        "version_id": "dense-medium-layered_dag-mod-072-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-073",
+        "version_id": "dense-medium-layered_dag-mod-073-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-074",
+        "version_id": "dense-medium-layered_dag-mod-074-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-075",
+        "version_id": "dense-medium-layered_dag-mod-075-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-076",
+        "version_id": "dense-medium-layered_dag-mod-076-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-077",
+        "version_id": "dense-medium-layered_dag-mod-077-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-078",
+        "version_id": "dense-medium-layered_dag-mod-078-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "dense-medium-layered_dag-mod-079",
+        "version_id": "dense-medium-layered_dag-mod-079-v1",
+        "version_number": "1.0.0"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-000",
+      "name": "Dense Medium Layered_Dag Mod 000",
+      "slug": "dense-medium-layered_dag-mod-000",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-001",
+      "name": "Dense Medium Layered_Dag Mod 001",
+      "slug": "dense-medium-layered_dag-mod-001",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-002",
+      "name": "Dense Medium Layered_Dag Mod 002",
+      "slug": "dense-medium-layered_dag-mod-002",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-003",
+      "name": "Dense Medium Layered_Dag Mod 003",
+      "slug": "dense-medium-layered_dag-mod-003",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-004",
+      "name": "Dense Medium Layered_Dag Mod 004",
+      "slug": "dense-medium-layered_dag-mod-004",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-005",
+      "name": "Dense Medium Layered_Dag Mod 005",
+      "slug": "dense-medium-layered_dag-mod-005",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-006",
+      "name": "Dense Medium Layered_Dag Mod 006",
+      "slug": "dense-medium-layered_dag-mod-006",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-007",
+      "name": "Dense Medium Layered_Dag Mod 007",
+      "slug": "dense-medium-layered_dag-mod-007",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-008",
+      "name": "Dense Medium Layered_Dag Mod 008",
+      "slug": "dense-medium-layered_dag-mod-008",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-009",
+      "name": "Dense Medium Layered_Dag Mod 009",
+      "slug": "dense-medium-layered_dag-mod-009",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-010",
+      "name": "Dense Medium Layered_Dag Mod 010",
+      "slug": "dense-medium-layered_dag-mod-010",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-011",
+      "name": "Dense Medium Layered_Dag Mod 011",
+      "slug": "dense-medium-layered_dag-mod-011",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-012",
+      "name": "Dense Medium Layered_Dag Mod 012",
+      "slug": "dense-medium-layered_dag-mod-012",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-013",
+      "name": "Dense Medium Layered_Dag Mod 013",
+      "slug": "dense-medium-layered_dag-mod-013",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-014",
+      "name": "Dense Medium Layered_Dag Mod 014",
+      "slug": "dense-medium-layered_dag-mod-014",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-015",
+      "name": "Dense Medium Layered_Dag Mod 015",
+      "slug": "dense-medium-layered_dag-mod-015",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-016",
+      "name": "Dense Medium Layered_Dag Mod 016",
+      "slug": "dense-medium-layered_dag-mod-016",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-017",
+      "name": "Dense Medium Layered_Dag Mod 017",
+      "slug": "dense-medium-layered_dag-mod-017",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-018",
+      "name": "Dense Medium Layered_Dag Mod 018",
+      "slug": "dense-medium-layered_dag-mod-018",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-019",
+      "name": "Dense Medium Layered_Dag Mod 019",
+      "slug": "dense-medium-layered_dag-mod-019",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-020",
+      "name": "Dense Medium Layered_Dag Mod 020",
+      "slug": "dense-medium-layered_dag-mod-020",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-021",
+      "name": "Dense Medium Layered_Dag Mod 021",
+      "slug": "dense-medium-layered_dag-mod-021",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-022",
+      "name": "Dense Medium Layered_Dag Mod 022",
+      "slug": "dense-medium-layered_dag-mod-022",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-023",
+      "name": "Dense Medium Layered_Dag Mod 023",
+      "slug": "dense-medium-layered_dag-mod-023",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-024",
+      "name": "Dense Medium Layered_Dag Mod 024",
+      "slug": "dense-medium-layered_dag-mod-024",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-025",
+      "name": "Dense Medium Layered_Dag Mod 025",
+      "slug": "dense-medium-layered_dag-mod-025",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-026",
+      "name": "Dense Medium Layered_Dag Mod 026",
+      "slug": "dense-medium-layered_dag-mod-026",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-027",
+      "name": "Dense Medium Layered_Dag Mod 027",
+      "slug": "dense-medium-layered_dag-mod-027",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-028",
+      "name": "Dense Medium Layered_Dag Mod 028",
+      "slug": "dense-medium-layered_dag-mod-028",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-029",
+      "name": "Dense Medium Layered_Dag Mod 029",
+      "slug": "dense-medium-layered_dag-mod-029",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-030",
+      "name": "Dense Medium Layered_Dag Mod 030",
+      "slug": "dense-medium-layered_dag-mod-030",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-031",
+      "name": "Dense Medium Layered_Dag Mod 031",
+      "slug": "dense-medium-layered_dag-mod-031",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-032",
+      "name": "Dense Medium Layered_Dag Mod 032",
+      "slug": "dense-medium-layered_dag-mod-032",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-033",
+      "name": "Dense Medium Layered_Dag Mod 033",
+      "slug": "dense-medium-layered_dag-mod-033",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-034",
+      "name": "Dense Medium Layered_Dag Mod 034",
+      "slug": "dense-medium-layered_dag-mod-034",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-035",
+      "name": "Dense Medium Layered_Dag Mod 035",
+      "slug": "dense-medium-layered_dag-mod-035",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-036",
+      "name": "Dense Medium Layered_Dag Mod 036",
+      "slug": "dense-medium-layered_dag-mod-036",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-037",
+      "name": "Dense Medium Layered_Dag Mod 037",
+      "slug": "dense-medium-layered_dag-mod-037",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-038",
+      "name": "Dense Medium Layered_Dag Mod 038",
+      "slug": "dense-medium-layered_dag-mod-038",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-039",
+      "name": "Dense Medium Layered_Dag Mod 039",
+      "slug": "dense-medium-layered_dag-mod-039",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-040",
+      "name": "Dense Medium Layered_Dag Mod 040",
+      "slug": "dense-medium-layered_dag-mod-040",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-041",
+      "name": "Dense Medium Layered_Dag Mod 041",
+      "slug": "dense-medium-layered_dag-mod-041",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-042",
+      "name": "Dense Medium Layered_Dag Mod 042",
+      "slug": "dense-medium-layered_dag-mod-042",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-043",
+      "name": "Dense Medium Layered_Dag Mod 043",
+      "slug": "dense-medium-layered_dag-mod-043",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-044",
+      "name": "Dense Medium Layered_Dag Mod 044",
+      "slug": "dense-medium-layered_dag-mod-044",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-045",
+      "name": "Dense Medium Layered_Dag Mod 045",
+      "slug": "dense-medium-layered_dag-mod-045",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-046",
+      "name": "Dense Medium Layered_Dag Mod 046",
+      "slug": "dense-medium-layered_dag-mod-046",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-047",
+      "name": "Dense Medium Layered_Dag Mod 047",
+      "slug": "dense-medium-layered_dag-mod-047",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-048",
+      "name": "Dense Medium Layered_Dag Mod 048",
+      "slug": "dense-medium-layered_dag-mod-048",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-049",
+      "name": "Dense Medium Layered_Dag Mod 049",
+      "slug": "dense-medium-layered_dag-mod-049",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-050",
+      "name": "Dense Medium Layered_Dag Mod 050",
+      "slug": "dense-medium-layered_dag-mod-050",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-051",
+      "name": "Dense Medium Layered_Dag Mod 051",
+      "slug": "dense-medium-layered_dag-mod-051",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-052",
+      "name": "Dense Medium Layered_Dag Mod 052",
+      "slug": "dense-medium-layered_dag-mod-052",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-053",
+      "name": "Dense Medium Layered_Dag Mod 053",
+      "slug": "dense-medium-layered_dag-mod-053",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-054",
+      "name": "Dense Medium Layered_Dag Mod 054",
+      "slug": "dense-medium-layered_dag-mod-054",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-055",
+      "name": "Dense Medium Layered_Dag Mod 055",
+      "slug": "dense-medium-layered_dag-mod-055",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-056",
+      "name": "Dense Medium Layered_Dag Mod 056",
+      "slug": "dense-medium-layered_dag-mod-056",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-057",
+      "name": "Dense Medium Layered_Dag Mod 057",
+      "slug": "dense-medium-layered_dag-mod-057",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-058",
+      "name": "Dense Medium Layered_Dag Mod 058",
+      "slug": "dense-medium-layered_dag-mod-058",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-059",
+      "name": "Dense Medium Layered_Dag Mod 059",
+      "slug": "dense-medium-layered_dag-mod-059",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-060",
+      "name": "Dense Medium Layered_Dag Mod 060",
+      "slug": "dense-medium-layered_dag-mod-060",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-061",
+      "name": "Dense Medium Layered_Dag Mod 061",
+      "slug": "dense-medium-layered_dag-mod-061",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-062",
+      "name": "Dense Medium Layered_Dag Mod 062",
+      "slug": "dense-medium-layered_dag-mod-062",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-063",
+      "name": "Dense Medium Layered_Dag Mod 063",
+      "slug": "dense-medium-layered_dag-mod-063",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-064",
+      "name": "Dense Medium Layered_Dag Mod 064",
+      "slug": "dense-medium-layered_dag-mod-064",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-065",
+      "name": "Dense Medium Layered_Dag Mod 065",
+      "slug": "dense-medium-layered_dag-mod-065",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-066",
+      "name": "Dense Medium Layered_Dag Mod 066",
+      "slug": "dense-medium-layered_dag-mod-066",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-067",
+      "name": "Dense Medium Layered_Dag Mod 067",
+      "slug": "dense-medium-layered_dag-mod-067",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-068",
+      "name": "Dense Medium Layered_Dag Mod 068",
+      "slug": "dense-medium-layered_dag-mod-068",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-069",
+      "name": "Dense Medium Layered_Dag Mod 069",
+      "slug": "dense-medium-layered_dag-mod-069",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-070",
+      "name": "Dense Medium Layered_Dag Mod 070",
+      "slug": "dense-medium-layered_dag-mod-070",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-071",
+      "name": "Dense Medium Layered_Dag Mod 071",
+      "slug": "dense-medium-layered_dag-mod-071",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-072",
+      "name": "Dense Medium Layered_Dag Mod 072",
+      "slug": "dense-medium-layered_dag-mod-072",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-073",
+      "name": "Dense Medium Layered_Dag Mod 073",
+      "slug": "dense-medium-layered_dag-mod-073",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-074",
+      "name": "Dense Medium Layered_Dag Mod 074",
+      "slug": "dense-medium-layered_dag-mod-074",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-075",
+      "name": "Dense Medium Layered_Dag Mod 075",
+      "slug": "dense-medium-layered_dag-mod-075",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-076",
+      "name": "Dense Medium Layered_Dag Mod 076",
+      "slug": "dense-medium-layered_dag-mod-076",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-077",
+      "name": "Dense Medium Layered_Dag Mod 077",
+      "slug": "dense-medium-layered_dag-mod-077",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-078",
+      "name": "Dense Medium Layered_Dag Mod 078",
+      "slug": "dense-medium-layered_dag-mod-078",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-mod-079",
+      "name": "Dense Medium Layered_Dag Mod 079",
+      "slug": "dense-medium-layered_dag-mod-079",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-unselected-conflict-000",
+      "name": "Unselected Conflict Target 000",
+      "slug": null,
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "dense-medium-layered_dag-unselected-conflict-001",
+      "name": "Unselected Conflict Target 001",
+      "slug": null,
+      "source": "synthetic"
+    }
+  ],
+  "versions": [
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-001",
+          "target_version_id": "dense-medium-layered_dag-mod-001-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-010",
+          "target_version_id": "dense-medium-layered_dag-mod-010-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-019",
+          "target_version_id": "dense-medium-layered_dag-mod-019-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-028",
+          "target_version_id": "dense-medium-layered_dag-mod-028-v1"
+        },
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-074",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "incompatible",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-unselected-conflict-000",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-000",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-000-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-002",
+          "target_version_id": "dense-medium-layered_dag-mod-002-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-011",
+          "target_version_id": "dense-medium-layered_dag-mod-011-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-020",
+          "target_version_id": "dense-medium-layered_dag-mod-020-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-029",
+          "target_version_id": "dense-medium-layered_dag-mod-029-v1"
+        },
+        {
+          "dependency_type": "incompatible",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-unselected-conflict-001",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-001",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-001-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-003",
+          "target_version_id": "dense-medium-layered_dag-mod-003-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-012",
+          "target_version_id": "dense-medium-layered_dag-mod-012-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-021",
+          "target_version_id": "dense-medium-layered_dag-mod-021-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-030",
+          "target_version_id": "dense-medium-layered_dag-mod-030-v1"
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-002",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-002-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-004",
+          "target_version_id": "dense-medium-layered_dag-mod-004-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-013",
+          "target_version_id": "dense-medium-layered_dag-mod-013-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-022",
+          "target_version_id": "dense-medium-layered_dag-mod-022-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-031",
+          "target_version_id": "dense-medium-layered_dag-mod-031-v1"
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-003",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-003-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-005",
+          "target_version_id": "dense-medium-layered_dag-mod-005-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-014",
+          "target_version_id": "dense-medium-layered_dag-mod-014-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-023",
+          "target_version_id": "dense-medium-layered_dag-mod-023-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-032",
+          "target_version_id": "dense-medium-layered_dag-mod-032-v1"
+        },
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-038",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-004",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-004-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-006",
+          "target_version_id": "dense-medium-layered_dag-mod-006-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-015",
+          "target_version_id": "dense-medium-layered_dag-mod-015-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-024",
+          "target_version_id": "dense-medium-layered_dag-mod-024-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-033",
+          "target_version_id": "dense-medium-layered_dag-mod-033-v1"
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-005",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-005-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-007",
+          "target_version_id": "dense-medium-layered_dag-mod-007-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-016",
+          "target_version_id": "dense-medium-layered_dag-mod-016-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-025",
+          "target_version_id": "dense-medium-layered_dag-mod-025-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-034",
+          "target_version_id": "dense-medium-layered_dag-mod-034-v1"
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-006",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-006-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-008",
+          "target_version_id": "dense-medium-layered_dag-mod-008-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-017",
+          "target_version_id": "dense-medium-layered_dag-mod-017-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-026",
+          "target_version_id": "dense-medium-layered_dag-mod-026-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-035",
+          "target_version_id": "dense-medium-layered_dag-mod-035-v1"
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-007",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-007-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-008",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-008-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-010",
+          "target_version_id": "dense-medium-layered_dag-mod-010-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-019",
+          "target_version_id": "dense-medium-layered_dag-mod-019-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-028",
+          "target_version_id": "dense-medium-layered_dag-mod-028-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-037",
+          "target_version_id": "dense-medium-layered_dag-mod-037-v1"
+        },
+        {
+          "dependency_type": "embedded",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-056",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-009",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-009-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-011",
+          "target_version_id": "dense-medium-layered_dag-mod-011-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-020",
+          "target_version_id": "dense-medium-layered_dag-mod-020-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-029",
+          "target_version_id": "dense-medium-layered_dag-mod-029-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-038",
+          "target_version_id": "dense-medium-layered_dag-mod-038-v1"
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-010",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-010-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-012",
+          "target_version_id": "dense-medium-layered_dag-mod-012-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-021",
+          "target_version_id": "dense-medium-layered_dag-mod-021-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-030",
+          "target_version_id": "dense-medium-layered_dag-mod-030-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-039",
+          "target_version_id": "dense-medium-layered_dag-mod-039-v1"
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-011",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-011-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-013",
+          "target_version_id": "dense-medium-layered_dag-mod-013-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-022",
+          "target_version_id": "dense-medium-layered_dag-mod-022-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-031",
+          "target_version_id": "dense-medium-layered_dag-mod-031-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-040",
+          "target_version_id": "dense-medium-layered_dag-mod-040-v1"
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-012",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-012-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-014",
+          "target_version_id": "dense-medium-layered_dag-mod-014-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-023",
+          "target_version_id": "dense-medium-layered_dag-mod-023-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-032",
+          "target_version_id": "dense-medium-layered_dag-mod-032-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-041",
+          "target_version_id": "dense-medium-layered_dag-mod-041-v1"
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-013",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-013-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-015",
+          "target_version_id": "dense-medium-layered_dag-mod-015-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-024",
+          "target_version_id": "dense-medium-layered_dag-mod-024-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-033",
+          "target_version_id": "dense-medium-layered_dag-mod-033-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-042",
+          "target_version_id": "dense-medium-layered_dag-mod-042-v1"
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-014",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-014-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-016",
+          "target_version_id": "dense-medium-layered_dag-mod-016-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-025",
+          "target_version_id": "dense-medium-layered_dag-mod-025-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-034",
+          "target_version_id": "dense-medium-layered_dag-mod-034-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-043",
+          "target_version_id": "dense-medium-layered_dag-mod-043-v1"
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-015",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-015-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-017",
+          "target_version_id": "dense-medium-layered_dag-mod-017-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-026",
+          "target_version_id": "dense-medium-layered_dag-mod-026-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-035",
+          "target_version_id": "dense-medium-layered_dag-mod-035-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-044",
+          "target_version_id": "dense-medium-layered_dag-mod-044-v1"
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-016",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-016-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-017",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-017-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-019",
+          "target_version_id": "dense-medium-layered_dag-mod-019-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-028",
+          "target_version_id": "dense-medium-layered_dag-mod-028-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-037",
+          "target_version_id": "dense-medium-layered_dag-mod-037-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-046",
+          "target_version_id": "dense-medium-layered_dag-mod-046-v1"
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-018",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-018-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-020",
+          "target_version_id": "dense-medium-layered_dag-mod-020-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-029",
+          "target_version_id": "dense-medium-layered_dag-mod-029-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-038",
+          "target_version_id": "dense-medium-layered_dag-mod-038-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-047",
+          "target_version_id": "dense-medium-layered_dag-mod-047-v1"
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-019",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-019-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-021",
+          "target_version_id": "dense-medium-layered_dag-mod-021-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-030",
+          "target_version_id": "dense-medium-layered_dag-mod-030-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-039",
+          "target_version_id": "dense-medium-layered_dag-mod-039-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-048",
+          "target_version_id": "dense-medium-layered_dag-mod-048-v1"
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-020",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-020-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-022",
+          "target_version_id": "dense-medium-layered_dag-mod-022-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-031",
+          "target_version_id": "dense-medium-layered_dag-mod-031-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-040",
+          "target_version_id": "dense-medium-layered_dag-mod-040-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-049",
+          "target_version_id": "dense-medium-layered_dag-mod-049-v1"
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-021",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-021-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-023",
+          "target_version_id": "dense-medium-layered_dag-mod-023-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-032",
+          "target_version_id": "dense-medium-layered_dag-mod-032-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-041",
+          "target_version_id": "dense-medium-layered_dag-mod-041-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-050",
+          "target_version_id": "dense-medium-layered_dag-mod-050-v1"
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-022",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-022-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-024",
+          "target_version_id": "dense-medium-layered_dag-mod-024-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-033",
+          "target_version_id": "dense-medium-layered_dag-mod-033-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-042",
+          "target_version_id": "dense-medium-layered_dag-mod-042-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-051",
+          "target_version_id": "dense-medium-layered_dag-mod-051-v1"
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-023",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-023-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-025",
+          "target_version_id": "dense-medium-layered_dag-mod-025-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-034",
+          "target_version_id": "dense-medium-layered_dag-mod-034-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-043",
+          "target_version_id": "dense-medium-layered_dag-mod-043-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-052",
+          "target_version_id": "dense-medium-layered_dag-mod-052-v1"
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-024",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-024-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-026",
+          "target_version_id": "dense-medium-layered_dag-mod-026-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-035",
+          "target_version_id": "dense-medium-layered_dag-mod-035-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-044",
+          "target_version_id": "dense-medium-layered_dag-mod-044-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-053",
+          "target_version_id": "dense-medium-layered_dag-mod-053-v1"
+        },
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-017",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-025",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-025-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-026",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-026-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-028",
+          "target_version_id": "dense-medium-layered_dag-mod-028-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-037",
+          "target_version_id": "dense-medium-layered_dag-mod-037-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-046",
+          "target_version_id": "dense-medium-layered_dag-mod-046-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-055",
+          "target_version_id": "dense-medium-layered_dag-mod-055-v1"
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-027",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-027-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-029",
+          "target_version_id": "dense-medium-layered_dag-mod-029-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-038",
+          "target_version_id": "dense-medium-layered_dag-mod-038-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-047",
+          "target_version_id": "dense-medium-layered_dag-mod-047-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-056",
+          "target_version_id": "dense-medium-layered_dag-mod-056-v1"
+        },
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-040",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-028",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-028-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-030",
+          "target_version_id": "dense-medium-layered_dag-mod-030-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-039",
+          "target_version_id": "dense-medium-layered_dag-mod-039-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-048",
+          "target_version_id": "dense-medium-layered_dag-mod-048-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-057",
+          "target_version_id": "dense-medium-layered_dag-mod-057-v1"
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-029",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-029-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-031",
+          "target_version_id": "dense-medium-layered_dag-mod-031-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-040",
+          "target_version_id": "dense-medium-layered_dag-mod-040-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-049",
+          "target_version_id": "dense-medium-layered_dag-mod-049-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-058",
+          "target_version_id": "dense-medium-layered_dag-mod-058-v1"
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-030",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-030-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-032",
+          "target_version_id": "dense-medium-layered_dag-mod-032-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-041",
+          "target_version_id": "dense-medium-layered_dag-mod-041-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-050",
+          "target_version_id": "dense-medium-layered_dag-mod-050-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-059",
+          "target_version_id": "dense-medium-layered_dag-mod-059-v1"
+        },
+        {
+          "dependency_type": "embedded",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-058",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-031",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-031-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-033",
+          "target_version_id": "dense-medium-layered_dag-mod-033-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-042",
+          "target_version_id": "dense-medium-layered_dag-mod-042-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-051",
+          "target_version_id": "dense-medium-layered_dag-mod-051-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-060",
+          "target_version_id": "dense-medium-layered_dag-mod-060-v1"
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-032",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-032-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-034",
+          "target_version_id": "dense-medium-layered_dag-mod-034-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-043",
+          "target_version_id": "dense-medium-layered_dag-mod-043-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-052",
+          "target_version_id": "dense-medium-layered_dag-mod-052-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-061",
+          "target_version_id": "dense-medium-layered_dag-mod-061-v1"
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-033",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-033-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-035",
+          "target_version_id": "dense-medium-layered_dag-mod-035-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-044",
+          "target_version_id": "dense-medium-layered_dag-mod-044-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-053",
+          "target_version_id": "dense-medium-layered_dag-mod-053-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-062",
+          "target_version_id": "dense-medium-layered_dag-mod-062-v1"
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-034",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-034-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-035",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-035-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-037",
+          "target_version_id": "dense-medium-layered_dag-mod-037-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-046",
+          "target_version_id": "dense-medium-layered_dag-mod-046-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-055",
+          "target_version_id": "dense-medium-layered_dag-mod-055-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-064",
+          "target_version_id": "dense-medium-layered_dag-mod-064-v1"
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-036",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-036-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-038",
+          "target_version_id": "dense-medium-layered_dag-mod-038-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-047",
+          "target_version_id": "dense-medium-layered_dag-mod-047-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-056",
+          "target_version_id": "dense-medium-layered_dag-mod-056-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-065",
+          "target_version_id": "dense-medium-layered_dag-mod-065-v1"
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-037",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-037-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-039",
+          "target_version_id": "dense-medium-layered_dag-mod-039-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-048",
+          "target_version_id": "dense-medium-layered_dag-mod-048-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-057",
+          "target_version_id": "dense-medium-layered_dag-mod-057-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-066",
+          "target_version_id": "dense-medium-layered_dag-mod-066-v1"
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-038",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-038-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-039",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-039-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-040",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-040-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-041",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-041-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-042",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-042-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-043",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-043-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-044",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-044-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-045",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-045-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-046",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-046-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-047",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-047-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-023",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-048",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-048-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-049",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-049-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-050",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-050-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-051",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-051-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-052",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-052-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-053",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-053-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-054",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-054-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-055",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-055-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-056",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-056-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-057",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-057-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-058",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-058-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-059",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-059-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-060",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-060-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-061",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-061-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-062",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-062-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-063",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-063-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-064",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-064-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-065",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-065-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-066",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-066-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-067",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-067-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-068",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-068-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-069",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-069-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-070",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-070-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-071",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-071-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-072",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-072-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-073",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-073-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-074",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-074-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-075",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-075-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-043",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-076",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-076-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-064",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-077",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-077-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-078",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-078-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-079",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-079-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-unselected-conflict-000",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-unselected-conflict-000-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-unselected-conflict-001",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-unselected-conflict-001-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-024",
+          "target_version_id": "dense-medium-layered_dag-mod-024-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-033",
+          "target_version_id": "dense-medium-layered_dag-mod-033-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-042",
+          "target_version_id": "dense-medium-layered_dag-mod-042-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-051",
+          "target_version_id": "dense-medium-layered_dag-mod-051-v1"
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-023",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-023-v2",
+      "version_number": "2.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-024",
+          "target_version_id": "dense-medium-layered_dag-mod-024-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-033",
+          "target_version_id": "dense-medium-layered_dag-mod-033-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-042",
+          "target_version_id": "dense-medium-layered_dag-mod-042-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-051",
+          "target_version_id": "dense-medium-layered_dag-mod-051-v1"
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-023",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-023-v3",
+      "version_number": "3.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-024",
+          "target_version_id": "dense-medium-layered_dag-mod-024-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-033",
+          "target_version_id": "dense-medium-layered_dag-mod-033-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-042",
+          "target_version_id": "dense-medium-layered_dag-mod-042-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-051",
+          "target_version_id": "dense-medium-layered_dag-mod-051-v1"
+        },
+        {
+          "dependency_type": "incompatible",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-024",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-023",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-023-v4",
+      "version_number": "4.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-029",
+          "target_version_id": "dense-medium-layered_dag-mod-029-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-038",
+          "target_version_id": "dense-medium-layered_dag-mod-038-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-047",
+          "target_version_id": "dense-medium-layered_dag-mod-047-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-056",
+          "target_version_id": "dense-medium-layered_dag-mod-056-v1"
+        },
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-040",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-028",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-028-v2",
+      "version_number": "2.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-029",
+          "target_version_id": "dense-medium-layered_dag-mod-029-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-038",
+          "target_version_id": "dense-medium-layered_dag-mod-038-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-047",
+          "target_version_id": "dense-medium-layered_dag-mod-047-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-056",
+          "target_version_id": "dense-medium-layered_dag-mod-056-v1"
+        },
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-040",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-028",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-028-v3",
+      "version_number": "3.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-029",
+          "target_version_id": "dense-medium-layered_dag-mod-029-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-038",
+          "target_version_id": "dense-medium-layered_dag-mod-038-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-047",
+          "target_version_id": "dense-medium-layered_dag-mod-047-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-056",
+          "target_version_id": "dense-medium-layered_dag-mod-056-v1"
+        },
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-040",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "incompatible",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-029",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-028",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-028-v4",
+      "version_number": "4.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-033",
+          "target_version_id": "dense-medium-layered_dag-mod-033-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-042",
+          "target_version_id": "dense-medium-layered_dag-mod-042-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-051",
+          "target_version_id": "dense-medium-layered_dag-mod-051-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-060",
+          "target_version_id": "dense-medium-layered_dag-mod-060-v1"
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-032",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-032-v2",
+      "version_number": "2.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-033",
+          "target_version_id": "dense-medium-layered_dag-mod-033-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-042",
+          "target_version_id": "dense-medium-layered_dag-mod-042-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-051",
+          "target_version_id": "dense-medium-layered_dag-mod-051-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-060",
+          "target_version_id": "dense-medium-layered_dag-mod-060-v1"
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-032",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-032-v3",
+      "version_number": "3.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-033",
+          "target_version_id": "dense-medium-layered_dag-mod-033-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-042",
+          "target_version_id": "dense-medium-layered_dag-mod-042-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-051",
+          "target_version_id": "dense-medium-layered_dag-mod-051-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-060",
+          "target_version_id": "dense-medium-layered_dag-mod-060-v1"
+        },
+        {
+          "dependency_type": "incompatible",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-033",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-032",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-032-v4",
+      "version_number": "4.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-035",
+          "target_version_id": "dense-medium-layered_dag-mod-035-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-044",
+          "target_version_id": "dense-medium-layered_dag-mod-044-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-053",
+          "target_version_id": "dense-medium-layered_dag-mod-053-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-062",
+          "target_version_id": "dense-medium-layered_dag-mod-062-v1"
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-034",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-034-v2",
+      "version_number": "2.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-035",
+          "target_version_id": "dense-medium-layered_dag-mod-035-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-044",
+          "target_version_id": "dense-medium-layered_dag-mod-044-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-053",
+          "target_version_id": "dense-medium-layered_dag-mod-053-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-062",
+          "target_version_id": "dense-medium-layered_dag-mod-062-v1"
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-034",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-034-v3",
+      "version_number": "3.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-035",
+          "target_version_id": "dense-medium-layered_dag-mod-035-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-044",
+          "target_version_id": "dense-medium-layered_dag-mod-044-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-053",
+          "target_version_id": "dense-medium-layered_dag-mod-053-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-062",
+          "target_version_id": "dense-medium-layered_dag-mod-062-v1"
+        },
+        {
+          "dependency_type": "incompatible",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-035",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-034",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-034-v4",
+      "version_number": "4.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-046",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-046-v2",
+      "version_number": "2.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-046",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-046-v3",
+      "version_number": "3.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "incompatible",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-047",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-046",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-046-v4",
+      "version_number": "4.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-023",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-048",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-048-v2",
+      "version_number": "2.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-023",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-048",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-048-v3",
+      "version_number": "3.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-023",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "incompatible",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-049",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-048",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-048-v4",
+      "version_number": "4.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-052",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-052-v2",
+      "version_number": "2.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-052",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-052-v3",
+      "version_number": "3.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "incompatible",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-053",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-052",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-052-v4",
+      "version_number": "4.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-066",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-066-v2",
+      "version_number": "2.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-066",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-066-v3",
+      "version_number": "3.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "incompatible",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-067",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-066",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-066-v4",
+      "version_number": "4.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-069",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-069-v2",
+      "version_number": "2.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-069",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-069-v3",
+      "version_number": "3.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "incompatible",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-070",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-069",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-069-v4",
+      "version_number": "4.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-074",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-074-v2",
+      "version_number": "2.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-074",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-074-v3",
+      "version_number": "3.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "incompatible",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-075",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-074",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-074-v4",
+      "version_number": "4.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-001",
+          "target_version_id": "dense-medium-layered_dag-mod-001-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-010",
+          "target_version_id": "dense-medium-layered_dag-mod-010-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-019",
+          "target_version_id": "dense-medium-layered_dag-mod-019-v1"
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-028",
+          "target_version_id": "dense-medium-layered_dag-mod-028-v1"
+        },
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-mod-074",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "incompatible",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "dense-medium-layered_dag-unselected-conflict-000",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.19.4"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "dense-medium-layered_dag-mod-000",
+      "source": "synthetic",
+      "version_id": "dense-medium-layered_dag-mod-000-v0-incompatible",
+      "version_number": "0.1.0",
+      "version_type": null
+    }
+  ]
+}

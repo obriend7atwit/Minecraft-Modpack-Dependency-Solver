@@ -1,0 +1,22 @@
+{
+  "collected_at": "2026-07-20T00:44:08.490532+00:00",
+  "collection_method": "official_modrinth_api_mrpack_manifest_only",
+  "manifest_file_count": 77,
+  "manual_review_required": true,
+  "maximum_required_depth": 3,
+  "metadata_coverage_rate": 1.0,
+  "mod_jars_downloaded": false,
+  "pack_size_category": "medium",
+  "pack_title": "Vanilla Perfected",
+  "project_id": "1ocGzRHv",
+  "publication_ready": false,
+  "raw_archive_retained": false,
+  "required_edge_count": 70,
+  "resolved_mod_count": 77,
+  "selected_mod_count": 77,
+  "slug": "vanilla-perfected",
+  "source_manifest_sha256": "f537dc1119cdb3f36c952405be94770ccfc347e069966b2f9d64c20ce466e4c7",
+  "source_url": "https://modrinth.com/modpack/vanilla-perfected/version/zCNpmrT6",
+  "unresolved_mod_count": 0,
+  "version_id": "zCNpmrT6"
+}

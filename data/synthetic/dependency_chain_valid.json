@@ -1,0 +1,80 @@
+{
+  "config": {
+    "minecraft_version": "1.20.1",
+    "loader": "fabric",
+    "selected_mods": [
+      {
+        "mod_id": "example-tech-pack",
+        "version_id": "example-tech-pack-1.0.0"
+      },
+      {
+        "mod_id": "example-machines",
+        "version_id": "example-machines-1.0.0"
+      },
+      {
+        "mod_id": "example-library",
+        "version_id": "example-library-1.0.0"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "mod_id": "example-tech-pack",
+      "name": "Example Technology Pack",
+      "slug": "example-tech-pack",
+      "source": "synthetic"
+    },
+    {
+      "mod_id": "example-machines",
+      "name": "Example Machines",
+      "slug": "example-machines",
+      "source": "synthetic"
+    },
+    {
+      "mod_id": "example-library",
+      "name": "Example Library",
+      "slug": "example-library",
+      "source": "synthetic"
+    }
+  ],
+  "versions": [
+    {
+      "version_id": "example-tech-pack-1.0.0",
+      "mod_id": "example-tech-pack",
+      "version_number": "1.0.0",
+      "game_versions": ["1.20.1"],
+      "loaders": ["fabric"],
+      "version_type": "release",
+      "dependencies": [
+        {
+          "target_mod_id": "example-machines",
+          "dependency_type": "required",
+          "source": "synthetic"
+        }
+      ]
+    },
+    {
+      "version_id": "example-machines-1.0.0",
+      "mod_id": "example-machines",
+      "version_number": "1.0.0",
+      "game_versions": ["1.20.1"],
+      "loaders": ["fabric"],
+      "version_type": "release",
+      "dependencies": [
+        {
+          "target_mod_id": "example-library",
+          "dependency_type": "required",
+          "source": "synthetic"
+        }
+      ]
+    },
+    {
+      "version_id": "example-library-1.0.0",
+      "mod_id": "example-library",
+      "version_number": "1.0.0",
+      "game_versions": ["1.20.1"],
+      "loaders": ["fabric"],
+      "version_type": "release"
+    }
+  ]
+}

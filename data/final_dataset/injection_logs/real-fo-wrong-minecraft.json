@@ -1,0 +1,11 @@
+{
+  "case_id": "real-fo-wrong-minecraft",
+  "expected_action_types": [],
+  "expected_issue_types": [
+    "minecraft_version_mismatch"
+  ],
+  "manually_reviewed": true,
+  "modification_description": "Reduced cached sample intentionally modified for evaluation.",
+  "modification_type": "change_minecraft_version",
+  "original_case_id": "real-fo-valid"
+}

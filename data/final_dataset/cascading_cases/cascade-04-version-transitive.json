@@ -1,0 +1,142 @@
+{
+  "config": {
+    "loader": "fabric",
+    "minecraft_version": "1.20.1",
+    "selected_mods": [
+      {
+        "mod_id": "transitive-a",
+        "version_id": "transitive-a-v1",
+        "version_number": "1.0.0"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "transitive-a",
+      "name": "Transitive A",
+      "slug": "transitive-a",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "transitive-b",
+      "name": "Transitive B",
+      "slug": "transitive-b",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "transitive-c",
+      "name": "Transitive C",
+      "slug": "transitive-c",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "transitive-d",
+      "name": "Transitive D",
+      "slug": "transitive-d",
+      "source": "synthetic"
+    }
+  ],
+  "versions": [
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.19.4"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "transitive-a",
+      "source": "synthetic",
+      "version_id": "transitive-a-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "transitive-b",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "transitive-a",
+      "source": "synthetic",
+      "version_id": "transitive-a-v2",
+      "version_number": "2.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "transitive-c",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "transitive-d",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "transitive-b",
+      "source": "synthetic",
+      "version_id": "transitive-b-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "transitive-c",
+      "source": "synthetic",
+      "version_id": "transitive-c-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "transitive-d",
+      "source": "synthetic",
+      "version_id": "transitive-d-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    }
+  ]
+}

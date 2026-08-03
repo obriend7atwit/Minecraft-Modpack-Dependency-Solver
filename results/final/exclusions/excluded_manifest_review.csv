@@ -1,0 +1,17 @@
+source_pack,source_version,metadata_coverage_rate,unresolved_files,checker_issue_types,checker_issue_count,dependency_types,client_server_environment,likely_cause,confidence,manual_review_required,recovered,remains_quarantined
+aged,7BgHWBWr,0.9952830188679245,1,embedded_dependency_info;missing_dependency;unknown_dependency_target,54,embedded;optional;required,"{""client=required;server=required"": 198, ""client=required;server=unsupported"": 28}",incomplete_metadata_collection,high,True,False,True
+ardacraft,,,,,0,,{},file_resolution_failure,high,True,False,True
+better-mc-fabric-bmc2,,,,,0,,{},file_resolution_failure,high,True,False,True
+brasil-cobblemon-mobile,3xY83QVe,1.0,0,missing_dependency;unknown_dependency_target,9,optional;required,"{""client=required;server=required"": 21}",normalization_limitation,medium,True,False,True
+cobblemon-fabric,Lydu1ZNo,1.0,0,embedded_dependency_info;missing_dependency;unknown_dependency_target,12,embedded;optional;required,"{""client=required;server=required"": 76}",normalization_limitation,medium,True,False,True
+cobbleverse,T9GJwPoJ,1.0,0,embedded_dependency_info;minecraft_version_mismatch;missing_dependency;unknown_dependency_target,36,embedded;optional;required,"{""client=required;server=required"": 165}",requires_manual_review,low,True,False,True
+distant-horizons-iris-shaders,h3gGqKec,1.0,0,missing_dependency;unknown_dependency_target,2,required,"{""client=required;server=required"": 14}",normalization_limitation,medium,True,False,True
+fps,kedIKix5,1.0,0,missing_dependency;unknown_dependency_target,2,required,"{""client=optional;server=unsupported"": 1, ""client=required;server=required"": 3, ""client=required;server=unsupported"": 5}",normalization_limitation,medium,True,False,True
+fresh-smooth,didDeXKR,1.0,0,embedded_dependency_info;minecraft_version_mismatch;missing_dependency;unknown_dependency_target,10,embedded;optional;required,"{""client=required;server=required"": 191}",requires_manual_review,low,True,False,True
+landscapes-reimagined-genesis,,,,,0,,{},file_resolution_failure,high,True,False,True
+optifabric-modpack,zUvbqULF,1.0,0,missing_dependency;unknown_dependency_target,5,optional;required,"{""client=required;server=required"": 37}",normalization_limitation,medium,True,False,True
+pokemon-elysium,,,,,0,,{},file_resolution_failure,high,True,False,True
+prominence-2-fabric,,,,,0,,{},file_resolution_failure,high,True,False,True
+skyblock-enhanced,fhgbGZNp,1.0,0,embedded_dependency_info;missing_dependency;unknown_dependency_target,12,embedded;optional;required,"{""client=required;server=required"": 15, ""client=required;server=unsupported"": 60}",normalization_limitation,medium,True,False,True
+sodiumplus,RDHZNrbp,1.0,0,embedded_dependency_info;minecraft_version_mismatch;missing_dependency;unknown_dependency_target,15,embedded;optional;required,"{""client=required;server=required"": 74, ""client=required;server=unsupported"": 7}",requires_manual_review,low,True,False,True
+vanilla-perfected,zCNpmrT6,1.0,0,embedded_dependency_info;minecraft_version_mismatch;unknown_dependency_target,7,embedded;optional;required,"{""client=required;server=required"": 111}",version_declaration_mismatch,medium,True,False,True

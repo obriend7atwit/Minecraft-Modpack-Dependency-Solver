@@ -1,0 +1,222 @@
+{
+  "dependencies": {
+    "fabric-loader": "0.19.3",
+    "minecraft": "26.2"
+  },
+  "files": [
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/ix1qq8Ux/versions/ty1I3NCt/CrashAssistant-fabric-26.2-1.11.10.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 3163424,
+      "hashes": {
+        "sha1": "95dd7850f11140faf7b41864d78e9a4652ab3c87",
+        "sha512": "450e2c67093c2480cfd9091e1c1b41b3719edd39b441a33f608ff3cd107a71409e759bbeef468e0e4280c499cde98f12db8814fb59043f35b97aa387a1ff415b"
+      },
+      "path": "mods/CrashAssistant-fabric-26.2-1.11.10.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/uCdwusMi/versions/IguX0jEa/DistantHorizons-3.1.2-b-26.2-fabric-neoforge.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 29653883,
+      "hashes": {
+        "sha1": "6d4870cb84e3b06e0a7857e100fcd56709255037",
+        "sha512": "3bd9c7093f2589fdbbc521d67e98f160ccd6d5fc538a2d83146039f944c8ee648f1057d1c3c3cb44be1d759e5eab7b062dfc934443b34489f9695dff83c08511"
+      },
+      "path": "mods/DistantHorizons-3.1.2-b-26.2-fabric-neoforge.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/M1953qlQ/versions/RqoPv70U/ResourcefulConfig-5.0.0.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 443979,
+      "hashes": {
+        "sha1": "e605b530843171786da8f837b4fae728b4d8fb07",
+        "sha512": "c9834fbcb557d6f96b99ccafc69346f8da3887cdc4e26f780f9f4fe1c712071bab2e97362ecf69cd308aaafa76ea3cb98e7bee35b61d94addae2797788156457"
+      },
+      "path": "mods/ResourcefulConfig-5.0.0.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/VSNURh3q/versions/hfq4dPFH/c2me-fabric-mc26.2-0.4.1-beta.1.0.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 3775368,
+      "hashes": {
+        "sha1": "284370db4ccf66653de0d250f4b990f4ed41fe1f",
+        "sha512": "21076491de36c5d680cafa494116b98a134a3d7e3cbcb77a59942bab0ceacf6c9386a80b1e4d870e501aafab27b89c0b5d7a09f1392a4d4ab43a87f9d3524841"
+      },
+      "path": "mods/c2me-fabric-mc26.2-0.4.1-beta.1.0.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/P7dR8mSH/versions/vodPC30d/fabric-api-0.152.2%2B26.2.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 2501396,
+      "hashes": {
+        "sha1": "484396ad53550c267dfe577332e6a56a9cbe9612",
+        "sha512": "9a2619168ee55e5ba0473efcd9c765b668ffa0e3a0cd858e877fff42fe68f9644c9ec3222c73e5734c59fc2cbb0ea01f3ba976ca7a2f009872c9c0885da4a713"
+      },
+      "path": "mods/fabric-api-0.152.2+26.2.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/uXXizFIs/versions/d5ddUdiB/ferritecore-9.0.0-fabric.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 72677,
+      "hashes": {
+        "sha1": "eac76ff0f3753422c61b2c44487d0d195d88d4bc",
+        "sha512": "d81fa97e11784c19d42f89c2f433831d007603dd7193cee45fa177e4a6a9c52b384b198586e04a0f7f63cd996fed713322578bde9a8db57e1188854ae5cbe584"
+      },
+      "path": "mods/ferritecore-9.0.0-fabric.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/YL57xq9U/versions/3uIIps8q/iris-fabric-1.11.1%2Bmc26.2.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 2812824,
+      "hashes": {
+        "sha1": "1a75998310ecbb5f2d62fe5e58bd9e9d6a8833ba",
+        "sha512": "bc777bbc3d2e7e7ab414e19612c2b6f39508916ce82524111a57f7c6a5d2608383227b2d080ca1737e84d8c1de970fd3697d7d0801cfeb1bca70ad73e1fb6744"
+      },
+      "path": "mods/iris-fabric-1.11.1+mc26.2.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/x1OEDMlF/lithium-fabric-0.25.0%2Bmc26.2.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 911462,
+      "hashes": {
+        "sha1": "ee6613921c224097f968a289e8a7b53e036cc6ec",
+        "sha512": "15027c279850999667cee29510e4491c01d17f121604c51dd9736a5b835dee6303183fdde63637b3dd666de3b28082b1818cacd6a047fee35fced49807b5eacf"
+      },
+      "path": "mods/lithium-fabric-0.25.0+mc26.2.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/mOgUt4GM/versions/dTGuPZ91/modmenu-20.0.0-beta.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 635877,
+      "hashes": {
+        "sha1": "606811c5f2cb4e66f4ca1b13b603febf97710014",
+        "sha512": "a40a9456133ec9bf78235629a05980b36206306d23b288730d9f5af7df64bfb4b117eac2549a6390fe2fb652a8704a98d98b084475d729e2b3195443fa44b52f"
+      },
+      "path": "mods/modmenu-20.0.0-beta.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/Bh37bMuy/versions/S84VZdDL/reeses-sodium-options-fabric-2.1.0%2Bmc26.2.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 139540,
+      "hashes": {
+        "sha1": "6853546648bc35b19678acc2ad1723f73432bb6e",
+        "sha512": "a7319775ac58e271fb763bca268e9cd76803ac90e00bba8f0b7ac1eaba88afabb4227ed8ca40d4cf377808ecd3d7239ff20d1200e0fbf9242607a887f9c92822"
+      },
+      "path": "mods/reeses-sodium-options-fabric-2.1.0+mc26.2.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/PtjYWJkn/versions/Yx7JiBit/sodium-extra-fabric-0.8.9%2Bmc26.2.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 401789,
+      "hashes": {
+        "sha1": "cfc41276b6ba6dd9b70535aea8bea8923905bc1b",
+        "sha512": "a5279343726b1ad0398b98327296a6ab90b80afc8c238f38d17c92875f0e2c8fc28da770e95767efa295762dcde699d2b01a15ac89618a50cdc6b44aa4b1b68a"
+      },
+      "path": "mods/sodium-extra-fabric-0.8.9+mc26.2.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/AANobbMI/versions/3QgJXuSK/sodium-fabric-0.9.0%2Bmc26.2.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 1830648,
+      "hashes": {
+        "sha1": "924dc2b779b7b7cd2d1d2464b863b00aa9fea797",
+        "sha512": "cff27e97d179ec1d3bcbcfc49820ec62b04fd101c98c2922cbcf426a3a0d3b32cd73e2d4cbefe0e291c9074484fbfdfa9d53b8cf0dc8783b015f33b2e21126a3"
+      },
+      "path": "mods/sodium-fabric-0.9.0+mc26.2.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/ayPU0OHc/versions/JwbecFqq/structure_layout_optimizer-1.1.4%2B26.1-fabric.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 71476,
+      "hashes": {
+        "sha1": "4a0fc84879fe358bdfd395af9238e14950dca748",
+        "sha512": "d0a443e5a71dc6a40f6345b49b73aee5290d5726f68a5b05d3b31b9ff71262dd2986518df8a560f2097e7584b944ff462d621499f5dede10afa624a34359e8cc"
+      },
+      "path": "mods/structure_layout_optimizer-1.1.4+26.1-fabric.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/OnlVIpq5/versions/zDmmeNYS/zfastnoise-1.0.36%2B26.2.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 473288,
+      "hashes": {
+        "sha1": "5ba08086e00d4ac7e6c52817f068cf7953583a7f",
+        "sha512": "46668a5c03b0cddc8375b77dfedb25f71ba6567e3ff81b16941680a2026a414f75996489ea761bcc93016fba900b25408697d22f443f9d2116058a6a63b2e16f"
+      },
+      "path": "mods/zfastnoise-1.0.36+26.2.jar"
+    }
+  ],
+  "formatVersion": 1,
+  "game": "minecraft",
+  "name": "Distant Horizons & Iris Shaders Distant Horizons & Iris Shaders 0.4.2+26.2.fabric",
+  "versionId": "0.4.2+26.2.fabric"
+}

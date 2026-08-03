@@ -1,0 +1,18 @@
+{
+  "case_id": "search-candidate-04",
+  "changed_mod_ids": [],
+  "description": "Controlled candidate explosion search case.",
+  "ground_truth_source": "construction_or_inverse_injection",
+  "known_inverse_repair": [
+    {
+      "action_type": "upgrade_mod",
+      "cost": 4,
+      "reason": "Reference-enumerated controlled search case.",
+      "target_mod_id": "search-candidate-04-decision",
+      "target_version_id": "search-candidate-04-decision-v2-valid",
+      "target_version_number": "2.0.0"
+    }
+  ],
+  "observed_solver_result": null,
+  "parent_case_id": null
+}

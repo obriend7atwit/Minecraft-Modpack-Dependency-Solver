@@ -1,0 +1,22 @@
+{
+  "collected_at": "2026-07-20T00:44:05.721184+00:00",
+  "collection_method": "official_modrinth_api_mrpack_manifest_only",
+  "manifest_file_count": 133,
+  "manual_review_required": true,
+  "maximum_required_depth": 4,
+  "metadata_coverage_rate": 1.0,
+  "mod_jars_downloaded": false,
+  "pack_size_category": "large",
+  "pack_title": "COBBLEVERSE - Pokemon Adventure [Cobblemon]",
+  "project_id": "Jkb29YJU",
+  "publication_ready": false,
+  "raw_archive_retained": false,
+  "required_edge_count": 162,
+  "resolved_mod_count": 133,
+  "selected_mod_count": 133,
+  "slug": "cobbleverse",
+  "source_manifest_sha256": "0fae5d1e9b3b36616091dc970e71cb167e6c338a492c40e61e68797d0ed11772",
+  "source_url": "https://modrinth.com/modpack/cobbleverse/version/T9GJwPoJ",
+  "unresolved_mod_count": 0,
+  "version_id": "T9GJwPoJ"
+}

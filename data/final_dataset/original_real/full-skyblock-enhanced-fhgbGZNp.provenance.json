@@ -1,0 +1,22 @@
+{
+  "collected_at": "2026-07-20T00:44:15.336686+00:00",
+  "collection_method": "official_modrinth_api_mrpack_manifest_only",
+  "manifest_file_count": 65,
+  "manual_review_required": true,
+  "maximum_required_depth": 2,
+  "metadata_coverage_rate": 1.0,
+  "mod_jars_downloaded": false,
+  "pack_size_category": "medium",
+  "pack_title": "SkyBlock Enhanced",
+  "project_id": "e0oMrxjp",
+  "publication_ready": false,
+  "raw_archive_retained": false,
+  "required_edge_count": 65,
+  "resolved_mod_count": 65,
+  "selected_mod_count": 65,
+  "slug": "skyblock-enhanced",
+  "source_manifest_sha256": "73ce9706b0f2ba8c2ce4048129c7260ed678dad16772cc5011cdecb2283c7856",
+  "source_url": "https://modrinth.com/modpack/skyblock-enhanced/version/fhgbGZNp",
+  "unresolved_mod_count": 0,
+  "version_id": "fhgbGZNp"
+}

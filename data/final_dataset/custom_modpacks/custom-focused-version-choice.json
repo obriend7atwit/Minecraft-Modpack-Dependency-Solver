@@ -1,0 +1,196 @@
+{
+  "config": {
+    "loader": "fabric",
+    "minecraft_version": "1.20.1",
+    "selected_mods": [
+      {
+        "mod_id": "custom-focused-mod-001",
+        "version_id": "custom-focused-mod-001-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-focused-mod-002",
+        "version_id": "custom-focused-mod-002-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-focused-mod-003",
+        "version_id": "custom-focused-mod-003-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-focused-mod-004",
+        "version_id": "custom-focused-mod-004-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-focused-mod-005",
+        "version_id": "custom-focused-mod-005-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-focused-mod-006",
+        "version_id": "custom-focused-mod-006-1.0.0",
+        "version_number": null
+      }
+    ]
+  },
+  "projects": [
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-focused-mod-001",
+      "name": "Custom Focused Mod 001",
+      "slug": "custom-focused-mod-001",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-focused-mod-002",
+      "name": "Custom Focused Mod 002",
+      "slug": "custom-focused-mod-002",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-focused-mod-003",
+      "name": "Custom Focused Mod 003",
+      "slug": "custom-focused-mod-003",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-focused-mod-004",
+      "name": "Custom Focused Mod 004",
+      "slug": "custom-focused-mod-004",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-focused-mod-005",
+      "name": "Custom Focused Mod 005",
+      "slug": "custom-focused-mod-005",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-focused-mod-006",
+      "name": "Custom Focused Mod 006",
+      "slug": "custom-focused-mod-006",
+      "source": "synthetic"
+    }
+  ],
+  "versions": [
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": null,
+          "target_mod_id": "custom-focused-mod-002",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.19.4"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-focused-mod-001",
+      "source": "synthetic",
+      "version_id": "custom-focused-mod-001-1.0.0",
+      "version_number": "0.5.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-focused-mod-002",
+      "source": "synthetic",
+      "version_id": "custom-focused-mod-002-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-focused-mod-003",
+      "source": "synthetic",
+      "version_id": "custom-focused-mod-003-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-focused-mod-004",
+      "source": "synthetic",
+      "version_id": "custom-focused-mod-004-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-focused-mod-005",
+      "source": "synthetic",
+      "version_id": "custom-focused-mod-005-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-focused-mod-006",
+      "source": "synthetic",
+      "version_id": "custom-focused-mod-006-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-focused-mod-001",
+      "source": "synthetic",
+      "version_id": "custom-focused-mod-001-2.0.0",
+      "version_number": "2.0.0",
+      "version_type": null
+    }
+  ]
+}

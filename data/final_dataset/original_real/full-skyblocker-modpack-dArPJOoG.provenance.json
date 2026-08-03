@@ -1,0 +1,22 @@
+{
+  "collected_at": "2026-07-20T00:44:21.340613+00:00",
+  "collection_method": "official_modrinth_api_mrpack_manifest_only",
+  "manifest_file_count": 25,
+  "manual_review_required": true,
+  "maximum_required_depth": 2,
+  "metadata_coverage_rate": 1.0,
+  "mod_jars_downloaded": false,
+  "pack_size_category": "small",
+  "pack_title": "Skyblocker Modpack - Hypixel Skyblock",
+  "project_id": "KmiWHzQ4",
+  "publication_ready": false,
+  "raw_archive_retained": false,
+  "required_edge_count": 24,
+  "resolved_mod_count": 25,
+  "selected_mod_count": 25,
+  "slug": "skyblocker-modpack",
+  "source_manifest_sha256": "84ad24d67ddaef9556f100720b51240ec4e3b4a8fb7792b6d978f03d2e7b7fb3",
+  "source_url": "https://modrinth.com/modpack/skyblocker-modpack/version/dArPJOoG",
+  "unresolved_mod_count": 0,
+  "version_id": "dArPJOoG"
+}

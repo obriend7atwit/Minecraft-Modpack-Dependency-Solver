@@ -1,0 +1,22 @@
+{
+  "collected_at": "2026-07-20T00:44:12.515980+00:00",
+  "collection_method": "official_modrinth_api_mrpack_manifest_only",
+  "manifest_file_count": 37,
+  "manual_review_required": true,
+  "maximum_required_depth": 1,
+  "metadata_coverage_rate": 1.0,
+  "mod_jars_downloaded": false,
+  "pack_size_category": "medium",
+  "pack_title": "OptiFabric",
+  "project_id": "bHUKuhiA",
+  "publication_ready": false,
+  "raw_archive_retained": false,
+  "required_edge_count": 27,
+  "resolved_mod_count": 37,
+  "selected_mod_count": 37,
+  "slug": "optifabric-modpack",
+  "source_manifest_sha256": "0dd6b21f25845d0124be21965a2d9a7281eeab7db04c58ffa9f3e211b4942a12",
+  "source_url": "https://modrinth.com/modpack/optifabric-modpack/version/zUvbqULF",
+  "unresolved_mod_count": 0,
+  "version_id": "zUvbqULF"
+}

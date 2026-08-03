@@ -1,0 +1,77 @@
+{
+  "config": {
+    "minecraft_version": "1.20.1",
+    "loader": "forge",
+    "selected_mods": [
+      {
+        "mod_id": "P7dR8mSH",
+        "version_id": "hu6gukgT"
+      },
+      {
+        "mod_id": "Orvt0mRa",
+        "version_id": "nQHYSjxO"
+      },
+      {
+        "mod_id": "AANobbMI",
+        "version_id": "ygf8cVZg"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "mod_id": "P7dR8mSH",
+      "name": "Fabric API",
+      "slug": "fabric-api",
+      "source": "modrinth"
+    },
+    {
+      "mod_id": "Orvt0mRa",
+      "name": "Indium",
+      "slug": "indium",
+      "source": "modrinth"
+    },
+    {
+      "mod_id": "AANobbMI",
+      "name": "Sodium",
+      "slug": "sodium",
+      "source": "modrinth"
+    }
+  ],
+  "versions": [
+    {
+      "version_id": "hu6gukgT",
+      "mod_id": "P7dR8mSH",
+      "version_number": "0.92.9+1.20.1",
+      "game_versions": ["1.20.1"],
+      "loaders": ["fabric"],
+      "version_type": "release",
+      "source": "modrinth"
+    },
+    {
+      "version_id": "nQHYSjxO",
+      "mod_id": "Orvt0mRa",
+      "version_number": "1.0.36+mc1.20.1",
+      "game_versions": ["1.20.1"],
+      "loaders": ["fabric"],
+      "version_type": "release",
+      "dependencies": [
+        {
+          "target_mod_id": "AANobbMI",
+          "dependency_type": "required",
+          "target_version_id": "ygf8cVZg",
+          "source": "modrinth"
+        }
+      ],
+      "source": "modrinth"
+    },
+    {
+      "version_id": "ygf8cVZg",
+      "mod_id": "AANobbMI",
+      "version_number": "mc1.20.1-0.5.11",
+      "game_versions": ["1.20.1"],
+      "loaders": ["fabric", "quilt"],
+      "version_type": "release",
+      "source": "modrinth"
+    }
+  ]
+}

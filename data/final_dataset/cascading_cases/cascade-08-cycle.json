@@ -1,0 +1,77 @@
+{
+  "config": {
+    "loader": "fabric",
+    "minecraft_version": "1.20.1",
+    "selected_mods": [
+      {
+        "mod_id": "cycle-a",
+        "version_id": "cycle-a-1.0.0",
+        "version_number": "1.0.0"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "cycle-a",
+      "name": "Cycle A",
+      "slug": "cycle-a",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "cycle-b",
+      "name": "Cycle B",
+      "slug": "cycle-b",
+      "source": "synthetic"
+    }
+  ],
+  "versions": [
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "cycle-b",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "cycle-a",
+      "source": "synthetic",
+      "version_id": "cycle-a-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "cycle-a",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "cycle-b",
+      "source": "synthetic",
+      "version_id": "cycle-b-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    }
+  ]
+}

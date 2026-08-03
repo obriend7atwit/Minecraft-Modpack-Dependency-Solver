@@ -1,0 +1,22 @@
+{
+  "collected_at": "2026-07-20T00:44:19.987166+00:00",
+  "collection_method": "official_modrinth_api_mrpack_manifest_only",
+  "manifest_file_count": 69,
+  "manual_review_required": true,
+  "maximum_required_depth": 2,
+  "metadata_coverage_rate": 1.0,
+  "mod_jars_downloaded": false,
+  "pack_size_category": "medium",
+  "pack_title": "红石生电优化【Redstone Survival Optimization】",
+  "project_id": "1Fv3GHYS",
+  "publication_ready": false,
+  "raw_archive_retained": false,
+  "required_edge_count": 62,
+  "resolved_mod_count": 69,
+  "selected_mod_count": 69,
+  "slug": "rso",
+  "source_manifest_sha256": "b8f903d6c13e4234b69411882a230e5b2f48d4dac2cd933248f4964f30cc5fbb",
+  "source_url": "https://modrinth.com/modpack/rso/version/XtjT8Bfy",
+  "unresolved_mod_count": 0,
+  "version_id": "XtjT8Bfy"
+}

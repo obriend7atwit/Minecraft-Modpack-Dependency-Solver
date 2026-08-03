@@ -1,0 +1,6 @@
+{
+  "project_id": "fgUCZ5nU",
+  "publication_ready": false,
+  "rejection_reason": "HTTPStatusError: Client error '400 Bad Request' for url 'https://api.modrinth.com/v2/version/0.1.3'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+  "slug": "pokemon-elysium"
+}

@@ -1,0 +1,18 @@
+\begin{tabularx}{\linewidth}{@{}lXXXXXXX@{}}
+\hline
+Case Id & Initial Issue & Revealed After First & Repair Depth & Weighted Actions & Total Cost & States Expanded & Final Status \\
+\hline
+cascade-01-missing-chain & missing\_dependency & missing\_dependency & 3 & add\_dependency & 3 & 4 & compatible \\
+cascade-02-add-conflict & missing\_dependency & hard\_conflict & 2 & add\_dependency, remove\_mod & 11 & 3 & compatible \\
+cascade-03-version-dependency & minecraft\_version\_mismatch & missing\_dependency & 2 & upgrade\_mod, add\_dependency & 5 & 3 & compatible \\
+cascade-04-version-transitive & minecraft\_version\_mismatch & missing\_dependency & 4 & upgrade\_mod, add\_dependency & 7 & 6 & compatible \\
+cascade-05-global-choice & missing\_dependency &  & 1 & add\_dependency & 1 & 9 & compatible \\
+cascade-06-shared-fan-in & missing\_dependency &  & 1 & add\_dependency & 1 & 2 & compatible \\
+cascade-07-diamond & missing\_dependency &  & 1 & add\_dependency & 1 & 2 & compatible \\
+cascade-08-cycle & missing\_dependency &  & 1 & add\_dependency & 1 & 2 & compatible \\
+cascade-09-loader-choice & missing\_dependency & missing\_dependency & 2 & add\_dependency & 2 & 3 & compatible \\
+cascade-10-conflict-alternative & minecraft\_version\_mismatch & missing\_dependency & 2 & upgrade\_mod, add\_dependency & 5 & 6 & compatible \\
+cascade-11-no-solution & missing\_dependency &  & 0 & none & N/A & 3 & no\_solution \\
+cascade-12-multi-error & duplicate\_mod\_version, missing\_dependency, hard\_conflict, minecraft\_version\_mismatch & duplicate\_mod\_version, missing\_dependency, hard\_conflict, minecraft\_version\_mismatch & 5 & add\_dependency, upgrade\_mod, remove\_mod & 26 & 36 & compatible \\
+\hline
+\end{tabularx}

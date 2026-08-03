@@ -1,0 +1,18 @@
+{
+  "case_id": "cascade-06-shared-fan-in",
+  "changed_mod_ids": [],
+  "description": "Three missing relationships are resolved by one shared-library addition.",
+  "ground_truth_source": "construction_or_inverse_injection",
+  "known_inverse_repair": [
+    {
+      "action_type": "add_dependency",
+      "cost": 1,
+      "reason": "Hand-constructed independent cascading repair.",
+      "target_mod_id": "fan-library",
+      "target_version_id": "fan-library-1.0.0",
+      "target_version_number": "1.0.0"
+    }
+  ],
+  "observed_solver_result": null,
+  "parent_case_id": null
+}

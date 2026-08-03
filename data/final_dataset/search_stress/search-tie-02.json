@@ -1,0 +1,102 @@
+{
+  "config": {
+    "loader": "fabric",
+    "minecraft_version": "1.20.1",
+    "selected_mods": [
+      {
+        "mod_id": "search-tie-02-a",
+        "version_id": "search-tie-02-a-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "search-tie-02-b",
+        "version_id": "search-tie-02-b-v1",
+        "version_number": "1.0.0"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "search-tie-02-a",
+      "name": "Search Tie 02 A",
+      "slug": "search-tie-02-a",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "search-tie-02-b",
+      "name": "Search Tie 02 B",
+      "slug": "search-tie-02-b",
+      "source": "synthetic"
+    }
+  ],
+  "versions": [
+    {
+      "dependencies": [
+        {
+          "dependency_type": "incompatible",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "search-tie-02-b",
+          "target_version_id": "search-tie-02-b-v1"
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-tie-02-a",
+      "source": "synthetic",
+      "version_id": "search-tie-02-a-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-tie-02-a",
+      "source": "synthetic",
+      "version_id": "search-tie-02-a-v2",
+      "version_number": "2.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-tie-02-b",
+      "source": "synthetic",
+      "version_id": "search-tie-02-b-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-tie-02-b",
+      "source": "synthetic",
+      "version_id": "search-tie-02-b-v2",
+      "version_number": "2.0.0",
+      "version_type": null
+    }
+  ]
+}

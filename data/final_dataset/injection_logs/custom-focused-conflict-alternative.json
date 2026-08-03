@@ -1,0 +1,13 @@
+{
+  "case_id": "custom-focused-conflict-alternative",
+  "expected_action_types": [
+    "upgrade_mod"
+  ],
+  "expected_issue_types": [
+    "hard_conflict"
+  ],
+  "manually_reviewed": false,
+  "modification_description": "Focused deterministic conflict alternative case generated offline.",
+  "modification_type": "manual",
+  "original_case_id": null
+}

@@ -1,0 +1,11 @@
+{
+  "case_id": "custom-focused-embedded",
+  "expected_action_types": [],
+  "expected_issue_types": [
+    "embedded_dependency_info"
+  ],
+  "manually_reviewed": false,
+  "modification_description": "Focused deterministic embedded case generated offline.",
+  "modification_type": "manual",
+  "original_case_id": null
+}

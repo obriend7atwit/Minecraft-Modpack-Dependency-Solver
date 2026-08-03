@@ -1,0 +1,129 @@
+{
+  "config": {
+    "loader": "fabric",
+    "minecraft_version": "1.20.1",
+    "selected_mods": [
+      {
+        "mod_id": "cascade-a",
+        "version_id": "cascade-a-1.0.0",
+        "version_number": "1.0.0"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "cascade-a",
+      "name": "Cascade A",
+      "slug": "cascade-a",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "cascade-b",
+      "name": "Cascade B",
+      "slug": "cascade-b",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "cascade-c",
+      "name": "Cascade C",
+      "slug": "cascade-c",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "cascade-d",
+      "name": "Cascade D",
+      "slug": "cascade-d",
+      "source": "synthetic"
+    }
+  ],
+  "versions": [
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "cascade-b",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "cascade-a",
+      "source": "synthetic",
+      "version_id": "cascade-a-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "cascade-c",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "cascade-b",
+      "source": "synthetic",
+      "version_id": "cascade-b-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "cascade-d",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "cascade-c",
+      "source": "synthetic",
+      "version_id": "cascade-c-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "cascade-d",
+      "source": "synthetic",
+      "version_id": "cascade-d-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    }
+  ]
+}

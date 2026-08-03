@@ -1,0 +1,18 @@
+{
+  "case_id": "cascade-07-diamond",
+  "changed_mod_ids": [],
+  "description": "Two branches converge on one missing dependency, which is added only once.",
+  "ground_truth_source": "construction_or_inverse_injection",
+  "known_inverse_repair": [
+    {
+      "action_type": "add_dependency",
+      "cost": 1,
+      "reason": "Hand-constructed independent cascading repair.",
+      "target_mod_id": "diamond-d",
+      "target_version_id": "diamond-d-1.0.0",
+      "target_version_number": "1.0.0"
+    }
+  ],
+  "observed_solver_result": null,
+  "parent_case_id": null
+}

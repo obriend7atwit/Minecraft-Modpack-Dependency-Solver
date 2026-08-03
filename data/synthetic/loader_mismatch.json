@@ -1,0 +1,30 @@
+{
+  "config": {
+    "minecraft_version": "1.20.1",
+    "loader": "fabric",
+    "selected_mods": [
+      {
+        "mod_id": "example-client-ui",
+        "version_id": "example-client-ui-1.0.0"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "mod_id": "example-client-ui",
+      "name": "Example Client UI",
+      "slug": "example-client-ui",
+      "source": "synthetic"
+    }
+  ],
+  "versions": [
+    {
+      "version_id": "example-client-ui-1.0.0",
+      "mod_id": "example-client-ui",
+      "version_number": "1.0.0",
+      "game_versions": ["1.20.1"],
+      "loaders": ["forge"],
+      "version_type": "release"
+    }
+  ]
+}

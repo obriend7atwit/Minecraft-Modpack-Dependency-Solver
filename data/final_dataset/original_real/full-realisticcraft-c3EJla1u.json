@@ -1,0 +1,1846 @@
+{
+  "config": {
+    "loader": "fabric",
+    "minecraft_version": "1.21.11",
+    "selected_mods": [
+      {
+        "mod_id": "fM515JnW",
+        "version_id": "JZUqW70J",
+        "version_number": "6.3.5"
+      },
+      {
+        "mod_id": "m0oRwcZx",
+        "version_id": "Pq5dOFBk",
+        "version_number": "2.0.6-fabric+mc.1.21.11-plus"
+      },
+      {
+        "mod_id": "OsZiaDHq",
+        "version_id": "jyLHWJlj",
+        "version_number": "2.14.11"
+      },
+      {
+        "mod_id": "uCdwusMi",
+        "version_id": "GT3Bm3GN",
+        "version_number": "2.4.5-b-1.21.11"
+      },
+      {
+        "mod_id": "Fb4jn8m6",
+        "version_id": "Hnj3s9Ez",
+        "version_number": "1.21.11-1.21.11.3"
+      },
+      {
+        "mod_id": "ohNO6lps",
+        "version_id": "uXrWPsCu",
+        "version_number": "21.11.1"
+      },
+      {
+        "mod_id": "s3dmwKy5",
+        "version_id": "CO7NeLTt",
+        "version_number": "21.11.0.4"
+      },
+      {
+        "mod_id": "5ZwdcRci",
+        "version_id": "QwkfUKSj",
+        "version_number": "1.14.2+1.21.11-fabric"
+      },
+      {
+        "mod_id": "qQyHxfxd",
+        "version_id": "rhykGstm",
+        "version_number": "Fabric-1.21.11-v2.18.0"
+      },
+      {
+        "mod_id": "ha1mEyJS",
+        "version_id": "97vS1xaQ",
+        "version_number": "1.1.6"
+      },
+      {
+        "mod_id": "rcTfTZr3",
+        "version_id": "eEkO3jAC",
+        "version_number": "1.12.3+1.21.11"
+      },
+      {
+        "mod_id": "e0bNACJD",
+        "version_id": "6GpaVF7N",
+        "version_number": "21.11.0.4"
+      },
+      {
+        "mod_id": "kepjj2sy",
+        "version_id": "s4oI73di",
+        "version_number": "1.21.11-4.22.3+fabric"
+      },
+      {
+        "mod_id": "8oi3bsk5",
+        "version_id": "vVdNToqE",
+        "version_number": "2.6.1"
+      },
+      {
+        "mod_id": "ge1sOdFH",
+        "version_id": "WPscGvLW",
+        "version_number": "21.11.0.4"
+      },
+      {
+        "mod_id": "5sy6g3kz",
+        "version_id": "FxYUDqeX",
+        "version_number": "3.0.1+1.21.11-fabric"
+      },
+      {
+        "mod_id": "VSNURh3q",
+        "version_id": "vsiqVtu6",
+        "version_number": "0.3.7+alpha.0.9+1.21.11"
+      },
+      {
+        "mod_id": "9s6osm5g",
+        "version_id": "xuX40TN5",
+        "version_number": "21.11.153+fabric"
+      },
+      {
+        "mod_id": "ZcR9weSm",
+        "version_id": "9p0w9Gon",
+        "version_number": "9.11+1.21.11-fabric"
+      },
+      {
+        "mod_id": "NNAgCjsB",
+        "version_id": "SK12FGQf",
+        "version_number": "1.10.0"
+      },
+      {
+        "mod_id": "P7dR8mSH",
+        "version_id": "i5tSkVBH",
+        "version_number": "0.141.3+1.21.11"
+      },
+      {
+        "mod_id": "uXXizFIs",
+        "version_id": "Ii0gP3D8",
+        "version_number": "8.2.0-fabric"
+      },
+      {
+        "mod_id": "H5XMjpHi",
+        "version_id": "NrAhDeVj",
+        "version_number": "2.7.0"
+      },
+      {
+        "mod_id": "Udjno5eL",
+        "version_id": "pil43Syq",
+        "version_number": "1.2.7+MC1.21.2-1.21.11"
+      },
+      {
+        "mod_id": "YL57xq9U",
+        "version_id": "fDpuVzVr",
+        "version_number": "1.10.7+1.21.11-fabric"
+      },
+      {
+        "mod_id": "gvQqBUqZ",
+        "version_id": "Ow7wA0kG",
+        "version_number": "mc1.21.11-0.21.4-fabric"
+      },
+      {
+        "mod_id": "XaDC71GB",
+        "version_id": "s47RpVwc",
+        "version_number": "1.6.1-fabric-1.21.11"
+      },
+      {
+        "mod_id": "mOgUt4GM",
+        "version_id": "Tyk71iSw",
+        "version_number": "17.0.0"
+      },
+      {
+        "mod_id": "51shyZVL",
+        "version_id": "wOzykoLV",
+        "version_number": "1.6.2"
+      },
+      {
+        "mod_id": "SNVQ2c0g",
+        "version_id": "XXzIJdq5",
+        "version_number": "1.0.26+edge+1.21.11-fabric"
+      },
+      {
+        "mod_id": "cqDlVM1w",
+        "version_id": "S2K3qNfv",
+        "version_number": "1.5.1+MC1.21.11"
+      },
+      {
+        "mod_id": "MPCX6s5C",
+        "version_id": "xTO0ETur",
+        "version_number": "1.12.0"
+      },
+      {
+        "mod_id": "Xy8aRQKS",
+        "version_id": "iMpRarRJ",
+        "version_number": "3.1.36"
+      },
+      {
+        "mod_id": "eXts2L7r",
+        "version_id": "qxjzQ9xY",
+        "version_number": "2.8.2+1.21.10"
+      },
+      {
+        "mod_id": "nCQRBEiR",
+        "version_id": "lgLBYQO3",
+        "version_number": "Fabric-1.21.11-5.1.2"
+      },
+      {
+        "mod_id": "zV5r3pPn",
+        "version_id": "ntxaPFv3",
+        "version_number": "1.11.1"
+      },
+      {
+        "mod_id": "AANobbMI",
+        "version_id": "UddlN6L4",
+        "version_number": "mc1.21.11-0.8.7-fabric"
+      },
+      {
+        "mod_id": "qyVF9oeo",
+        "version_id": "pfqxi9qs",
+        "version_number": "fabric-1.21.11-1.5.1"
+      },
+      {
+        "mod_id": "ZouiUX7t",
+        "version_id": "wvhDSvYI",
+        "version_number": "2.4.23+1.21.11-fabric"
+      },
+      {
+        "mod_id": "hFW7KOhm",
+        "version_id": "mAPu896K",
+        "version_number": "1.21.11-6.3.2.1-FABRIC"
+      },
+      {
+        "mod_id": "lWDHr9jE",
+        "version_id": "7olSYFxL",
+        "version_number": "3.0.19"
+      },
+      {
+        "mod_id": "rI0hvYcd",
+        "version_id": "6vzUj4RD",
+        "version_number": "0.7.13+1.21.11"
+      },
+      {
+        "mod_id": "wnEe9KBa",
+        "version_id": "7Cxc2cAR",
+        "version_number": "0.2.0+beta.7.227+1.21.11"
+      },
+      {
+        "mod_id": "HaaH232J",
+        "version_id": "b7C4gGUr",
+        "version_number": "87.0.0"
+      },
+      {
+        "mod_id": "1eAoo2KR",
+        "version_id": "pHWDw3Vc",
+        "version_number": "3.8.2+1.21.11-fabric"
+      },
+      {
+        "mod_id": "OnlVIpq5",
+        "version_id": "d1y4JGMv",
+        "version_number": "1.0.27+1.21.11"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "author": null,
+      "description": "A builder-based configuration library for Minecraft!",
+      "mod_id": "1eAoo2KR",
+      "name": "YetAnotherConfigLib (YACL)",
+      "slug": "yacl",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "A mod that changes how multiple types of culling are handled in order to improve performance",
+      "mod_id": "51shyZVL",
+      "name": "More Culling",
+      "slug": "moreculling",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "Speed up immediate mode rendering in Minecraft",
+      "mod_id": "5ZwdcRci",
+      "name": "ImmediatelyFast",
+      "slug": "immediatelyfast",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "⚔️ Easy, spectacular and fun melee combat system from Minecraft Dungeons.",
+      "mod_id": "5sy6g3kz",
+      "name": "Better Combat",
+      "slug": "better-combat",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "Explore almost 100 new biomes consisting of both realism and light fantasy, using just Vanilla blocks. Complete with several immersive structures to compliment the overhauled terrain.",
+      "mod_id": "8oi3bsk5",
+      "name": "Terralith",
+      "slug": "terralith",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "Configuration Library for Minecraft Mods",
+      "mod_id": "9s6osm5g",
+      "name": "Cloth Config API",
+      "slug": "cloth-config",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter.",
+      "mod_id": "AANobbMI",
+      "name": "Sodium",
+      "slug": "sodium",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "Break down your trees by only cutting one piece of it",
+      "mod_id": "Fb4jn8m6",
+      "name": "FallingTree",
+      "slug": "fallingtree",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "Enables the third-person Model in first-person",
+      "mod_id": "H5XMjpHi",
+      "name": "First-person Model",
+      "slug": "first-person-model",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "Disable's the Experimental Settings popup, which appears when you create or load world.",
+      "mod_id": "HaaH232J",
+      "name": "Yeetus Experimentus",
+      "slug": "yeetus-experimentus",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "Bringing first-person animations to the third-person",
+      "mod_id": "MPCX6s5C",
+      "name": "Not Enough Animations",
+      "slug": "not-enough-animations",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "Using async path-tracing to hide Block-/Entities that are not visible",
+      "mod_id": "NNAgCjsB",
+      "name": "Entity Culling",
+      "slug": "entityculling",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "Vanilla Worldgen optimization mod",
+      "mod_id": "OnlVIpq5",
+      "name": "Fast Noise",
+      "slug": "zfastnoise",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "A core mod",
+      "mod_id": "OsZiaDHq",
+      "name": "CreativeCore",
+      "slug": "creativecore",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain.",
+      "mod_id": "P7dR8mSH",
+      "name": "Fabric API",
+      "slug": "fabric-api",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "A library mod used by Cassian and IMB11's mods to function.",
+      "mod_id": "SNVQ2c0g",
+      "name": "M.R.U",
+      "slug": "mru",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "Makes it so boats don't go extra fast on ice.",
+      "mod_id": "Udjno5eL",
+      "name": "Ice Boat Nerf",
+      "slug": "ice-boat-nerf",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "A Fabric mod designed to improve the chunk performance of Minecraft.",
+      "mod_id": "VSNURh3q",
+      "name": "Concurrent Chunk Management Engine (Fabric)",
+      "slug": "c2me-fabric",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "Library mod with new configurability and compatibility enhancements for worldgen",
+      "mod_id": "XaDC71GB",
+      "name": "Lithostitched",
+      "slug": "lithostitched",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "Welcome to a more destructive Minecraft than you've ever seen before!",
+      "mod_id": "Xy8aRQKS",
+      "name": "Physics Mod",
+      "slug": "physicsmod",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "A modern shader pack loader for Minecraft intended to be compatible with existing OptiFine shader packs",
+      "mod_id": "YL57xq9U",
+      "name": "Iris Shaders",
+      "slug": "iris",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "A mod that hides or changes the crosshair dependent on context",
+      "mod_id": "ZcR9weSm",
+      "name": "Dynamic Crosshair",
+      "slug": "dynamiccrosshair",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "It's what it says on the tin. A complete upgrade to Minecraft's SFX with over 170 new sound effects for UIs, items, blocks and more.",
+      "mod_id": "ZouiUX7t",
+      "name": "Sounds",
+      "slug": "sound",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "Makes magma deal damage even when players are crouching. Configurable.",
+      "mod_id": "cqDlVM1w",
+      "name": "No Sneaking Over Magma!",
+      "slug": "no-sneaking-over-magma",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "Seasons with changing colors, shifting temperatures, and more!",
+      "mod_id": "e0bNACJD",
+      "name": "Serene Seasons",
+      "slug": "serene-seasons",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "Placeholder and Text manipulation library for your Minecraft mods.",
+      "mod_id": "eXts2L7r",
+      "name": "Text Placeholder API",
+      "slug": "placeholder-api",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "#listentonature",
+      "mod_id": "fM515JnW",
+      "name": "AmbientSounds",
+      "slug": "ambientsounds",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "A difficult, survival-based mod that adds body temperature and thirst!",
+      "mod_id": "ge1sOdFH",
+      "name": "Tough As Nails",
+      "slug": "tough-as-nails",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "No-compromises game logic optimization mod, useful for both single-player games and multi-player servers.",
+      "mod_id": "gvQqBUqZ",
+      "name": "Lithium",
+      "slug": "lithium",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "An early game survival concept for immersion into various mods. Enforces correct tool to be used for breaking blocks, so no tree punching!",
+      "mod_id": "hFW7KOhm",
+      "name": "Survivalist Essentials",
+      "slug": "survivalist-essentials",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "A library that allows mods to animate the player, in a way that doesn't conflict with other mods. (and much more!)",
+      "mod_id": "ha1mEyJS",
+      "name": "Player Animation Library",
+      "slug": "player-animation-library",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "Highly configurable third person camera mod",
+      "mod_id": "kepjj2sy",
+      "name": "Shoulder Surfing Reloaded",
+      "slug": "shoulder-surfing-reloaded",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "Terrain shaping brought to new heights, grander and more varied than ever before!",
+      "mod_id": "lWDHr9jE",
+      "name": "Tectonic",
+      "slug": "tectonic",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "A mod that makes gameplay & movement more satisfying through the use of various camera rotations, and more!",
+      "mod_id": "m0oRwcZx",
+      "name": "Camera Overhaul",
+      "slug": "cameraoverhaul",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "Adds a mod menu to view the list of mods you have installed.",
+      "mod_id": "mOgUt4GM",
+      "name": "Mod Menu",
+      "slug": "modmenu",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "Take control of the position of your GUI and fix the broken hotbar selection texture!",
+      "mod_id": "nCQRBEiR",
+      "name": "Raised",
+      "slug": "raised",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "NeoForge's & Forge's config systems provided to other modding ecosystems. Designed for a multiloader architecture.",
+      "mod_id": "ohNO6lps",
+      "name": "Forge Config API Port",
+      "slug": "forge-config-api-port",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "Makes chat unreportable (where possible)",
+      "mod_id": "qQyHxfxd",
+      "name": "No Chat Reports",
+      "slug": "no-chat-reports",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks.",
+      "mod_id": "qyVF9oeo",
+      "name": "Sound Physics Remastered",
+      "slug": "sound-physics-remastered",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "Little visual improvements by adding a bunch of new particles.",
+      "mod_id": "rI0hvYcd",
+      "name": "Visuality",
+      "slug": "visuality",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "..An Overly complicated Sound Mod...",
+      "mod_id": "rcTfTZr3",
+      "name": "Presence Footsteps",
+      "slug": "presence-footsteps",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "A library mod aimed at abstracting mod loaders and providing various utilities for our mods.",
+      "mod_id": "s3dmwKy5",
+      "name": "GlitchCore",
+      "slug": "glitchcore",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "Massively increase render distance without harming performance.",
+      "mod_id": "uCdwusMi",
+      "name": "Distant Horizons",
+      "slug": "distanthorizons",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "Memory usage optimizations",
+      "mod_id": "uXXizFIs",
+      "name": "FerriteCore",
+      "slug": "ferrite-core",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "A Fabric mod designed to improve server performance at high playercounts.",
+      "mod_id": "wnEe9KBa",
+      "name": "Very Many Players (Fabric)",
+      "slug": "vmp-fabric",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": "Render the player skin layer in 3d!",
+      "mod_id": "zV5r3pPn",
+      "name": "3D Skin Layers",
+      "slug": "3dskinlayers",
+      "source": "modrinth"
+    }
+  ],
+  "versions": [
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "P7dR8mSH",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "1eAoo2KR",
+      "source": "modrinth",
+      "version_id": "pHWDw3Vc",
+      "version_number": "3.8.2+1.21.11-fabric",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "9s6osm5g",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "mod_id": "51shyZVL",
+      "source": "modrinth",
+      "version_id": "wOzykoLV",
+      "version_number": "1.6.2",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "mod_id": "5ZwdcRci",
+      "source": "modrinth",
+      "version_id": "QwkfUKSj",
+      "version_number": "1.14.2+1.21.11-fabric",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "ha1mEyJS",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "P7dR8mSH",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "9s6osm5g",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "5sy6g3kz",
+      "source": "modrinth",
+      "version_id": "FxYUDqeX",
+      "version_number": "3.0.1+1.21.11-fabric",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "XaDC71GB",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "8oi3bsk5",
+      "source": "modrinth",
+      "version_id": "vVdNToqE",
+      "version_number": "2.6.1",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "9s6osm5g",
+      "source": "modrinth",
+      "version_id": "xuX40TN5",
+      "version_number": "21.11.153+fabric",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "AANobbMI",
+      "source": "modrinth",
+      "version_id": "UddlN6L4",
+      "version_number": "mc1.21.11-0.8.7-fabric",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "mOgUt4GM",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "9s6osm5g",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "P7dR8mSH",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric",
+        "forge",
+        "neoforge"
+      ],
+      "mod_id": "Fb4jn8m6",
+      "source": "modrinth",
+      "version_id": "Hnj3s9Ez",
+      "version_number": "1.21.11-1.21.11.3",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "P7dR8mSH",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "MPCX6s5C",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "H5XMjpHi",
+      "source": "modrinth",
+      "version_id": "NrAhDeVj",
+      "version_number": "2.7.0",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "P7dR8mSH",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.21",
+        "1.21.1",
+        "1.21.2",
+        "1.21.3",
+        "1.21.4",
+        "1.21.5",
+        "1.21.6",
+        "1.21.7",
+        "1.21.8",
+        "1.21.9",
+        "1.21.10",
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "HaaH232J",
+      "source": "modrinth",
+      "version_id": "b7C4gGUr",
+      "version_number": "87.0.0",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "P7dR8mSH",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "MPCX6s5C",
+      "source": "modrinth",
+      "version_id": "xTO0ETur",
+      "version_number": "1.12.0",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "P7dR8mSH",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "NNAgCjsB",
+      "source": "modrinth",
+      "version_id": "SK12FGQf",
+      "version_number": "1.10.0",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "incompatible",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "KOHu7RCS",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "mod_id": "OnlVIpq5",
+      "source": "modrinth",
+      "version_id": "d1y4JGMv",
+      "version_number": "1.0.27+1.21.11",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "P7dR8mSH",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "OsZiaDHq",
+      "source": "modrinth",
+      "version_id": "jyLHWJlj",
+      "version_number": "2.14.11",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "P7dR8mSH",
+      "source": "modrinth",
+      "version_id": "i5tSkVBH",
+      "version_number": "0.141.3+1.21.11",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "SNVQ2c0g",
+      "source": "modrinth",
+      "version_id": "XXzIJdq5",
+      "version_number": "1.0.26+edge+1.21.11-fabric",
+      "version_type": "beta"
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "P7dR8mSH",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.21.2",
+        "1.21.3",
+        "1.21.4",
+        "1.21.5",
+        "1.21.6",
+        "1.21.7",
+        "1.21.8",
+        "1.21.9",
+        "1.21.10",
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "mod_id": "Udjno5eL",
+      "source": "modrinth",
+      "version_id": "pil43Syq",
+      "version_number": "1.2.7+MC1.21.2-1.21.11",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "VSNURh3q",
+      "source": "modrinth",
+      "version_id": "vsiqVtu6",
+      "version_number": "0.3.7+alpha.0.9+1.21.11",
+      "version_type": "alpha"
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "XaDC71GB",
+      "source": "modrinth",
+      "version_id": "s47RpVwc",
+      "version_number": "1.6.1-fabric-1.21.11",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "mod_id": "Xy8aRQKS",
+      "source": "modrinth",
+      "version_id": "iMpRarRJ",
+      "version_number": "3.1.36",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "AANobbMI",
+          "target_version_id": "UddlN6L4"
+        }
+      ],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "YL57xq9U",
+      "source": "modrinth",
+      "version_id": "fDpuVzVr",
+      "version_number": "1.10.7+1.21.11-fabric",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "mOgUt4GM",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "EwPIWPJ9",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "P7dR8mSH",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "1eAoo2KR",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "ZcR9weSm",
+      "source": "modrinth",
+      "version_id": "9p0w9Gon",
+      "version_number": "9.11+1.21.11-fabric",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "1eAoo2KR",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "SKW62Pht",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "P7dR8mSH",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "SNVQ2c0g",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "ZouiUX7t",
+      "source": "modrinth",
+      "version_id": "wvhDSvYI",
+      "version_number": "2.4.23+1.21.11-fabric",
+      "version_type": "beta"
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "tbAZnTrE",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "9s6osm5g",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "mOgUt4GM",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "P7dR8mSH",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "mod_id": "cqDlVM1w",
+      "source": "modrinth",
+      "version_id": "S2K3qNfv",
+      "version_number": "1.5.1+MC1.21.11",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "s3dmwKy5",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "P7dR8mSH",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "e0bNACJD",
+      "source": "modrinth",
+      "version_id": "6GpaVF7N",
+      "version_number": "21.11.0.4",
+      "version_type": "beta"
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.21.10",
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "mod_id": "eXts2L7r",
+      "source": "modrinth",
+      "version_id": "qxjzQ9xY",
+      "version_number": "2.8.2+1.21.10",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "P7dR8mSH",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "OsZiaDHq",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "fM515JnW",
+      "source": "modrinth",
+      "version_id": "JZUqW70J",
+      "version_number": "6.3.5",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "s3dmwKy5",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "P7dR8mSH",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "ge1sOdFH",
+      "source": "modrinth",
+      "version_id": "WPscGvLW",
+      "version_number": "21.11.0.4",
+      "version_type": "beta"
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "mod_id": "gvQqBUqZ",
+      "source": "modrinth",
+      "version_id": "Ow7wA0kG",
+      "version_number": "mc1.21.11-0.21.4-fabric",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "4Vno77MY",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "HJetCzWo",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "oDobngty",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "AAiRU4aQ",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "sUbuUC7R",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "aY8vAgyv",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "cqzqfZKX",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "1DWmBJVA",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "P7dR8mSH",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "ra7o6Sl7",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "tPLE214j",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "AwiAYDUq",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "GyKzAh3l",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "RdiVEh3O",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "hFW7KOhm",
+      "source": "modrinth",
+      "version_id": "mAPu896K",
+      "version_number": "1.21.11-6.3.2.1-FABRIC",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "ha1mEyJS",
+      "source": "modrinth",
+      "version_id": "97vS1xaQ",
+      "version_number": "1.1.6",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "incompatible",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "G1s2WpNo",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "ohNO6lps",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "P7dR8mSH",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "incompatible",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "V5ujR2yw",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "incompatible",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "Q5UvqqQd",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "kepjj2sy",
+      "source": "modrinth",
+      "version_id": "s4oI73di",
+      "version_number": "1.21.11-4.22.3+fabric",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "lWDHr9jE",
+      "source": "modrinth",
+      "version_id": "7olSYFxL",
+      "version_number": "3.0.19",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "mOgUt4GM",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "9s6osm5g",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "mod_id": "m0oRwcZx",
+      "source": "modrinth",
+      "version_id": "Pq5dOFBk",
+      "version_number": "2.0.6-fabric+mc.1.21.11-plus",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "eXts2L7r",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "P7dR8mSH",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "mod_id": "mOgUt4GM",
+      "source": "modrinth",
+      "version_id": "Tyk71iSw",
+      "version_number": "17.0.0",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "P7dR8mSH",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "nCQRBEiR",
+      "source": "modrinth",
+      "version_id": "lgLBYQO3",
+      "version_number": "Fabric-1.21.11-5.1.2",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "P7dR8mSH",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "mOgUt4GM",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "ohNO6lps",
+      "source": "modrinth",
+      "version_id": "uXrWPsCu",
+      "version_number": "21.11.1",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "9s6osm5g",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "P7dR8mSH",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "mOgUt4GM",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "qQyHxfxd",
+      "source": "modrinth",
+      "version_id": "rhykGstm",
+      "version_number": "Fabric-1.21.11-v2.18.0",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "mOgUt4GM",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "9s6osm5g",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "9eGKb6K1",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "mod_id": "qyVF9oeo",
+      "source": "modrinth",
+      "version_id": "pfqxi9qs",
+      "version_number": "fabric-1.21.11-1.5.1",
+      "version_type": "alpha"
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "P7dR8mSH",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "9s6osm5g",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "rI0hvYcd",
+      "source": "modrinth",
+      "version_id": "6vzUj4RD",
+      "version_number": "0.7.13+1.21.11",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "embedded",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "9aNz8Zqn",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "P7dR8mSH",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "optional",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "JBjInUXM",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.21.11-pre1",
+        "1.21.11-pre2",
+        "1.21.11-pre3",
+        "1.21.11-pre4",
+        "1.21.11-pre5",
+        "1.21.11-rc1",
+        "1.21.11-rc2",
+        "1.21.11-rc3",
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "mod_id": "rcTfTZr3",
+      "source": "modrinth",
+      "version_id": "eEkO3jAC",
+      "version_number": "1.12.3+1.21.11",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "s3dmwKy5",
+      "source": "modrinth",
+      "version_id": "CO7NeLTt",
+      "version_number": "21.11.0.4",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric",
+        "neoforge"
+      ],
+      "mod_id": "uCdwusMi",
+      "source": "modrinth",
+      "version_id": "GT3Bm3GN",
+      "version_number": "2.4.5-b-1.21.11",
+      "version_type": "beta"
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "uXXizFIs",
+      "source": "modrinth",
+      "version_id": "Ii0gP3D8",
+      "version_number": "8.2.0-fabric",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "wnEe9KBa",
+      "source": "modrinth",
+      "version_id": "7Cxc2cAR",
+      "version_number": "0.2.0+beta.7.227+1.21.11",
+      "version_type": "alpha"
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "P7dR8mSH",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "zV5r3pPn",
+      "source": "modrinth",
+      "version_id": "ntxaPFv3",
+      "version_number": "1.11.1",
+      "version_type": "release"
+    }
+  ]
+}

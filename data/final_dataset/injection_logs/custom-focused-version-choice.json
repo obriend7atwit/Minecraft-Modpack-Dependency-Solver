@@ -1,0 +1,13 @@
+{
+  "case_id": "custom-focused-version-choice",
+  "expected_action_types": [
+    "upgrade_mod"
+  ],
+  "expected_issue_types": [
+    "minecraft_version_mismatch"
+  ],
+  "manually_reviewed": false,
+  "modification_description": "Focused deterministic version choice case generated offline.",
+  "modification_type": "manual",
+  "original_case_id": null
+}

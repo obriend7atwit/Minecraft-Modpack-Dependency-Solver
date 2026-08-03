@@ -1,0 +1,18 @@
+{
+  "case_id": "search-tie-03",
+  "changed_mod_ids": [],
+  "description": "Controlled tie breaking search case.",
+  "ground_truth_source": "construction_or_inverse_injection",
+  "known_inverse_repair": [
+    {
+      "action_type": "upgrade_mod",
+      "cost": 4,
+      "reason": "Reference-enumerated controlled search case.",
+      "target_mod_id": "search-tie-03-b",
+      "target_version_id": "search-tie-03-b-v2",
+      "target_version_number": "2.0.0"
+    }
+  ],
+  "observed_solver_result": null,
+  "parent_case_id": null
+}

@@ -1,0 +1,128 @@
+{
+  "config": {
+    "loader": "fabric",
+    "minecraft_version": "1.20.1",
+    "selected_mods": [
+      {
+        "mod_id": "P7dR8mSH",
+        "version_id": "hu6gukgT",
+        "version_number": null
+      },
+      {
+        "mod_id": "mOgUt4GM",
+        "version_id": "lEkperf6",
+        "version_number": null
+      },
+      {
+        "mod_id": "AANobbMI",
+        "version_id": "OihdIimA",
+        "version_number": null
+      },
+      {
+        "mod_id": "gvQqBUqZ",
+        "version_id": "iEcXOkz4",
+        "version_number": null
+      }
+    ]
+  },
+  "projects": [
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "P7dR8mSH",
+      "name": "Fabric API",
+      "slug": "fabric-api",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "mOgUt4GM",
+      "name": "Mod Menu",
+      "slug": "modmenu",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "AANobbMI",
+      "name": "Sodium",
+      "slug": "sodium",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "gvQqBUqZ",
+      "name": "Lithium",
+      "slug": "lithium",
+      "source": "modrinth"
+    }
+  ],
+  "versions": [
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "P7dR8mSH",
+      "source": "modrinth",
+      "version_id": "hu6gukgT",
+      "version_number": "0.92.9+1.20.1",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "P7dR8mSH",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "mOgUt4GM",
+      "source": "modrinth",
+      "version_id": "lEkperf6",
+      "version_number": "7.2.2",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "AANobbMI",
+      "source": "modrinth",
+      "version_id": "OihdIimA",
+      "version_number": "mc1.20.1-0.5.13-fabric",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "gvQqBUqZ",
+      "source": "modrinth",
+      "version_id": "iEcXOkz4",
+      "version_number": "mc1.20.1-0.11.4-fabric",
+      "version_type": "release"
+    }
+  ]
+}

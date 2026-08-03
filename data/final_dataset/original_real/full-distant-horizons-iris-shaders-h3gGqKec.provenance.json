@@ -1,0 +1,22 @@
+{
+  "collected_at": "2026-07-20T00:44:34.367076+00:00",
+  "collection_method": "official_modrinth_api_mrpack_manifest_only",
+  "manifest_file_count": 14,
+  "manual_review_required": true,
+  "maximum_required_depth": 1,
+  "metadata_coverage_rate": 1.0,
+  "mod_jars_downloaded": false,
+  "pack_size_category": "small",
+  "pack_title": "Distant Horizons & Iris Shaders",
+  "project_id": "yiYYuulE",
+  "publication_ready": false,
+  "raw_archive_retained": false,
+  "required_edge_count": 7,
+  "resolved_mod_count": 14,
+  "selected_mod_count": 14,
+  "slug": "distant-horizons-iris-shaders",
+  "source_manifest_sha256": "4b236bb949c38ada1f32124abb2e11aa39e3e1374dbed370a7279ddd9a43b055",
+  "source_url": "https://modrinth.com/modpack/distant-horizons-iris-shaders/version/h3gGqKec",
+  "unresolved_mod_count": 0,
+  "version_id": "h3gGqKec"
+}

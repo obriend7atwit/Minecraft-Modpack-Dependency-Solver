@@ -1,0 +1,312 @@
+{
+  "config": {
+    "loader": "fabric",
+    "minecraft_version": "1.20.1",
+    "selected_mods": [
+      {
+        "mod_id": "custom-small-mod-001",
+        "version_id": "custom-small-mod-001-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-small-mod-002",
+        "version_id": "custom-small-mod-002-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-small-mod-003",
+        "version_id": "custom-small-mod-003-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-small-mod-004",
+        "version_id": "custom-small-mod-004-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-small-mod-005",
+        "version_id": "custom-small-mod-005-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-small-mod-006",
+        "version_id": "custom-small-mod-006-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-small-mod-007",
+        "version_id": "custom-small-mod-007-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-small-mod-008",
+        "version_id": "custom-small-mod-008-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-small-mod-009",
+        "version_id": "custom-small-mod-009-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-small-mod-010",
+        "version_id": "custom-small-mod-010-1.0.0",
+        "version_number": null
+      }
+    ]
+  },
+  "projects": [
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-small-mod-001",
+      "name": "Custom Small Mod 001",
+      "slug": "custom-small-mod-001",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-small-mod-002",
+      "name": "Custom Small Mod 002",
+      "slug": "custom-small-mod-002",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-small-mod-003",
+      "name": "Custom Small Mod 003",
+      "slug": "custom-small-mod-003",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-small-mod-004",
+      "name": "Custom Small Mod 004",
+      "slug": "custom-small-mod-004",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-small-mod-005",
+      "name": "Custom Small Mod 005",
+      "slug": "custom-small-mod-005",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-small-mod-006",
+      "name": "Custom Small Mod 006",
+      "slug": "custom-small-mod-006",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-small-mod-007",
+      "name": "Custom Small Mod 007",
+      "slug": "custom-small-mod-007",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-small-mod-008",
+      "name": "Custom Small Mod 008",
+      "slug": "custom-small-mod-008",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-small-mod-009",
+      "name": "Custom Small Mod 009",
+      "slug": "custom-small-mod-009",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-small-mod-010",
+      "name": "Custom Small Mod 010",
+      "slug": "custom-small-mod-010",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-small-required-helper",
+      "name": "Custom Small Required Helper",
+      "slug": "custom-small-required-helper",
+      "source": "synthetic"
+    }
+  ],
+  "versions": [
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": null,
+          "target_mod_id": "custom-small-required-helper",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-small-mod-001",
+      "source": "synthetic",
+      "version_id": "custom-small-mod-001-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-small-mod-002",
+      "source": "synthetic",
+      "version_id": "custom-small-mod-002-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-small-mod-003",
+      "source": "synthetic",
+      "version_id": "custom-small-mod-003-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-small-mod-004",
+      "source": "synthetic",
+      "version_id": "custom-small-mod-004-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-small-mod-005",
+      "source": "synthetic",
+      "version_id": "custom-small-mod-005-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-small-mod-006",
+      "source": "synthetic",
+      "version_id": "custom-small-mod-006-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-small-mod-007",
+      "source": "synthetic",
+      "version_id": "custom-small-mod-007-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-small-mod-008",
+      "source": "synthetic",
+      "version_id": "custom-small-mod-008-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-small-mod-009",
+      "source": "synthetic",
+      "version_id": "custom-small-mod-009-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-small-mod-010",
+      "source": "synthetic",
+      "version_id": "custom-small-mod-010-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-small-required-helper",
+      "source": "synthetic",
+      "version_id": "custom-small-required-helper-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    }
+  ]
+}

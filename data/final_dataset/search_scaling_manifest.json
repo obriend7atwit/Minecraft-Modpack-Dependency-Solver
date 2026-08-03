@@ -1,0 +1,341 @@
+{
+  "cases": [
+    {
+      "case_id": "search-scale-01-moderate",
+      "compatible_alternatives_per_mod": 1,
+      "decision_mod_count": 5,
+      "display_name": "Moderate candidate product",
+      "expected_limit_reached": false,
+      "expected_solution_status": "solution_found",
+      "fixture_path": "search_scaling/search-scale-01-moderate.json",
+      "generation_notes": "Selected incompatible versions were substituted for known compatible versions. The stored inverse upgrades restore compatibility. State targets describe observed search effort, not expected-answer creation.",
+      "ground_truth_method": "inverse_injection",
+      "includes_dependency_conflict_trap": false,
+      "known_minimum_cost": null,
+      "known_valid_repair": [
+        {
+          "action_type": "upgrade_mod",
+          "cost": 4,
+          "reason": "Restore the independently constructed compatible version.",
+          "target_mod_id": "search-scale-01-moderate-decision-00",
+          "target_version_id": "search-scale-01-moderate-decision-00-clean-a",
+          "target_version_number": "2.0.0"
+        },
+        {
+          "action_type": "upgrade_mod",
+          "cost": 4,
+          "reason": "Restore the independently constructed compatible version.",
+          "target_mod_id": "search-scale-01-moderate-decision-01",
+          "target_version_id": "search-scale-01-moderate-decision-01-clean-a",
+          "target_version_number": "2.0.0"
+        },
+        {
+          "action_type": "upgrade_mod",
+          "cost": 4,
+          "reason": "Restore the independently constructed compatible version.",
+          "target_mod_id": "search-scale-01-moderate-decision-02",
+          "target_version_id": "search-scale-01-moderate-decision-02-clean-a",
+          "target_version_number": "2.0.0"
+        },
+        {
+          "action_type": "upgrade_mod",
+          "cost": 4,
+          "reason": "Restore the independently constructed compatible version.",
+          "target_mod_id": "search-scale-01-moderate-decision-03",
+          "target_version_id": "search-scale-01-moderate-decision-03-clean-a",
+          "target_version_number": "2.0.0"
+        },
+        {
+          "action_type": "upgrade_mod",
+          "cost": 4,
+          "reason": "Restore the independently constructed compatible version.",
+          "target_mod_id": "search-scale-01-moderate-decision-04",
+          "target_version_id": "search-scale-01-moderate-decision-04-clean-a",
+          "target_version_number": "2.0.0"
+        }
+      ],
+      "search_limits": {
+        "max_expanded_states": 2000,
+        "max_repair_actions": 5,
+        "timeout_seconds": 30.0
+      },
+      "target_max_states": 60,
+      "target_min_states": 25
+    },
+    {
+      "case_id": "search-scale-02-intermediate",
+      "compatible_alternatives_per_mod": 1,
+      "decision_mod_count": 7,
+      "display_name": "Intermediate candidate product",
+      "expected_limit_reached": false,
+      "expected_solution_status": "solution_found",
+      "fixture_path": "search_scaling/search-scale-02-intermediate.json",
+      "generation_notes": "Selected incompatible versions were substituted for known compatible versions. The stored inverse upgrades restore compatibility. State targets describe observed search effort, not expected-answer creation.",
+      "ground_truth_method": "inverse_injection",
+      "includes_dependency_conflict_trap": false,
+      "known_minimum_cost": null,
+      "known_valid_repair": [
+        {
+          "action_type": "upgrade_mod",
+          "cost": 4,
+          "reason": "Restore the independently constructed compatible version.",
+          "target_mod_id": "search-scale-02-intermediate-decision-00",
+          "target_version_id": "search-scale-02-intermediate-decision-00-clean-a",
+          "target_version_number": "2.0.0"
+        },
+        {
+          "action_type": "upgrade_mod",
+          "cost": 4,
+          "reason": "Restore the independently constructed compatible version.",
+          "target_mod_id": "search-scale-02-intermediate-decision-01",
+          "target_version_id": "search-scale-02-intermediate-decision-01-clean-a",
+          "target_version_number": "2.0.0"
+        },
+        {
+          "action_type": "upgrade_mod",
+          "cost": 4,
+          "reason": "Restore the independently constructed compatible version.",
+          "target_mod_id": "search-scale-02-intermediate-decision-02",
+          "target_version_id": "search-scale-02-intermediate-decision-02-clean-a",
+          "target_version_number": "2.0.0"
+        },
+        {
+          "action_type": "upgrade_mod",
+          "cost": 4,
+          "reason": "Restore the independently constructed compatible version.",
+          "target_mod_id": "search-scale-02-intermediate-decision-03",
+          "target_version_id": "search-scale-02-intermediate-decision-03-clean-a",
+          "target_version_number": "2.0.0"
+        },
+        {
+          "action_type": "upgrade_mod",
+          "cost": 4,
+          "reason": "Restore the independently constructed compatible version.",
+          "target_mod_id": "search-scale-02-intermediate-decision-04",
+          "target_version_id": "search-scale-02-intermediate-decision-04-clean-a",
+          "target_version_number": "2.0.0"
+        },
+        {
+          "action_type": "upgrade_mod",
+          "cost": 4,
+          "reason": "Restore the independently constructed compatible version.",
+          "target_mod_id": "search-scale-02-intermediate-decision-05",
+          "target_version_id": "search-scale-02-intermediate-decision-05-clean-a",
+          "target_version_number": "2.0.0"
+        },
+        {
+          "action_type": "upgrade_mod",
+          "cost": 4,
+          "reason": "Restore the independently constructed compatible version.",
+          "target_mod_id": "search-scale-02-intermediate-decision-06",
+          "target_version_id": "search-scale-02-intermediate-decision-06-clean-a",
+          "target_version_number": "2.0.0"
+        }
+      ],
+      "search_limits": {
+        "max_expanded_states": 2000,
+        "max_repair_actions": 7,
+        "timeout_seconds": 30.0
+      },
+      "target_max_states": 150,
+      "target_min_states": 70
+    },
+    {
+      "case_id": "search-scale-03-deep-interaction",
+      "compatible_alternatives_per_mod": 2,
+      "decision_mod_count": 5,
+      "display_name": "Deep equal-cost candidate interaction",
+      "expected_limit_reached": false,
+      "expected_solution_status": "solution_found",
+      "fixture_path": "search_scaling/search-scale-03-deep-interaction.json",
+      "generation_notes": "Selected incompatible versions were substituted for known compatible versions. The stored inverse upgrades restore compatibility. State targets describe observed search effort, not expected-answer creation.",
+      "ground_truth_method": "inverse_injection",
+      "includes_dependency_conflict_trap": false,
+      "known_minimum_cost": null,
+      "known_valid_repair": [
+        {
+          "action_type": "upgrade_mod",
+          "cost": 4,
+          "reason": "Restore the independently constructed compatible version.",
+          "target_mod_id": "search-scale-03-deep-interaction-decision-00",
+          "target_version_id": "search-scale-03-deep-interaction-decision-00-clean-a",
+          "target_version_number": "2.0.0"
+        },
+        {
+          "action_type": "upgrade_mod",
+          "cost": 4,
+          "reason": "Restore the independently constructed compatible version.",
+          "target_mod_id": "search-scale-03-deep-interaction-decision-01",
+          "target_version_id": "search-scale-03-deep-interaction-decision-01-clean-a",
+          "target_version_number": "2.0.0"
+        },
+        {
+          "action_type": "upgrade_mod",
+          "cost": 4,
+          "reason": "Restore the independently constructed compatible version.",
+          "target_mod_id": "search-scale-03-deep-interaction-decision-02",
+          "target_version_id": "search-scale-03-deep-interaction-decision-02-clean-a",
+          "target_version_number": "2.0.0"
+        },
+        {
+          "action_type": "upgrade_mod",
+          "cost": 4,
+          "reason": "Restore the independently constructed compatible version.",
+          "target_mod_id": "search-scale-03-deep-interaction-decision-03",
+          "target_version_id": "search-scale-03-deep-interaction-decision-03-clean-a",
+          "target_version_number": "2.0.0"
+        },
+        {
+          "action_type": "upgrade_mod",
+          "cost": 4,
+          "reason": "Restore the independently constructed compatible version.",
+          "target_mod_id": "search-scale-03-deep-interaction-decision-04",
+          "target_version_id": "search-scale-03-deep-interaction-decision-04-clean-a",
+          "target_version_number": "2.0.0"
+        }
+      ],
+      "search_limits": {
+        "max_expanded_states": 2000,
+        "max_repair_actions": 5,
+        "timeout_seconds": 30.0
+      },
+      "target_max_states": 350,
+      "target_min_states": 175
+    },
+    {
+      "case_id": "search-scale-04-high-bounded",
+      "compatible_alternatives_per_mod": 2,
+      "decision_mod_count": 6,
+      "display_name": "High bounded candidate interaction",
+      "expected_limit_reached": true,
+      "expected_solution_status": "solution_found",
+      "fixture_path": "search_scaling/search-scale-04-high-bounded.json",
+      "generation_notes": "Selected incompatible versions were substituted for known compatible versions. The stored inverse upgrades restore compatibility. State targets describe observed search effort, not expected-answer creation.",
+      "ground_truth_method": "inverse_injection",
+      "includes_dependency_conflict_trap": false,
+      "known_minimum_cost": null,
+      "known_valid_repair": [
+        {
+          "action_type": "upgrade_mod",
+          "cost": 4,
+          "reason": "Restore the independently constructed compatible version.",
+          "target_mod_id": "search-scale-04-high-bounded-decision-00",
+          "target_version_id": "search-scale-04-high-bounded-decision-00-clean-a",
+          "target_version_number": "2.0.0"
+        },
+        {
+          "action_type": "upgrade_mod",
+          "cost": 4,
+          "reason": "Restore the independently constructed compatible version.",
+          "target_mod_id": "search-scale-04-high-bounded-decision-01",
+          "target_version_id": "search-scale-04-high-bounded-decision-01-clean-a",
+          "target_version_number": "2.0.0"
+        },
+        {
+          "action_type": "upgrade_mod",
+          "cost": 4,
+          "reason": "Restore the independently constructed compatible version.",
+          "target_mod_id": "search-scale-04-high-bounded-decision-02",
+          "target_version_id": "search-scale-04-high-bounded-decision-02-clean-a",
+          "target_version_number": "2.0.0"
+        },
+        {
+          "action_type": "upgrade_mod",
+          "cost": 4,
+          "reason": "Restore the independently constructed compatible version.",
+          "target_mod_id": "search-scale-04-high-bounded-decision-03",
+          "target_version_id": "search-scale-04-high-bounded-decision-03-clean-a",
+          "target_version_number": "2.0.0"
+        },
+        {
+          "action_type": "upgrade_mod",
+          "cost": 4,
+          "reason": "Restore the independently constructed compatible version.",
+          "target_mod_id": "search-scale-04-high-bounded-decision-04",
+          "target_version_id": "search-scale-04-high-bounded-decision-04-clean-a",
+          "target_version_number": "2.0.0"
+        },
+        {
+          "action_type": "upgrade_mod",
+          "cost": 4,
+          "reason": "Restore the independently constructed compatible version.",
+          "target_mod_id": "search-scale-04-high-bounded-decision-05",
+          "target_version_id": "search-scale-04-high-bounded-decision-05-clean-a",
+          "target_version_number": "2.0.0"
+        }
+      ],
+      "search_limits": {
+        "max_expanded_states": 500,
+        "max_repair_actions": 6,
+        "timeout_seconds": 30.0
+      },
+      "target_max_states": 650,
+      "target_min_states": 350
+    },
+    {
+      "case_id": "search-scale-05-extreme-bounded",
+      "compatible_alternatives_per_mod": 3,
+      "decision_mod_count": 5,
+      "display_name": "Extreme bounded interaction with dependency trap",
+      "expected_limit_reached": true,
+      "expected_solution_status": "solution_found",
+      "fixture_path": "search_scaling/search-scale-05-extreme-bounded.json",
+      "generation_notes": "Selected incompatible versions were substituted for known compatible versions. The stored inverse upgrades restore compatibility. State targets describe observed search effort, not expected-answer creation.",
+      "ground_truth_method": "inverse_injection",
+      "includes_dependency_conflict_trap": true,
+      "known_minimum_cost": null,
+      "known_valid_repair": [
+        {
+          "action_type": "upgrade_mod",
+          "cost": 4,
+          "reason": "Restore the independently constructed compatible version.",
+          "target_mod_id": "search-scale-05-extreme-bounded-decision-00",
+          "target_version_id": "search-scale-05-extreme-bounded-decision-00-clean-a",
+          "target_version_number": "2.0.0"
+        },
+        {
+          "action_type": "upgrade_mod",
+          "cost": 4,
+          "reason": "Restore the independently constructed compatible version.",
+          "target_mod_id": "search-scale-05-extreme-bounded-decision-01",
+          "target_version_id": "search-scale-05-extreme-bounded-decision-01-clean-a",
+          "target_version_number": "2.0.0"
+        },
+        {
+          "action_type": "upgrade_mod",
+          "cost": 4,
+          "reason": "Restore the independently constructed compatible version.",
+          "target_mod_id": "search-scale-05-extreme-bounded-decision-02",
+          "target_version_id": "search-scale-05-extreme-bounded-decision-02-clean-a",
+          "target_version_number": "2.0.0"
+        },
+        {
+          "action_type": "upgrade_mod",
+          "cost": 4,
+          "reason": "Restore the independently constructed compatible version.",
+          "target_mod_id": "search-scale-05-extreme-bounded-decision-03",
+          "target_version_id": "search-scale-05-extreme-bounded-decision-03-clean-a",
+          "target_version_number": "2.0.0"
+        },
+        {
+          "action_type": "upgrade_mod",
+          "cost": 4,
+          "reason": "Restore the independently constructed compatible version.",
+          "target_mod_id": "search-scale-05-extreme-bounded-decision-04",
+          "target_version_id": "search-scale-05-extreme-bounded-decision-04-clean-a",
+          "target_version_number": "2.0.0"
+        }
+      ],
+      "search_limits": {
+        "max_expanded_states": 750,
+        "max_repair_actions": 5,
+        "timeout_seconds": 30.0
+      },
+      "target_max_states": 850,
+      "target_min_states": 650
+    }
+  ],
+  "dataset_name": "Controlled Search Scaling Supplement",
+  "dataset_version": "1.0.0",
+  "description": "Five deterministic candidate-product cases kept separate from the main evaluation corpus. They measure bounded search-state growth and are not complete official modpacks."
+}

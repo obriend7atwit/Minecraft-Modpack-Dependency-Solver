@@ -1,0 +1,13 @@
+{
+  "case_id": "custom-focused-multiple-missing",
+  "expected_action_types": [
+    "add_dependency"
+  ],
+  "expected_issue_types": [
+    "missing_dependency"
+  ],
+  "manually_reviewed": false,
+  "modification_description": "Focused deterministic multiple missing case generated offline.",
+  "modification_type": "manual",
+  "original_case_id": null
+}

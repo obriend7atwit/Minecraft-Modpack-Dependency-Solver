@@ -1,0 +1,160 @@
+{
+  "config": {
+    "loader": "fabric",
+    "minecraft_version": "1.20.1",
+    "selected_mods": [
+      {
+        "mod_id": "unsat-a",
+        "version_id": "unsat-a-1.0.0",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "unsat-d",
+        "version_id": "unsat-d-1.0.0",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "unsat-e",
+        "version_id": "unsat-e-1.0.0",
+        "version_number": "1.0.0"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "unsat-a",
+      "name": "Unsat A",
+      "slug": "unsat-a",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "unsat-b",
+      "name": "Unsat B",
+      "slug": "unsat-b",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "unsat-d",
+      "name": "Unsat D",
+      "slug": "unsat-d",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "unsat-e",
+      "name": "Unsat E",
+      "slug": "unsat-e",
+      "source": "synthetic"
+    }
+  ],
+  "versions": [
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "unsat-b",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "unsat-a",
+      "source": "synthetic",
+      "version_id": "unsat-a-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "unsat-d",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "incompatible",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "unsat-e",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "unsat-b",
+      "source": "synthetic",
+      "version_id": "unsat-b-fabric",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "mod_id": "unsat-b",
+      "source": "synthetic",
+      "version_id": "unsat-b-forge",
+      "version_number": "2.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "unsat-e",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "unsat-d",
+      "source": "synthetic",
+      "version_id": "unsat-d-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "unsat-e",
+      "source": "synthetic",
+      "version_id": "unsat-e-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    }
+  ]
+}

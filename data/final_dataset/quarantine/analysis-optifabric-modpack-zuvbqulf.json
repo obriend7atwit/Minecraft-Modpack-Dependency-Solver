@@ -1,0 +1,27 @@
+{
+  "analysis_status": "excluded_pending_metadata_review",
+  "checker_errors": [
+    {
+      "affected_mod_ids": [
+        "w7ThoJFB",
+        "1eAoo2KR"
+      ],
+      "issue_type": "unknown_dependency_target",
+      "message": "Selected version 'w7ThoJFB@2.16.1+26.2' has a required dependency target '1eAoo2KR' that is not available in current metadata."
+    },
+    {
+      "affected_mod_ids": [
+        "w7ThoJFB",
+        "1eAoo2KR"
+      ],
+      "issue_type": "missing_dependency",
+      "message": "Selected version 'w7ThoJFB@2.16.1+26.2' requires '1eAoo2KR', but it is not selected."
+    }
+  ],
+  "collection_status": "collected",
+  "normalized_case_path": "data\\final_dataset\\original_real\\full-optifabric-modpack-zUvbqULF.json",
+  "reason": "The normalized source manifest produces checker errors and cannot serve as an unchanged compatible control without manual adjudication.",
+  "slug": "optifabric-modpack",
+  "source_url": "https://modrinth.com/modpack/optifabric-modpack/version/zUvbqULF",
+  "version_id": "zUvbqULF"
+}

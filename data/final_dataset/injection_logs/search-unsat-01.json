@@ -1,0 +1,9 @@
+{
+  "case_id": "search-unsat-01",
+  "changed_mod_ids": [],
+  "description": "Controlled no solution search case.",
+  "ground_truth_source": "construction_or_inverse_injection",
+  "known_inverse_repair": [],
+  "observed_solver_result": null,
+  "parent_case_id": null
+}

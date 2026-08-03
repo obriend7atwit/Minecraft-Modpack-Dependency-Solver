@@ -1,0 +1,9 @@
+{
+  "case_id": "cascade-11-no-solution",
+  "changed_mod_ids": [],
+  "description": "Every usable required-library choice either conflicts with or requires the same selected mod, so no supported complete plan exists.",
+  "ground_truth_source": "construction_or_inverse_injection",
+  "known_inverse_repair": [],
+  "observed_solver_result": null,
+  "parent_case_id": null
+}

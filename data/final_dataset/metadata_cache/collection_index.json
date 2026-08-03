@@ -1,0 +1,39 @@
+{
+  "entries": {
+    "projects:vanilla-perfected": {
+      "api_url": "https://api.modrinth.com/v2/project/vanilla-perfected",
+      "cache_path": "data\\final_dataset\\metadata_cache\\raw\\projects\\vanilla-perfected.json",
+      "category": "projects",
+      "collected_at": "2026-07-14T22:52:05.525230+00:00",
+      "resource_id": "vanilla-perfected"
+    },
+    "seed:AANobbMI": {
+      "resource_id": "AANobbMI",
+      "source": "reduced cached fixture"
+    },
+    "seed:Orvt0mRa": {
+      "resource_id": "Orvt0mRa",
+      "source": "reduced cached fixture"
+    },
+    "seed:P7dR8mSH": {
+      "resource_id": "P7dR8mSH",
+      "source": "reduced cached fixture"
+    },
+    "seed:gvQqBUqZ": {
+      "resource_id": "gvQqBUqZ",
+      "source": "reduced cached fixture"
+    },
+    "seed:mOgUt4GM": {
+      "resource_id": "mOgUt4GM",
+      "source": "reduced cached fixture"
+    },
+    "versions:vanilla-perfected": {
+      "api_url": "https://api.modrinth.com/v2/project/vanilla-perfected/version",
+      "cache_path": "data\\final_dataset\\metadata_cache\\raw\\versions\\vanilla-perfected.json",
+      "category": "versions",
+      "collected_at": "2026-07-14T22:52:05.845936+00:00",
+      "resource_id": "vanilla-perfected"
+    }
+  },
+  "note": "Seeded from reduced cached evaluation fixtures; no live request was made."
+}

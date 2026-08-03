@@ -1,0 +1,20 @@
+{
+  "case_id": "dense-medium-chain-missing",
+  "changed_mod_ids": [
+    "dense-medium-chain-mod-010"
+  ],
+  "description": "Removed selected required dependency 'dense-medium-chain-mod-010'; the inverse add is a known valid repair.",
+  "ground_truth_source": "construction_or_inverse_injection",
+  "known_inverse_repair": [
+    {
+      "action_type": "add_dependency",
+      "cost": 1,
+      "reason": "Inverse of the deterministic injected change.",
+      "target_mod_id": "dense-medium-chain-mod-010",
+      "target_version_id": "dense-medium-chain-mod-010-v1",
+      "target_version_number": "1.0.0"
+    }
+  ],
+  "observed_solver_result": null,
+  "parent_case_id": "dense-medium-chain-control"
+}

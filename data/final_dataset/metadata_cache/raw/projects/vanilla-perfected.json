@@ -1,0 +1,193 @@
+{
+  "additional_categories": [],
+  "approved": "2024-10-10T02:40:35.053953Z",
+  "body": "# ![Vanilla Perfected!](https://cdn.modrinth.com/data/cached_images/86ac0e9fb6a33f234035e0a29ce7df3ebe593eaa.png)\n### Aiming to enhance Minecraft while retaining that Vanilla feel!\n\n**Key Features: Drastically increased FPS, updated HUD and UI elements, Mob Animations, New Minecraft Dungeons inspired structures, QOL Updates, and much much more! (see Gallery tab for more insight)**\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/lDPWSrttiec\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n**Thank you to Vanilla Tweaks for allowing the usage of their Resource Pack in Vanilla Perfected!**\n\n**Credits:**\n**Vanilla Tweaks: https://vanillatweaks.net/**\n\n## Why the name Vanilla Perfected?\n\nVanilla Perfected was born after frequent comments from my subscribers on YouTube requesting that I make a modpack consisting of Minecraft mods that I use in my videos. This project is entirely driven by what I as a player like to use in Minecraft, and has never intended to be anything more than that. If you've ever wondered where the word \"Perfected\" comes from, it's in reference to this pack being the \"perfect\" version of Minecraft for me personally!",
+  "body_url": null,
+  "categories": [
+    "adventure",
+    "lightweight",
+    "optimization"
+  ],
+  "client_side": "required",
+  "color": 263172,
+  "description": "A compilation of Vanilla Plus mods & packs to perfect the Minecraft experience without drifting too far from the feel of the base game!",
+  "discord_url": null,
+  "donation_urls": [],
+  "downloads": 2059587,
+  "followers": 2291,
+  "gallery": [
+    {
+      "created": "2026-05-09T01:24:54.231680Z",
+      "description": null,
+      "featured": true,
+      "ordering": 0,
+      "raw_url": "https://cdn.modrinth.com/data/1ocGzRHv/images/d677fe560ac0b0d8e5ab08584c5592638ab8479f.png",
+      "title": "Tiny Takeover Banner Image",
+      "url": "https://cdn.modrinth.com/data/1ocGzRHv/images/d677fe560ac0b0d8e5ab08584c5592638ab8479f_350.webp"
+    },
+    {
+      "created": "2025-11-22T20:41:03.950819Z",
+      "description": "Included with these shaders are my specific settings in order to replicate the exact look seen in my videos!",
+      "featured": false,
+      "ordering": 1,
+      "raw_url": "https://cdn.modrinth.com/data/1ocGzRHv/images/7a1631415efea55132c9c5e45b5debf70365214a.png",
+      "title": "Complementary Shaders",
+      "url": "https://cdn.modrinth.com/data/1ocGzRHv/images/7a1631415efea55132c9c5e45b5debf70365214a_350.webp"
+    },
+    {
+      "created": "2026-05-09T04:29:32.416077Z",
+      "description": "An optional Shader Pack that you can select if Complementary isn't your style! (pictured, but not featured in VP, is the resource pack Fresh Buckets and the mod Punchy)",
+      "featured": false,
+      "ordering": 2,
+      "raw_url": "https://cdn.modrinth.com/data/1ocGzRHv/images/23a15dd1e7b72a270f59b86b3bbd484dddd5aecb.png",
+      "title": "I Like Vanilla Shaders",
+      "url": "https://cdn.modrinth.com/data/1ocGzRHv/images/23a15dd1e7b72a270f59b86b3bbd484dddd5aecb_350.webp"
+    },
+    {
+      "created": "2025-11-28T00:35:08.979298Z",
+      "description": "Adds endless new structures to all dimensions of Minecraft, many of which are directly inspired by Minecraft Dungeons!",
+      "featured": false,
+      "ordering": 2,
+      "raw_url": "https://cdn.modrinth.com/data/1ocGzRHv/images/61aca29a5debac3a9c757ec954bada251f174102.png",
+      "title": "Dungeons and Taverns!",
+      "url": "https://cdn.modrinth.com/data/1ocGzRHv/images/61aca29a5debac3a9c757ec954bada251f174102_350.webp"
+    },
+    {
+      "created": "2024-10-07T13:36:36.580702Z",
+      "description": "Makes viewing your statistics much easier with a brand new UI!",
+      "featured": false,
+      "ordering": 3,
+      "raw_url": "https://cdn.modrinth.com/data/1ocGzRHv/images/4a22bab4370a3565b26b44465971a2db702f81ef.png",
+      "title": "Better Statistics Screen",
+      "url": "https://cdn.modrinth.com/data/1ocGzRHv/images/4a22bab4370a3565b26b44465971a2db702f81ef_350.webp"
+    },
+    {
+      "created": "2026-05-09T04:32:58.596487Z",
+      "description": "Every VP update comes with custom splash text and a brand new Panorama featuring Modpack content and visuals for the game drop!",
+      "featured": false,
+      "ordering": 3,
+      "raw_url": "https://cdn.modrinth.com/data/1ocGzRHv/images/be46cc17801df73698de85f3caec6c45907c6f28.png",
+      "title": "Custom Panorama",
+      "url": "https://cdn.modrinth.com/data/1ocGzRHv/images/be46cc17801df73698de85f3caec6c45907c6f28_350.webp"
+    },
+    {
+      "created": "2025-12-26T14:58:12.836978Z",
+      "description": "Allows you to dye your Elytra like Leather Armor as well as add Armor Trims to it for extra designs!",
+      "featured": false,
+      "ordering": 4,
+      "raw_url": "https://cdn.modrinth.com/data/1ocGzRHv/images/e2c95cd04f0d509a8467de161ba2aa8c69605890.png",
+      "title": "Customizable Elytras",
+      "url": "https://cdn.modrinth.com/data/1ocGzRHv/images/e2c95cd04f0d509a8467de161ba2aa8c69605890_350.webp"
+    },
+    {
+      "created": "2024-10-07T13:44:12.427738Z",
+      "description": "Adds unique UI elements to the Inventory Screen as well as all Utility Blocks in the game!",
+      "featured": false,
+      "ordering": 5,
+      "raw_url": "https://cdn.modrinth.com/data/1ocGzRHv/images/a2705c92b438f38bb449b7f38c374685880617a4.png",
+      "title": "Recolourful Containers",
+      "url": "https://cdn.modrinth.com/data/1ocGzRHv/images/a2705c92b438f38bb449b7f38c374685880617a4_350.webp"
+    },
+    {
+      "created": "2026-02-06T05:29:49.707304Z",
+      "description": "Adds a Theater Mode to Minecraft allowing you to record in your world, then go back for cinematic screenshots, time lapses, etc!",
+      "featured": false,
+      "ordering": 6,
+      "raw_url": "https://cdn.modrinth.com/data/1ocGzRHv/images/f1b00eee4ec682150f015059cae1af0873d9b996.png",
+      "title": "Flashback",
+      "url": "https://cdn.modrinth.com/data/1ocGzRHv/images/f1b00eee4ec682150f015059cae1af0873d9b996_350.webp"
+    },
+    {
+      "created": "2024-10-07T13:49:15.486504Z",
+      "description": "Helps you visualize where you need light sources to prevent mob spawns!",
+      "featured": false,
+      "ordering": 7,
+      "raw_url": "https://cdn.modrinth.com/data/1ocGzRHv/images/3c014a5cde2a3bcde9e7a5dd7954e31605d3ba8f.png",
+      "title": "Lighty",
+      "url": "https://cdn.modrinth.com/data/1ocGzRHv/images/3c014a5cde2a3bcde9e7a5dd7954e31605d3ba8f_350.webp"
+    },
+    {
+      "created": "2025-05-01T17:38:30.705263Z",
+      "description": "All enchanted books now generate with unique covers so you know what the book is before ever having to highlight it!",
+      "featured": false,
+      "ordering": 7,
+      "raw_url": "https://cdn.modrinth.com/data/1ocGzRHv/images/7d53da0891a1bd27c2c951566e63db0bbe014763.png",
+      "title": "Enchanted Books: Re-covered",
+      "url": "https://cdn.modrinth.com/data/1ocGzRHv/images/7d53da0891a1bd27c2c951566e63db0bbe014763_350.webp"
+    },
+    {
+      "created": "2024-10-07T13:57:00.113781Z",
+      "description": "A much cleaner and more readable F3 Screen that you can customize every aspect of!",
+      "featured": false,
+      "ordering": 8,
+      "raw_url": "https://cdn.modrinth.com/data/1ocGzRHv/images/7a7dbe8d0f2c15a9b27d0aeb27d225c056c30934.png",
+      "title": "Better F3 & much MORE!",
+      "url": "https://cdn.modrinth.com/data/1ocGzRHv/images/7a7dbe8d0f2c15a9b27d0aeb27d225c056c30934_350.webp"
+    }
+  ],
+  "game_versions": [
+    "1.20.1",
+    "1.21",
+    "1.21.1",
+    "1.21.4",
+    "1.21.5",
+    "1.21.6",
+    "1.21.8",
+    "1.21.10",
+    "1.21.11",
+    "26.1.2"
+  ],
+  "icon_url": "https://cdn.modrinth.com/data/1ocGzRHv/ebec737126db7637001194ca5560ae58413d338f_96.webp",
+  "id": "1ocGzRHv",
+  "issues_url": null,
+  "license": {
+    "id": "MIT",
+    "name": "MIT License",
+    "url": null
+  },
+  "loaders": [
+    "fabric"
+  ],
+  "moderator_message": null,
+  "monetization_status": "monetized",
+  "organization": null,
+  "project_type": "modpack",
+  "published": "2024-10-02T02:44:24.436219Z",
+  "queued": "2024-10-07T14:11:55.276107Z",
+  "requested_status": "approved",
+  "server_side": "required",
+  "slug": "vanilla-perfected",
+  "source_url": null,
+  "status": "approved",
+  "team": "9vYArrNH",
+  "thread_id": "mcVObKm6",
+  "title": "Vanilla Perfected",
+  "updated": "2026-06-16T18:24:00.979747Z",
+  "versions": [
+    "WxPm8Cyl",
+    "vxt9LHzK",
+    "P5zFOUmG",
+    "CCnu380y",
+    "PXpjyGBU",
+    "WNVdOLRb",
+    "wjlHjpe2",
+    "ylv1FgFA",
+    "dlmZiCMH",
+    "P3QP4AmJ",
+    "6zRVE8ow",
+    "Hvblm1Ux",
+    "KR9IwNl7",
+    "if3ATcQ9",
+    "gwE24vV1",
+    "bS8CrWAA",
+    "lAf0fJga",
+    "WQAG8wkE",
+    "87o9XmXf",
+    "oUYGqRIh",
+    "ShjQ64h0",
+    "1nywXwlh",
+    "jmYEuzNA",
+    "zCNpmrT6"
+  ],
+  "wiki_url": null
+}

@@ -1,0 +1,102 @@
+{
+  "config": {
+    "loader": "fabric",
+    "minecraft_version": "1.20.1",
+    "selected_mods": [
+      {
+        "mod_id": "P7dR8mSH",
+        "version_id": "hu6gukgT",
+        "version_number": null
+      },
+      {
+        "mod_id": "Orvt0mRa",
+        "version_id": "nQHYSjxO",
+        "version_number": null
+      },
+      {
+        "mod_id": "AANobbMI",
+        "version_id": "ygf8cVZg",
+        "version_number": null
+      }
+    ]
+  },
+  "projects": [
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "P7dR8mSH",
+      "name": "Fabric API",
+      "slug": "fabric-api",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "Orvt0mRa",
+      "name": "Indium",
+      "slug": "indium",
+      "source": "modrinth"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "AANobbMI",
+      "name": "Sodium",
+      "slug": "sodium",
+      "source": "modrinth"
+    }
+  ],
+  "versions": [
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "P7dR8mSH",
+      "source": "modrinth",
+      "version_id": "hu6gukgT",
+      "version_number": "0.92.9+1.20.1",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "modrinth",
+          "target_mod_id": "AANobbMI",
+          "target_version_id": "ygf8cVZg"
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "Orvt0mRa",
+      "source": "modrinth",
+      "version_id": "nQHYSjxO",
+      "version_number": "1.0.36+mc1.20.1",
+      "version_type": "release"
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "mod_id": "AANobbMI",
+      "source": "modrinth",
+      "version_id": "ygf8cVZg",
+      "version_number": "mc1.20.1-0.5.11",
+      "version_type": "release"
+    }
+  ]
+}

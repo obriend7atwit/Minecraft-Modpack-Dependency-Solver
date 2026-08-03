@@ -1,0 +1,25 @@
+case_id,source_type,manually_reviewed,review_notes
+full-cobblemondelta-tvwcsaml,original_real,False,
+full-cobblemondelta-tvwcsaml-missing-required,modified_real,False,
+full-fabulously-optimized-czy3bvs9,original_real,False,
+full-fabulously-optimized-czy3bvs9-missing-required,modified_real,False,
+full-hoplite-for-lunar-client-ensf9uf2,original_real,False,
+full-hoplite-for-lunar-client-ensf9uf2-missing-required,modified_real,False,
+full-realisticcraft-c3ejla1u,original_real,False,
+full-realisticcraft-c3ejla1u-missing-required,modified_real,False,
+full-remarkably-mzetltcd,original_real,False,
+full-remarkably-mzetltcd-missing-required,modified_real,False,
+full-rso-xtjt8bfy,original_real,False,
+full-rso-xtjt8bfy-missing-required,modified_real,False,
+full-skyblocker-modpack-darpjoog,original_real,False,
+full-skyblocker-modpack-darpjoog-missing-required,modified_real,False,
+full-slimes-adventure-wqekffh0,original_real,False,
+full-slimes-adventure-wqekffh0-missing-required,modified_real,False,
+full-svc-for-lunar-client-phsvodci,original_real,False,
+full-svc-for-lunar-client-phsvodci-missing-required,modified_real,False,
+real-additive-loader-mismatch,modified_real,True,Reviewed as a reduced metadata example; it is not a complete official pack export.
+real-additive-missing-dependency,modified_real,True,Reviewed as a reduced metadata example; it is not a complete official pack export.
+real-additive-valid,original_real,True,Reviewed as a reduced metadata example; it is not a complete official pack export.
+real-fo-missing-fabric-api,modified_real,True,Reviewed as a reduced metadata example; it is not a complete official pack export.
+real-fo-valid,original_real,True,Reviewed as a reduced metadata example; it is not a complete official pack export.
+real-fo-wrong-minecraft,modified_real,True,Reviewed as a reduced metadata example; it is not a complete official pack export.

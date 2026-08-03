@@ -1,0 +1,342 @@
+{
+  "config": {
+    "loader": "fabric",
+    "minecraft_version": "1.20.1",
+    "selected_mods": [
+      {
+        "mod_id": "search-scale-04-high-bounded-decision-00",
+        "version_id": "search-scale-04-high-bounded-decision-00-injected-bad",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "search-scale-04-high-bounded-decision-01",
+        "version_id": "search-scale-04-high-bounded-decision-01-injected-bad",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "search-scale-04-high-bounded-decision-02",
+        "version_id": "search-scale-04-high-bounded-decision-02-injected-bad",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "search-scale-04-high-bounded-decision-03",
+        "version_id": "search-scale-04-high-bounded-decision-03-injected-bad",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "search-scale-04-high-bounded-decision-04",
+        "version_id": "search-scale-04-high-bounded-decision-04-injected-bad",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "search-scale-04-high-bounded-decision-05",
+        "version_id": "search-scale-04-high-bounded-decision-05-injected-bad",
+        "version_number": "1.0.0"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "search-scale-04-high-bounded-decision-00",
+      "name": "Search Scale 04 High Bounded Decision 00",
+      "slug": "search-scale-04-high-bounded-decision-00",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "search-scale-04-high-bounded-decision-01",
+      "name": "Search Scale 04 High Bounded Decision 01",
+      "slug": "search-scale-04-high-bounded-decision-01",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "search-scale-04-high-bounded-decision-02",
+      "name": "Search Scale 04 High Bounded Decision 02",
+      "slug": "search-scale-04-high-bounded-decision-02",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "search-scale-04-high-bounded-decision-03",
+      "name": "Search Scale 04 High Bounded Decision 03",
+      "slug": "search-scale-04-high-bounded-decision-03",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "search-scale-04-high-bounded-decision-04",
+      "name": "Search Scale 04 High Bounded Decision 04",
+      "slug": "search-scale-04-high-bounded-decision-04",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "search-scale-04-high-bounded-decision-05",
+      "name": "Search Scale 04 High Bounded Decision 05",
+      "slug": "search-scale-04-high-bounded-decision-05",
+      "source": "synthetic"
+    }
+  ],
+  "versions": [
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.19.4"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-04-high-bounded-decision-00",
+      "source": "synthetic",
+      "version_id": "search-scale-04-high-bounded-decision-00-injected-bad",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-04-high-bounded-decision-00",
+      "source": "synthetic",
+      "version_id": "search-scale-04-high-bounded-decision-00-clean-a",
+      "version_number": "2.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-04-high-bounded-decision-00",
+      "source": "synthetic",
+      "version_id": "search-scale-04-high-bounded-decision-00-alternative-1",
+      "version_number": "3.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.19.4"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-04-high-bounded-decision-01",
+      "source": "synthetic",
+      "version_id": "search-scale-04-high-bounded-decision-01-injected-bad",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-04-high-bounded-decision-01",
+      "source": "synthetic",
+      "version_id": "search-scale-04-high-bounded-decision-01-clean-a",
+      "version_number": "2.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-04-high-bounded-decision-01",
+      "source": "synthetic",
+      "version_id": "search-scale-04-high-bounded-decision-01-alternative-1",
+      "version_number": "3.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.19.4"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-04-high-bounded-decision-02",
+      "source": "synthetic",
+      "version_id": "search-scale-04-high-bounded-decision-02-injected-bad",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-04-high-bounded-decision-02",
+      "source": "synthetic",
+      "version_id": "search-scale-04-high-bounded-decision-02-clean-a",
+      "version_number": "2.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-04-high-bounded-decision-02",
+      "source": "synthetic",
+      "version_id": "search-scale-04-high-bounded-decision-02-alternative-1",
+      "version_number": "3.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.19.4"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-04-high-bounded-decision-03",
+      "source": "synthetic",
+      "version_id": "search-scale-04-high-bounded-decision-03-injected-bad",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-04-high-bounded-decision-03",
+      "source": "synthetic",
+      "version_id": "search-scale-04-high-bounded-decision-03-clean-a",
+      "version_number": "2.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-04-high-bounded-decision-03",
+      "source": "synthetic",
+      "version_id": "search-scale-04-high-bounded-decision-03-alternative-1",
+      "version_number": "3.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.19.4"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-04-high-bounded-decision-04",
+      "source": "synthetic",
+      "version_id": "search-scale-04-high-bounded-decision-04-injected-bad",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-04-high-bounded-decision-04",
+      "source": "synthetic",
+      "version_id": "search-scale-04-high-bounded-decision-04-clean-a",
+      "version_number": "2.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-04-high-bounded-decision-04",
+      "source": "synthetic",
+      "version_id": "search-scale-04-high-bounded-decision-04-alternative-1",
+      "version_number": "3.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.19.4"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-04-high-bounded-decision-05",
+      "source": "synthetic",
+      "version_id": "search-scale-04-high-bounded-decision-05-injected-bad",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-04-high-bounded-decision-05",
+      "source": "synthetic",
+      "version_id": "search-scale-04-high-bounded-decision-05-clean-a",
+      "version_number": "2.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-04-high-bounded-decision-05",
+      "source": "synthetic",
+      "version_id": "search-scale-04-high-bounded-decision-05-alternative-1",
+      "version_number": "3.0.0",
+      "version_type": null
+    }
+  ]
+}

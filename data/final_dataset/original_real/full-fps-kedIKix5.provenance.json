@@ -1,0 +1,22 @@
+{
+  "collected_at": "2026-07-20T00:44:20.379805+00:00",
+  "collection_method": "official_modrinth_api_mrpack_manifest_only",
+  "manifest_file_count": 9,
+  "manual_review_required": true,
+  "maximum_required_depth": 1,
+  "metadata_coverage_rate": 1.0,
+  "mod_jars_downloaded": false,
+  "pack_size_category": "small",
+  "pack_title": "FPS Modpack",
+  "project_id": "nJ2Rn3SV",
+  "publication_ready": false,
+  "raw_archive_retained": false,
+  "required_edge_count": 5,
+  "resolved_mod_count": 9,
+  "selected_mod_count": 9,
+  "slug": "fps",
+  "source_manifest_sha256": "e7cb0f49b445cb6efa1a6116702c16c7d4147515c2d6dd16fbe22f8acf90da53",
+  "source_url": "https://modrinth.com/modpack/fps/version/kedIKix5",
+  "unresolved_mod_count": 0,
+  "version_id": "kedIKix5"
+}

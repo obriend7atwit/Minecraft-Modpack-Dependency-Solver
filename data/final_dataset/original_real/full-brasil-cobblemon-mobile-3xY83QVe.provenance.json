@@ -1,0 +1,22 @@
+{
+  "collected_at": "2026-07-20T00:44:32.901840+00:00",
+  "collection_method": "official_modrinth_api_mrpack_manifest_only",
+  "manifest_file_count": 20,
+  "manual_review_required": true,
+  "maximum_required_depth": 3,
+  "metadata_coverage_rate": 1.0,
+  "mod_jars_downloaded": false,
+  "pack_size_category": "small",
+  "pack_title": "Cobblemon Brasil [Mobile]",
+  "project_id": "HghLSUi5",
+  "publication_ready": false,
+  "raw_archive_retained": false,
+  "required_edge_count": 22,
+  "resolved_mod_count": 20,
+  "selected_mod_count": 20,
+  "slug": "brasil-cobblemon-mobile",
+  "source_manifest_sha256": "988fcf68ab4fb121276b7e9a48b94a071e9c0eaccb6d5ff63868714602a822e6",
+  "source_url": "https://modrinth.com/modpack/brasil-cobblemon-mobile/version/3xY83QVe",
+  "unresolved_mod_count": 0,
+  "version_id": "3xY83QVe"
+}

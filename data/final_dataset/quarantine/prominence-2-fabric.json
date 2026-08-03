@@ -1,0 +1,6 @@
+{
+  "project_id": "EGs3lC8D",
+  "publication_ready": false,
+  "rejection_reason": "HTTPStatusError: Client error '400 Bad Request' for url 'https://api.modrinth.com/v2/version/1.1.1%2B1.17'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+  "slug": "prominence-2-fabric"
+}

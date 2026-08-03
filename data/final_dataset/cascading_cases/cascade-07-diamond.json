@@ -1,0 +1,146 @@
+{
+  "config": {
+    "loader": "fabric",
+    "minecraft_version": "1.20.1",
+    "selected_mods": [
+      {
+        "mod_id": "diamond-a",
+        "version_id": "diamond-a-1.0.0",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "diamond-b",
+        "version_id": "diamond-b-1.0.0",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "diamond-c",
+        "version_id": "diamond-c-1.0.0",
+        "version_number": "1.0.0"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "diamond-a",
+      "name": "Diamond A",
+      "slug": "diamond-a",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "diamond-b",
+      "name": "Diamond B",
+      "slug": "diamond-b",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "diamond-c",
+      "name": "Diamond C",
+      "slug": "diamond-c",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "diamond-d",
+      "name": "Diamond D",
+      "slug": "diamond-d",
+      "source": "synthetic"
+    }
+  ],
+  "versions": [
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "diamond-b",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "diamond-c",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "diamond-a",
+      "source": "synthetic",
+      "version_id": "diamond-a-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "diamond-d",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "diamond-b",
+      "source": "synthetic",
+      "version_id": "diamond-b-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "diamond-d",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "diamond-c",
+      "source": "synthetic",
+      "version_id": "diamond-c-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "diamond-d",
+      "source": "synthetic",
+      "version_id": "diamond-d-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    }
+  ]
+}

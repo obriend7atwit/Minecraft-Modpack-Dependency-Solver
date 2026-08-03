@@ -1,0 +1,204 @@
+{
+  "config": {
+    "loader": "fabric",
+    "minecraft_version": "1.20.1",
+    "selected_mods": [
+      {
+        "mod_id": "search-candidate-02-decision",
+        "version_id": "search-candidate-02-decision-v1-bad",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "search-candidate-02-anchor",
+        "version_id": "search-candidate-02-anchor-v1",
+        "version_number": "1.0.0"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "search-candidate-02-decision",
+      "name": "Search Candidate 02 Decision",
+      "slug": "search-candidate-02-decision",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "search-candidate-02-anchor",
+      "name": "Search Candidate 02 Anchor",
+      "slug": "search-candidate-02-anchor",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "search-candidate-02-helper-3",
+      "name": "Search Candidate 02 Helper 3",
+      "slug": "search-candidate-02-helper-3",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "search-candidate-02-helper-5",
+      "name": "Search Candidate 02 Helper 5",
+      "slug": "search-candidate-02-helper-5",
+      "source": "synthetic"
+    }
+  ],
+  "versions": [
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.19.4"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-candidate-02-decision",
+      "source": "synthetic",
+      "version_id": "search-candidate-02-decision-v1-bad",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-candidate-02-decision",
+      "source": "synthetic",
+      "version_id": "search-candidate-02-decision-v2-valid",
+      "version_number": "2.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-candidate-02-helper-3",
+      "source": "synthetic",
+      "version_id": "search-candidate-02-helper-3-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "search-candidate-02-helper-3",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-candidate-02-decision",
+      "source": "synthetic",
+      "version_id": "search-candidate-02-decision-v3",
+      "version_number": "3.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "incompatible",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "search-candidate-02-anchor",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-candidate-02-decision",
+      "source": "synthetic",
+      "version_id": "search-candidate-02-decision-v4",
+      "version_number": "4.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-candidate-02-helper-5",
+      "source": "synthetic",
+      "version_id": "search-candidate-02-helper-5-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "search-candidate-02-helper-5",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-candidate-02-decision",
+      "source": "synthetic",
+      "version_id": "search-candidate-02-decision-v5",
+      "version_number": "5.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-candidate-02-decision",
+      "source": "synthetic",
+      "version_id": "search-candidate-02-decision-v6",
+      "version_number": "6.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-candidate-02-anchor",
+      "source": "synthetic",
+      "version_id": "search-candidate-02-anchor-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    }
+  ]
+}

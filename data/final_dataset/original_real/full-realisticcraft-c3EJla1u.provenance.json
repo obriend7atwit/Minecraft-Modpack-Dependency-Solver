@@ -1,0 +1,22 @@
+{
+  "collected_at": "2026-07-20T00:44:31.195369+00:00",
+  "collection_method": "official_modrinth_api_mrpack_manifest_only",
+  "manifest_file_count": 46,
+  "manual_review_required": true,
+  "maximum_required_depth": 2,
+  "metadata_coverage_rate": 1.0,
+  "mod_jars_downloaded": false,
+  "pack_size_category": "medium",
+  "pack_title": "RealisticCraft",
+  "project_id": "7zBMp9RO",
+  "publication_ready": false,
+  "raw_archive_retained": false,
+  "required_edge_count": 38,
+  "resolved_mod_count": 46,
+  "selected_mod_count": 46,
+  "slug": "realisticcraft",
+  "source_manifest_sha256": "ca3f99951c1c7dd087338d14f538c67eddcb4aca75363a2c304b6bdaf221d058",
+  "source_url": "https://modrinth.com/modpack/realisticcraft/version/c3EJla1u",
+  "unresolved_mod_count": 0,
+  "version_id": "c3EJla1u"
+}

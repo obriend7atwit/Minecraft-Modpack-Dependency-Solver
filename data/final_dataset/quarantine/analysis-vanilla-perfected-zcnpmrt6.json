@@ -1,0 +1,18 @@
+{
+  "analysis_status": "excluded_pending_metadata_review",
+  "checker_errors": [
+    {
+      "affected_mod_ids": [
+        "YkKeggdl"
+      ],
+      "issue_type": "minecraft_version_mismatch",
+      "message": "Selected version 'YkKeggdl@1.2.4' does not support Minecraft '26.1.2'."
+    }
+  ],
+  "collection_status": "collected",
+  "normalized_case_path": "data\\final_dataset\\original_real\\full-vanilla-perfected-zCNpmrT6.json",
+  "reason": "The normalized source manifest produces checker errors and cannot serve as an unchanged compatible control without manual adjudication.",
+  "slug": "vanilla-perfected",
+  "source_url": "https://modrinth.com/modpack/vanilla-perfected/version/zCNpmrT6",
+  "version_id": "zCNpmrT6"
+}

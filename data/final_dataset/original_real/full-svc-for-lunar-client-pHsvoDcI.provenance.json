@@ -1,0 +1,22 @@
+{
+  "collected_at": "2026-07-20T00:44:34.834448+00:00",
+  "collection_method": "official_modrinth_api_mrpack_manifest_only",
+  "manifest_file_count": 6,
+  "manual_review_required": true,
+  "maximum_required_depth": 1,
+  "metadata_coverage_rate": 1.0,
+  "mod_jars_downloaded": false,
+  "pack_size_category": "small",
+  "pack_title": "SVC for Lunar Client",
+  "project_id": "Mo0nlQxI",
+  "publication_ready": false,
+  "raw_archive_retained": false,
+  "required_edge_count": 3,
+  "resolved_mod_count": 6,
+  "selected_mod_count": 6,
+  "slug": "svc-for-lunar-client",
+  "source_manifest_sha256": "32896ebdf98ff2c30fe0ca59ea018663c58206219a96222db4a5d7d59800692a",
+  "source_url": "https://modrinth.com/modpack/svc-for-lunar-client/version/pHsvoDcI",
+  "unresolved_mod_count": 0,
+  "version_id": "pHsvoDcI"
+}

@@ -1,0 +1,11 @@
+{
+  "case_id": "custom-focused-unresolved-selected",
+  "expected_action_types": [],
+  "expected_issue_types": [
+    "unresolved_selected_mod"
+  ],
+  "manually_reviewed": false,
+  "modification_description": "Focused deterministic unresolved selected case generated offline.",
+  "modification_type": "manual",
+  "original_case_id": null
+}

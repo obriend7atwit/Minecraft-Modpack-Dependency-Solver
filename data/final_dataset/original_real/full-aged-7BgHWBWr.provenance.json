@@ -1,0 +1,22 @@
+{
+  "collected_at": "2026-07-20T00:44:16.761827+00:00",
+  "collection_method": "official_modrinth_api_mrpack_manifest_only",
+  "manifest_file_count": 212,
+  "manual_review_required": true,
+  "maximum_required_depth": 3,
+  "metadata_coverage_rate": 0.9952830188679245,
+  "mod_jars_downloaded": false,
+  "pack_size_category": "huge",
+  "pack_title": "Aged",
+  "project_id": "i4XHCd7Q",
+  "publication_ready": false,
+  "raw_archive_retained": false,
+  "required_edge_count": 257,
+  "resolved_mod_count": 211,
+  "selected_mod_count": 211,
+  "slug": "aged",
+  "source_manifest_sha256": "9b29653aef496d9ee95c5126f3c9ec862d5fcc83668a25b39e95c7020c7ef75c",
+  "source_url": "https://modrinth.com/modpack/aged/version/7BgHWBWr",
+  "unresolved_mod_count": 1,
+  "version_id": "7BgHWBWr"
+}

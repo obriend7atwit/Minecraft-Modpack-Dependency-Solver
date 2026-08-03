@@ -1,0 +1,13 @@
+{
+  "case_id": "custom-medium-missing-dependency",
+  "expected_action_types": [
+    "add_dependency"
+  ],
+  "expected_issue_types": [
+    "missing_dependency"
+  ],
+  "manually_reviewed": false,
+  "modification_description": "Deterministic custom missing dependency scenario generated offline.",
+  "modification_type": "remove_required_dependency",
+  "original_case_id": "custom-medium-valid"
+}

@@ -1,0 +1,13 @@
+{
+  "case_id": "custom-huge-duplicate",
+  "expected_action_types": [
+    "remove_mod"
+  ],
+  "expected_issue_types": [
+    "duplicate_mod_version"
+  ],
+  "manually_reviewed": false,
+  "modification_description": "Deterministic custom duplicate scenario generated offline.",
+  "modification_type": "duplicate_mod_version",
+  "original_case_id": "custom-huge-valid"
+}

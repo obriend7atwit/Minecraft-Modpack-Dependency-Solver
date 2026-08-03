@@ -1,0 +1,22 @@
+{
+  "case_id": "synthetic-no-solution",
+  "checker_matches_expected": true,
+  "final_known_repair_compatible": null,
+  "fixture_exists": true,
+  "graph_builds": true,
+  "injection_log_exists": null,
+  "injection_matches_case_diff": null,
+  "known_repair_replays": null,
+  "manifest_hash_present": false,
+  "metadata_cache_exists": false,
+  "metadata_coverage_rate": 1.0,
+  "observed_issue_types": [
+    "missing_dependency",
+    "unknown_dependency_target"
+  ],
+  "observed_status": "incompatible",
+  "source_family_id": "synthetic-no-solution",
+  "source_url_present": false,
+  "source_version_present": false,
+  "warnings": []
+}

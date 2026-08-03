@@ -1,0 +1,23 @@
+{
+  "case_id": "real-fo-wrong-minecraft",
+  "checker_matches_expected": true,
+  "final_known_repair_compatible": null,
+  "fixture_exists": true,
+  "graph_builds": true,
+  "injection_log_exists": true,
+  "injection_matches_case_diff": false,
+  "known_repair_replays": null,
+  "manifest_hash_present": false,
+  "metadata_cache_exists": false,
+  "metadata_coverage_rate": 1.0,
+  "observed_issue_types": [
+    "minecraft_version_mismatch"
+  ],
+  "observed_status": "incompatible",
+  "source_family_id": "real-fo-valid",
+  "source_url_present": false,
+  "source_version_present": false,
+  "warnings": [
+    "Manifest carries a legacy manually_reviewed flag, but the human record does not contain a reviewer, timestamp, and completed judgments."
+  ]
+}

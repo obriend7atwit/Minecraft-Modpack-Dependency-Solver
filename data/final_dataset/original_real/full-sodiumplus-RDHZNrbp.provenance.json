@@ -1,0 +1,22 @@
+{
+  "collected_at": "2026-07-20T00:44:07.607761+00:00",
+  "collection_method": "official_modrinth_api_mrpack_manifest_only",
+  "manifest_file_count": 73,
+  "manual_review_required": true,
+  "maximum_required_depth": 2,
+  "metadata_coverage_rate": 1.0,
+  "mod_jars_downloaded": false,
+  "pack_size_category": "medium",
+  "pack_title": "Sodium Plus",
+  "project_id": "ch7UHY2J",
+  "publication_ready": false,
+  "raw_archive_retained": false,
+  "required_edge_count": 53,
+  "resolved_mod_count": 73,
+  "selected_mod_count": 73,
+  "slug": "sodiumplus",
+  "source_manifest_sha256": "f9345d9898fe48ab91cc96ccb07c62380172d0198c847a084d788d29d68c6499",
+  "source_url": "https://modrinth.com/modpack/sodiumplus/version/RDHZNrbp",
+  "unresolved_mod_count": 0,
+  "version_id": "RDHZNrbp"
+}

@@ -1,0 +1,22 @@
+{
+  "collected_at": "2026-07-20T00:44:14.645825+00:00",
+  "collection_method": "official_modrinth_api_mrpack_manifest_only",
+  "manifest_file_count": 52,
+  "manual_review_required": true,
+  "maximum_required_depth": 3,
+  "metadata_coverage_rate": 1.0,
+  "mod_jars_downloaded": false,
+  "pack_size_category": "medium",
+  "pack_title": "Cobblemon Delta",
+  "project_id": "C9FChyZ3",
+  "publication_ready": false,
+  "raw_archive_retained": false,
+  "required_edge_count": 48,
+  "resolved_mod_count": 52,
+  "selected_mod_count": 52,
+  "slug": "cobblemondelta",
+  "source_manifest_sha256": "38a4151b7d5e46022158a0ab4aa03f145ab495adc1ad8f964823b431478fdeff",
+  "source_url": "https://modrinth.com/modpack/cobblemondelta/version/tvwCSAMl",
+  "unresolved_mod_count": 0,
+  "version_id": "tvwCSAMl"
+}

@@ -1,0 +1,16 @@
+{
+  "case_id": "cascade-08-cycle",
+  "expected_issue_correct": null,
+  "explanation_understandable": null,
+  "injection_matches_description": null,
+  "known_repair_valid": null,
+  "loader_correct": null,
+  "minecraft_version_correct": null,
+  "normalized_mod_list_reasonable": null,
+  "notes": "",
+  "review_status": "automated_evidence_ready",
+  "reviewed_at": null,
+  "reviewer": null,
+  "solver_result_reasonable": null,
+  "source_provenance_valid": null
+}

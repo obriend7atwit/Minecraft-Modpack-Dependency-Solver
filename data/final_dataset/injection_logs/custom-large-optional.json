@@ -1,0 +1,11 @@
+{
+  "case_id": "custom-large-optional",
+  "expected_action_types": [],
+  "expected_issue_types": [
+    "optional_dependency_warning"
+  ],
+  "manually_reviewed": false,
+  "modification_description": "Deterministic custom optional scenario generated offline.",
+  "modification_type": "manual",
+  "original_case_id": "custom-large-valid"
+}

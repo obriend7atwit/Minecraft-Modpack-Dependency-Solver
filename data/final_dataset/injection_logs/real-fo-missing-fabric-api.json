@@ -1,0 +1,13 @@
+{
+  "case_id": "real-fo-missing-fabric-api",
+  "expected_action_types": [
+    "add_dependency"
+  ],
+  "expected_issue_types": [
+    "missing_dependency"
+  ],
+  "manually_reviewed": true,
+  "modification_description": "Reduced cached sample intentionally modified for evaluation.",
+  "modification_type": "remove_required_dependency",
+  "original_case_id": "real-fo-valid"
+}

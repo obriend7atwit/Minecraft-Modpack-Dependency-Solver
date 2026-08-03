@@ -1,0 +1,26 @@
+{
+  "case_id": "cascade-09-loader-choice",
+  "changed_mod_ids": [],
+  "description": "The Forge distractor is rejected; the Fabric candidate reveals another dependency.",
+  "ground_truth_source": "construction_or_inverse_injection",
+  "known_inverse_repair": [
+    {
+      "action_type": "add_dependency",
+      "cost": 1,
+      "reason": "Hand-constructed independent cascading repair.",
+      "target_mod_id": "loader-b",
+      "target_version_id": "loader-b-fabric",
+      "target_version_number": "2.0.0"
+    },
+    {
+      "action_type": "add_dependency",
+      "cost": 1,
+      "reason": "Hand-constructed independent cascading repair.",
+      "target_mod_id": "loader-c",
+      "target_version_id": "loader-c-1.0.0",
+      "target_version_number": "1.0.0"
+    }
+  ],
+  "observed_solver_result": null,
+  "parent_case_id": null
+}

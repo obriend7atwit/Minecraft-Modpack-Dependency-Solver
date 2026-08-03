@@ -1,0 +1,43 @@
+{
+  "analysis_status": "excluded_pending_metadata_review",
+  "checker_errors": [
+    {
+      "affected_mod_ids": [
+        "Bh37bMuy",
+        "AANobbMI"
+      ],
+      "issue_type": "unknown_dependency_target",
+      "message": "Selected version 'Bh37bMuy@mc1.21-1.7.3' has a required dependency target 'AANobbMI' that is not available in current metadata."
+    },
+    {
+      "affected_mod_ids": [
+        "Bh37bMuy",
+        "AANobbMI"
+      ],
+      "issue_type": "missing_dependency",
+      "message": "Selected version 'Bh37bMuy@mc1.21-1.7.3' requires 'AANobbMI', but it is not selected."
+    },
+    {
+      "affected_mod_ids": [
+        "PtjYWJkn",
+        "AANobbMI"
+      ],
+      "issue_type": "unknown_dependency_target",
+      "message": "Selected version 'PtjYWJkn@mc1.21-0.5.7' has a required dependency target 'AANobbMI' that is not available in current metadata."
+    },
+    {
+      "affected_mod_ids": [
+        "PtjYWJkn",
+        "AANobbMI"
+      ],
+      "issue_type": "missing_dependency",
+      "message": "Selected version 'PtjYWJkn@mc1.21-0.5.7' requires 'AANobbMI', but it is not selected."
+    }
+  ],
+  "collection_status": "collected",
+  "normalized_case_path": "data\\final_dataset\\original_real\\full-brasil-cobblemon-mobile-3xY83QVe.json",
+  "reason": "The normalized source manifest produces checker errors and cannot serve as an unchanged compatible control without manual adjudication.",
+  "slug": "brasil-cobblemon-mobile",
+  "source_url": "https://modrinth.com/modpack/brasil-cobblemon-mobile/version/3xY83QVe",
+  "version_id": "3xY83QVe"
+}

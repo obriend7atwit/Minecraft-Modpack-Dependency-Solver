@@ -1,0 +1,13 @@
+{
+  "case_id": "custom-small-hard-conflict",
+  "expected_action_types": [
+    "remove_mod"
+  ],
+  "expected_issue_types": [
+    "hard_conflict"
+  ],
+  "manually_reviewed": false,
+  "modification_description": "Deterministic custom hard conflict scenario generated offline.",
+  "modification_type": "add_conflicting_mod",
+  "original_case_id": "custom-small-valid"
+}

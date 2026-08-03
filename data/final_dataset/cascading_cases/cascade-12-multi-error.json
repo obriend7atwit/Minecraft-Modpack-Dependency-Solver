@@ -1,0 +1,248 @@
+{
+  "config": {
+    "loader": "fabric",
+    "minecraft_version": "1.20.1",
+    "selected_mods": [
+      {
+        "mod_id": "multi-a",
+        "version_id": "multi-a-1.0.0",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "multi-x",
+        "version_id": "multi-x-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "multi-d",
+        "version_id": "multi-d-1.0.0",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "multi-e",
+        "version_id": "multi-e-1.0.0",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "multi-z",
+        "version_id": "multi-z-v1",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "multi-z",
+        "version_id": "multi-z-v2",
+        "version_number": "2.0.0"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "multi-a",
+      "name": "Multi A",
+      "slug": "multi-a",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "multi-b",
+      "name": "Multi B",
+      "slug": "multi-b",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "multi-c",
+      "name": "Multi C",
+      "slug": "multi-c",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "multi-d",
+      "name": "Multi D",
+      "slug": "multi-d",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "multi-e",
+      "name": "Multi E",
+      "slug": "multi-e",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "multi-x",
+      "name": "Multi X",
+      "slug": "multi-x",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "multi-z",
+      "name": "Multi Z",
+      "slug": "multi-z",
+      "source": "synthetic"
+    }
+  ],
+  "versions": [
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "multi-b",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "multi-a",
+      "source": "synthetic",
+      "version_id": "multi-a-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "multi-c",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "multi-b",
+      "source": "synthetic",
+      "version_id": "multi-b-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "multi-c",
+      "source": "synthetic",
+      "version_id": "multi-c-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "incompatible",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "multi-e",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "multi-d",
+      "source": "synthetic",
+      "version_id": "multi-d-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "multi-e",
+      "source": "synthetic",
+      "version_id": "multi-e-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.19.4"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "multi-x",
+      "source": "synthetic",
+      "version_id": "multi-x-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "multi-x",
+      "source": "synthetic",
+      "version_id": "multi-x-v2",
+      "version_number": "2.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "multi-z",
+      "source": "synthetic",
+      "version_id": "multi-z-v1",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "multi-z",
+      "source": "synthetic",
+      "version_id": "multi-z-v2",
+      "version_number": "2.0.0",
+      "version_type": null
+    }
+  ]
+}

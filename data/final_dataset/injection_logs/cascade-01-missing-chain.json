@@ -1,0 +1,34 @@
+{
+  "case_id": "cascade-01-missing-chain",
+  "changed_mod_ids": [],
+  "description": "Adding each missing dependency reveals the next required library.",
+  "ground_truth_source": "construction_or_inverse_injection",
+  "known_inverse_repair": [
+    {
+      "action_type": "add_dependency",
+      "cost": 1,
+      "reason": "Hand-constructed independent cascading repair.",
+      "target_mod_id": "cascade-b",
+      "target_version_id": "cascade-b-1.0.0",
+      "target_version_number": "1.0.0"
+    },
+    {
+      "action_type": "add_dependency",
+      "cost": 1,
+      "reason": "Hand-constructed independent cascading repair.",
+      "target_mod_id": "cascade-c",
+      "target_version_id": "cascade-c-1.0.0",
+      "target_version_number": "1.0.0"
+    },
+    {
+      "action_type": "add_dependency",
+      "cost": 1,
+      "reason": "Hand-constructed independent cascading repair.",
+      "target_mod_id": "cascade-d",
+      "target_version_id": "cascade-d-1.0.0",
+      "target_version_number": "1.0.0"
+    }
+  ],
+  "observed_solver_result": null,
+  "parent_case_id": null
+}

@@ -1,0 +1,27 @@
+{
+  "analysis_status": "excluded_pending_metadata_review",
+  "checker_errors": [
+    {
+      "affected_mod_ids": [
+        "mOgUt4GM",
+        "eXts2L7r"
+      ],
+      "issue_type": "unknown_dependency_target",
+      "message": "Selected version 'mOgUt4GM@11.0.3' has a required dependency target 'eXts2L7r' that is not available in current metadata."
+    },
+    {
+      "affected_mod_ids": [
+        "mOgUt4GM",
+        "eXts2L7r"
+      ],
+      "issue_type": "missing_dependency",
+      "message": "Selected version 'mOgUt4GM@11.0.3' requires 'eXts2L7r', but it is not selected."
+    }
+  ],
+  "collection_status": "collected",
+  "normalized_case_path": "data\\final_dataset\\original_real\\full-cobblemon-fabric-Lydu1ZNo.json",
+  "reason": "The normalized source manifest produces checker errors and cannot serve as an unchanged compatible control without manual adjudication.",
+  "slug": "cobblemon-fabric",
+  "source_url": "https://modrinth.com/modpack/cobblemon-fabric/version/Lydu1ZNo",
+  "version_id": "Lydu1ZNo"
+}

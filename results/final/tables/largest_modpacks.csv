@@ -1,0 +1,13 @@
+case_id,display_name,source_type,pack_size_category,selected_mod_count,dependency_edge_count,note
+dense-huge-chain-control,Dense huge chain control,custom_topology,huge,250,503,Reduced/cached or synthetic case
+dense-huge-chain-version,Dense huge chain version injection,custom_topology,huge,250,503,Reduced/cached or synthetic case
+dense-huge-clustered_modules-control,Dense huge clustered_modules control,custom_topology,huge,250,503,Reduced/cached or synthetic case
+dense-huge-clustered_modules-version,Dense huge clustered_modules version injection,custom_topology,huge,250,503,Reduced/cached or synthetic case
+dense-huge-layered_dag-control,Dense huge layered_dag control,custom_topology,huge,250,503,Reduced/cached or synthetic case
+dense-huge-layered_dag-version,Dense huge layered_dag version injection,custom_topology,huge,250,503,Reduced/cached or synthetic case
+dense-huge-shared_library_fan_in-control,Dense huge shared_library_fan_in control,custom_topology,huge,250,503,Reduced/cached or synthetic case
+dense-huge-shared_library_fan_in-version,Dense huge shared_library_fan_in version injection,custom_topology,huge,250,503,Reduced/cached or synthetic case
+dense-huge-chain-missing,Dense huge chain missing injection,custom_topology,huge,249,499,Reduced/cached or synthetic case
+dense-huge-clustered_modules-missing,Dense huge clustered_modules missing injection,custom_topology,huge,249,500,Reduced/cached or synthetic case
+dense-huge-layered_dag-missing,Dense huge layered_dag missing injection,custom_topology,huge,249,497,Reduced/cached or synthetic case
+dense-huge-shared_library_fan_in-missing,Dense huge shared_library_fan_in missing injection,custom_topology,huge,249,499,Reduced/cached or synthetic case

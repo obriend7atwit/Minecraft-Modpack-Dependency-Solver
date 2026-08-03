@@ -1,0 +1,21 @@
+{
+  "case_id": "full-remarkably-mzetltcd-missing-required",
+  "changed_mod_ids": [
+    "1IjD5062",
+    "P7dR8mSH"
+  ],
+  "description": "Removed one selected required dependency from a deep copy of the complete source manifest.",
+  "ground_truth_source": "construction_or_inverse_injection",
+  "known_inverse_repair": [
+    {
+      "action_type": "add_dependency",
+      "cost": 1,
+      "reason": "Restore required dependency 'P7dR8mSH' used by '1IjD5062'.",
+      "target_mod_id": "P7dR8mSH",
+      "target_version_id": "Kr4WG5mG",
+      "target_version_number": "0.154.2+26.2"
+    }
+  ],
+  "observed_solver_result": null,
+  "parent_case_id": "full-remarkably-mzetltcd"
+}

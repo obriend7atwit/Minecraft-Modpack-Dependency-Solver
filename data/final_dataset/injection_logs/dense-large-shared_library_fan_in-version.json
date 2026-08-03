@@ -1,0 +1,20 @@
+{
+  "case_id": "dense-large-shared_library_fan_in-version",
+  "changed_mod_ids": [
+    "dense-large-shared_library_fan_in-mod-000"
+  ],
+  "description": "Selected an incompatible Minecraft version for 'dense-large-shared_library_fan_in-mod-000'; restoring the original version is a known valid repair.",
+  "ground_truth_source": "construction_or_inverse_injection",
+  "known_inverse_repair": [
+    {
+      "action_type": "upgrade_mod",
+      "cost": 4,
+      "reason": "Inverse of the deterministic injected change.",
+      "target_mod_id": "dense-large-shared_library_fan_in-mod-000",
+      "target_version_id": "dense-large-shared_library_fan_in-mod-000-v1",
+      "target_version_number": "1.0.0"
+    }
+  ],
+  "observed_solver_result": null,
+  "parent_case_id": "dense-large-shared_library_fan_in-control"
+}

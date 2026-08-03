@@ -1,0 +1,42 @@
+{
+  "case_id": "cascade-04-version-transitive",
+  "changed_mod_ids": [],
+  "description": "Changing the root version reveals a dependency whose addition exposes two more missing libraries.",
+  "ground_truth_source": "construction_or_inverse_injection",
+  "known_inverse_repair": [
+    {
+      "action_type": "upgrade_mod",
+      "cost": 4,
+      "reason": "Hand-constructed independent cascading repair.",
+      "target_mod_id": "transitive-a",
+      "target_version_id": "transitive-a-v2",
+      "target_version_number": "2.0.0"
+    },
+    {
+      "action_type": "add_dependency",
+      "cost": 1,
+      "reason": "Hand-constructed independent cascading repair.",
+      "target_mod_id": "transitive-b",
+      "target_version_id": "transitive-b-1.0.0",
+      "target_version_number": "1.0.0"
+    },
+    {
+      "action_type": "add_dependency",
+      "cost": 1,
+      "reason": "Hand-constructed independent cascading repair.",
+      "target_mod_id": "transitive-c",
+      "target_version_id": "transitive-c-1.0.0",
+      "target_version_number": "1.0.0"
+    },
+    {
+      "action_type": "add_dependency",
+      "cost": 1,
+      "reason": "Hand-constructed independent cascading repair.",
+      "target_mod_id": "transitive-d",
+      "target_version_id": "transitive-d-1.0.0",
+      "target_version_number": "1.0.0"
+    }
+  ],
+  "observed_solver_result": null,
+  "parent_case_id": null
+}

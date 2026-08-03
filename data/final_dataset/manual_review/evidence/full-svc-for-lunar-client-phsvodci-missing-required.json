@@ -1,0 +1,22 @@
+{
+  "case_id": "full-svc-for-lunar-client-phsvodci-missing-required",
+  "checker_matches_expected": true,
+  "final_known_repair_compatible": true,
+  "fixture_exists": true,
+  "graph_builds": true,
+  "injection_log_exists": true,
+  "injection_matches_case_diff": true,
+  "known_repair_replays": true,
+  "manifest_hash_present": true,
+  "metadata_cache_exists": true,
+  "metadata_coverage_rate": 1.0,
+  "observed_issue_types": [
+    "missing_dependency",
+    "unknown_dependency_target"
+  ],
+  "observed_status": "incompatible",
+  "source_family_id": "modrinth-full-svc-for-lunar-client-pHsvoDcI",
+  "source_url_present": true,
+  "source_version_present": true,
+  "warnings": []
+}

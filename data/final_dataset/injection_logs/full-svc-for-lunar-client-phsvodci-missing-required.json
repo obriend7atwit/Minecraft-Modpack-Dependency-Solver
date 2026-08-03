@@ -1,0 +1,21 @@
+{
+  "case_id": "full-svc-for-lunar-client-phsvodci-missing-required",
+  "changed_mod_ids": [
+    "YL57xq9U",
+    "AANobbMI"
+  ],
+  "description": "Removed one selected required dependency from a deep copy of the complete source manifest.",
+  "ground_truth_source": "construction_or_inverse_injection",
+  "known_inverse_repair": [
+    {
+      "action_type": "add_dependency",
+      "cost": 1,
+      "reason": "Restore required dependency 'AANobbMI' used by 'YL57xq9U'.",
+      "target_mod_id": "AANobbMI",
+      "target_version_id": "2Yom1N68",
+      "target_version_number": "mc26.2-0.9.1-fabric"
+    }
+  ],
+  "observed_solver_result": null,
+  "parent_case_id": "full-svc-for-lunar-client-phsvodci"
+}

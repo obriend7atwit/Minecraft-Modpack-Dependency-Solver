@@ -1,0 +1,187 @@
+{
+  "analysis_status": "excluded_pending_metadata_review",
+  "checker_errors": [
+    {
+      "affected_mod_ids": [
+        "1DWmBJVA",
+        "4XJZeZbM"
+      ],
+      "issue_type": "unknown_dependency_target",
+      "message": "Selected version '1DWmBJVA@1.4.28' has a required dependency target '4XJZeZbM' that is not available in current metadata."
+    },
+    {
+      "affected_mod_ids": [
+        "1DWmBJVA",
+        "4XJZeZbM"
+      ],
+      "issue_type": "missing_dependency",
+      "message": "Selected version '1DWmBJVA@1.4.28' requires '4XJZeZbM', but it is not selected."
+    },
+    {
+      "affected_mod_ids": [
+        "4TTDxtOx",
+        "4XJZeZbM"
+      ],
+      "issue_type": "unknown_dependency_target",
+      "message": "Selected version '4TTDxtOx@1.2.14' has a required dependency target '4XJZeZbM' that is not available in current metadata."
+    },
+    {
+      "affected_mod_ids": [
+        "4TTDxtOx",
+        "4XJZeZbM"
+      ],
+      "issue_type": "missing_dependency",
+      "message": "Selected version '4TTDxtOx@1.2.14' requires '4XJZeZbM', but it is not selected."
+    },
+    {
+      "affected_mod_ids": [
+        "Eeb4VkF6",
+        "P1Kv5EAO"
+      ],
+      "issue_type": "unknown_dependency_target",
+      "message": "Selected version 'Eeb4VkF6@23.10.11' has a required dependency target 'P1Kv5EAO' that is not available in current metadata."
+    },
+    {
+      "affected_mod_ids": [
+        "Eeb4VkF6",
+        "P1Kv5EAO"
+      ],
+      "issue_type": "missing_dependency",
+      "message": "Selected version 'Eeb4VkF6@23.10.11' requires 'P1Kv5EAO', but it is not selected."
+    },
+    {
+      "affected_mod_ids": [
+        "Eh11TaTm",
+        "4XJZeZbM"
+      ],
+      "issue_type": "unknown_dependency_target",
+      "message": "Selected version 'Eh11TaTm@1.0.8.1' has a required dependency target '4XJZeZbM' that is not available in current metadata."
+    },
+    {
+      "affected_mod_ids": [
+        "Eh11TaTm",
+        "4XJZeZbM"
+      ],
+      "issue_type": "missing_dependency",
+      "message": "Selected version 'Eh11TaTm@1.0.8.1' requires '4XJZeZbM', but it is not selected."
+    },
+    {
+      "affected_mod_ids": [
+        "HJetCzWo",
+        "4XJZeZbM"
+      ],
+      "issue_type": "unknown_dependency_target",
+      "message": "Selected version 'HJetCzWo@1.0.4' has a required dependency target '4XJZeZbM' that is not available in current metadata."
+    },
+    {
+      "affected_mod_ids": [
+        "HJetCzWo",
+        "4XJZeZbM"
+      ],
+      "issue_type": "missing_dependency",
+      "message": "Selected version 'HJetCzWo@1.0.4' requires '4XJZeZbM', but it is not selected."
+    },
+    {
+      "affected_mod_ids": [
+        "ZouiUX7t",
+        "1eAoo2KR"
+      ],
+      "issue_type": "unknown_dependency_target",
+      "message": "Selected version 'ZouiUX7t@2.2.1+1.20.1-fabric' has a required dependency target '1eAoo2KR' that is not available in current metadata."
+    },
+    {
+      "affected_mod_ids": [
+        "ZouiUX7t",
+        "1eAoo2KR"
+      ],
+      "issue_type": "missing_dependency",
+      "message": "Selected version 'ZouiUX7t@2.2.1+1.20.1-fabric' requires '1eAoo2KR', but it is not selected."
+    },
+    {
+      "affected_mod_ids": [
+        "b7NV2plI",
+        "4XJZeZbM"
+      ],
+      "issue_type": "unknown_dependency_target",
+      "message": "Selected version 'b7NV2plI@2.0.3' has a required dependency target '4XJZeZbM' that is not available in current metadata."
+    },
+    {
+      "affected_mod_ids": [
+        "b7NV2plI",
+        "4XJZeZbM"
+      ],
+      "issue_type": "missing_dependency",
+      "message": "Selected version 'b7NV2plI@2.0.3' requires '4XJZeZbM', but it is not selected."
+    },
+    {
+      "affected_mod_ids": [
+        "oNB5jhlA",
+        "4XJZeZbM"
+      ],
+      "issue_type": "unknown_dependency_target",
+      "message": "Selected version 'oNB5jhlA@2.0.3' has a required dependency target '4XJZeZbM' that is not available in current metadata."
+    },
+    {
+      "affected_mod_ids": [
+        "oNB5jhlA",
+        "4XJZeZbM"
+      ],
+      "issue_type": "missing_dependency",
+      "message": "Selected version 'oNB5jhlA@2.0.3' requires '4XJZeZbM', but it is not selected."
+    },
+    {
+      "affected_mod_ids": [
+        "qwbArkQk",
+        "4XJZeZbM"
+      ],
+      "issue_type": "unknown_dependency_target",
+      "message": "Selected version 'qwbArkQk@2.0.2' has a required dependency target '4XJZeZbM' that is not available in current metadata."
+    },
+    {
+      "affected_mod_ids": [
+        "qwbArkQk",
+        "4XJZeZbM"
+      ],
+      "issue_type": "missing_dependency",
+      "message": "Selected version 'qwbArkQk@2.0.2' requires '4XJZeZbM', but it is not selected."
+    },
+    {
+      "affected_mod_ids": [
+        "ra7o6Sl7",
+        "4XJZeZbM"
+      ],
+      "issue_type": "unknown_dependency_target",
+      "message": "Selected version 'ra7o6Sl7@1.3.19' has a required dependency target '4XJZeZbM' that is not available in current metadata."
+    },
+    {
+      "affected_mod_ids": [
+        "ra7o6Sl7",
+        "4XJZeZbM"
+      ],
+      "issue_type": "missing_dependency",
+      "message": "Selected version 'ra7o6Sl7@1.3.19' requires '4XJZeZbM', but it is not selected."
+    },
+    {
+      "affected_mod_ids": [
+        "zrzYrlm0",
+        "qvIfYCYJ"
+      ],
+      "issue_type": "unknown_dependency_target",
+      "message": "Selected version 'zrzYrlm0@1.9.4+mod' has a required dependency target 'qvIfYCYJ' that is not available in current metadata."
+    },
+    {
+      "affected_mod_ids": [
+        "zrzYrlm0",
+        "qvIfYCYJ"
+      ],
+      "issue_type": "missing_dependency",
+      "message": "Selected version 'zrzYrlm0@1.9.4+mod' requires 'qvIfYCYJ', but it is not selected."
+    }
+  ],
+  "collection_status": "collected",
+  "normalized_case_path": "data\\final_dataset\\original_real\\full-aged-7BgHWBWr.json",
+  "reason": "The normalized source manifest produces checker errors and cannot serve as an unchanged compatible control without manual adjudication.",
+  "slug": "aged",
+  "source_url": "https://modrinth.com/modpack/aged/version/7BgHWBWr",
+  "version_id": "7BgHWBWr"
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "case_id": "controlled-preservation-tradeoff",
+    "name": "Controlled preservation trade-off",
+    "fixture": "preservation_tradeoff.json",
+    "source_type": "synthetic",
+    "description": "Controlled synthetic case where default weights prefer one removal and preservation-focused weights prefer multiple version changes.",
+    "expected_initial_status": "incompatible",
+    "expected_solver_status": "solution_found",
+    "expected_issue_types": ["hard_conflict"],
+    "expected_final_compatible": true,
+    "notes": "Synthetic Week 9 experiment. Not part of the main 25-case strict manifest."
+  }
+]

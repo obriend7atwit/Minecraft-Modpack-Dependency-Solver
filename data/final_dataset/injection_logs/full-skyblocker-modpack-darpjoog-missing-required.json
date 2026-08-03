@@ -1,0 +1,21 @@
+{
+  "case_id": "full-skyblocker-modpack-darpjoog-missing-required",
+  "changed_mod_ids": [
+    "1eAoo2KR",
+    "P7dR8mSH"
+  ],
+  "description": "Removed one selected required dependency from a deep copy of the complete source manifest.",
+  "ground_truth_source": "construction_or_inverse_injection",
+  "known_inverse_repair": [
+    {
+      "action_type": "add_dependency",
+      "cost": 1,
+      "reason": "Restore required dependency 'P7dR8mSH' used by '1eAoo2KR'.",
+      "target_mod_id": "P7dR8mSH",
+      "target_version_id": "v0WpqBBM",
+      "target_version_number": "0.155.0+26.1.2"
+    }
+  ],
+  "observed_solver_result": null,
+  "parent_case_id": "full-skyblocker-modpack-darpjoog"
+}

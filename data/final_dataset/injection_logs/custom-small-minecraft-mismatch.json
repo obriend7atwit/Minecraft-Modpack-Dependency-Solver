@@ -1,0 +1,13 @@
+{
+  "case_id": "custom-small-minecraft-mismatch",
+  "expected_action_types": [
+    "upgrade_mod"
+  ],
+  "expected_issue_types": [
+    "minecraft_version_mismatch"
+  ],
+  "manually_reviewed": false,
+  "modification_description": "Deterministic custom minecraft mismatch scenario generated offline.",
+  "modification_type": "replace_with_incompatible_version",
+  "original_case_id": "custom-small-valid"
+}

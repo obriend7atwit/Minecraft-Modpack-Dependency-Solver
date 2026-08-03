@@ -1,0 +1,50 @@
+{
+  "case_id": "cascade-12-multi-error",
+  "changed_mod_ids": [],
+  "description": "Four initial errors plus a revealed transitive dependency require five actions.",
+  "ground_truth_source": "construction_or_inverse_injection",
+  "known_inverse_repair": [
+    {
+      "action_type": "add_dependency",
+      "cost": 1,
+      "reason": "Hand-constructed independent cascading repair.",
+      "target_mod_id": "multi-b",
+      "target_version_id": "multi-b-1.0.0",
+      "target_version_number": "1.0.0"
+    },
+    {
+      "action_type": "add_dependency",
+      "cost": 1,
+      "reason": "Hand-constructed independent cascading repair.",
+      "target_mod_id": "multi-c",
+      "target_version_id": "multi-c-1.0.0",
+      "target_version_number": "1.0.0"
+    },
+    {
+      "action_type": "upgrade_mod",
+      "cost": 4,
+      "reason": "Hand-constructed independent cascading repair.",
+      "target_mod_id": "multi-x",
+      "target_version_id": "multi-x-v2",
+      "target_version_number": "2.0.0"
+    },
+    {
+      "action_type": "remove_mod",
+      "cost": 10,
+      "reason": "Hand-constructed independent cascading repair.",
+      "target_mod_id": "multi-e",
+      "target_version_id": null,
+      "target_version_number": null
+    },
+    {
+      "action_type": "remove_mod",
+      "cost": 10,
+      "reason": "Hand-constructed independent cascading repair.",
+      "target_mod_id": "multi-z",
+      "target_version_id": null,
+      "target_version_number": null
+    }
+  ],
+  "observed_solver_result": null,
+  "parent_case_id": null
+}

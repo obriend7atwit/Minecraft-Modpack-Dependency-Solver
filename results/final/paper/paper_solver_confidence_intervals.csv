@@ -1,0 +1,4 @@
+method,repair_success_95_ci,full_preservation_95_ci,preservation_95_ci,mean_removals_95_ci,median_runtime_ms_95_ci
+Baseline,"[81.7%, 92.9%]","[58.9%, 77.9%]","[91.7%, 97.4%]","[0.138, 0.305]","[0.384, 2.999]"
+Weighted default,"[100.0%, 100.0%]","[78.0%, 92.2%]","[95.6%, 98.9%]","[0.078, 0.220]","[2.206, 7.738]"
+Preservation-focused,"[100.0%, 100.0%]","[82.5%, 95.4%]","[97.0%, 99.6%]","[0.046, 0.175]","[2.035, 8.029]"

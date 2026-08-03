@@ -1,0 +1,22 @@
+{
+  "collected_at": "2026-07-20T00:43:59.608662+00:00",
+  "collection_method": "official_modrinth_api_mrpack_manifest_only",
+  "manifest_file_count": 45,
+  "manual_review_required": true,
+  "maximum_required_depth": 2,
+  "metadata_coverage_rate": 1.0,
+  "mod_jars_downloaded": false,
+  "pack_size_category": "medium",
+  "pack_title": "Fabulously Optimized",
+  "project_id": "1KVo5zza",
+  "publication_ready": false,
+  "raw_archive_retained": false,
+  "required_edge_count": 29,
+  "resolved_mod_count": 45,
+  "selected_mod_count": 45,
+  "slug": "fabulously-optimized",
+  "source_manifest_sha256": "e6213c99e46b7b7593ac89c67ff135ac14226dd9545b15c151fe97165c18cf95",
+  "source_url": "https://modrinth.com/modpack/fabulously-optimized/version/cZY3Bvs9",
+  "unresolved_mod_count": 0,
+  "version_id": "cZY3Bvs9"
+}

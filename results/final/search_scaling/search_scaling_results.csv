@@ -1,0 +1,6 @@
+case_id,expected_status,observed_status,final_compatible,known_repair_compatible,observed_cost,actions,states_expanded,target_range,search_limit,limit_reached,median_runtime_ms,minimum_runtime_ms,maximum_runtime_ms,ground_truth,outcome_correct
+search-scale-01-moderate,solution_found,solution_found,True,True,20,5,32,25-60,2000,False,12.638,12.379,12.710,inverse_injection,True
+search-scale-02-intermediate,solution_found,solution_found,True,True,28,7,128,70-150,2000,False,75.544,69.365,75.906,inverse_injection,True
+search-scale-03-deep-interaction,solution_found,solution_found,True,True,20,5,212,175-350,2000,False,122.667,117.255,133.981,inverse_injection,True
+search-scale-04-high-bounded,solution_found,limit_reached,False,True,N/A,0,500,350-650,500,True,314.540,302.172,316.704,inverse_injection,True
+search-scale-05-extreme-bounded,solution_found,limit_reached,False,True,N/A,0,750,650-850,750,True,977.145,967.360,1000.541,inverse_injection,True

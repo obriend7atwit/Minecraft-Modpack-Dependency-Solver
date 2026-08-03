@@ -1,0 +1,12 @@
+{
+  "case_id": "custom-focused-unknown-dependency",
+  "expected_action_types": [],
+  "expected_issue_types": [
+    "unknown_dependency_target",
+    "missing_dependency"
+  ],
+  "manually_reviewed": false,
+  "modification_description": "Focused deterministic unknown dependency case generated offline.",
+  "modification_type": "manual",
+  "original_case_id": null
+}

@@ -1,0 +1,2704 @@
+{
+  "config": {
+    "loader": "fabric",
+    "minecraft_version": "1.20.1",
+    "selected_mods": [
+      {
+        "mod_id": "custom-large-mod-001",
+        "version_id": "custom-large-mod-001-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-002",
+        "version_id": "custom-large-mod-002-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-003",
+        "version_id": "custom-large-mod-003-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-004",
+        "version_id": "custom-large-mod-004-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-005",
+        "version_id": "custom-large-mod-005-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-006",
+        "version_id": "custom-large-mod-006-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-007",
+        "version_id": "custom-large-mod-007-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-008",
+        "version_id": "custom-large-mod-008-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-009",
+        "version_id": "custom-large-mod-009-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-010",
+        "version_id": "custom-large-mod-010-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-011",
+        "version_id": "custom-large-mod-011-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-012",
+        "version_id": "custom-large-mod-012-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-013",
+        "version_id": "custom-large-mod-013-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-014",
+        "version_id": "custom-large-mod-014-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-015",
+        "version_id": "custom-large-mod-015-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-016",
+        "version_id": "custom-large-mod-016-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-017",
+        "version_id": "custom-large-mod-017-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-018",
+        "version_id": "custom-large-mod-018-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-019",
+        "version_id": "custom-large-mod-019-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-020",
+        "version_id": "custom-large-mod-020-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-021",
+        "version_id": "custom-large-mod-021-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-022",
+        "version_id": "custom-large-mod-022-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-023",
+        "version_id": "custom-large-mod-023-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-024",
+        "version_id": "custom-large-mod-024-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-025",
+        "version_id": "custom-large-mod-025-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-026",
+        "version_id": "custom-large-mod-026-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-027",
+        "version_id": "custom-large-mod-027-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-028",
+        "version_id": "custom-large-mod-028-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-029",
+        "version_id": "custom-large-mod-029-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-030",
+        "version_id": "custom-large-mod-030-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-031",
+        "version_id": "custom-large-mod-031-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-032",
+        "version_id": "custom-large-mod-032-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-033",
+        "version_id": "custom-large-mod-033-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-034",
+        "version_id": "custom-large-mod-034-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-035",
+        "version_id": "custom-large-mod-035-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-036",
+        "version_id": "custom-large-mod-036-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-037",
+        "version_id": "custom-large-mod-037-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-038",
+        "version_id": "custom-large-mod-038-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-039",
+        "version_id": "custom-large-mod-039-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-040",
+        "version_id": "custom-large-mod-040-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-041",
+        "version_id": "custom-large-mod-041-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-042",
+        "version_id": "custom-large-mod-042-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-043",
+        "version_id": "custom-large-mod-043-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-044",
+        "version_id": "custom-large-mod-044-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-045",
+        "version_id": "custom-large-mod-045-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-046",
+        "version_id": "custom-large-mod-046-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-047",
+        "version_id": "custom-large-mod-047-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-048",
+        "version_id": "custom-large-mod-048-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-049",
+        "version_id": "custom-large-mod-049-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-050",
+        "version_id": "custom-large-mod-050-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-051",
+        "version_id": "custom-large-mod-051-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-052",
+        "version_id": "custom-large-mod-052-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-053",
+        "version_id": "custom-large-mod-053-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-054",
+        "version_id": "custom-large-mod-054-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-055",
+        "version_id": "custom-large-mod-055-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-056",
+        "version_id": "custom-large-mod-056-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-057",
+        "version_id": "custom-large-mod-057-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-058",
+        "version_id": "custom-large-mod-058-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-059",
+        "version_id": "custom-large-mod-059-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-060",
+        "version_id": "custom-large-mod-060-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-061",
+        "version_id": "custom-large-mod-061-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-062",
+        "version_id": "custom-large-mod-062-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-063",
+        "version_id": "custom-large-mod-063-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-064",
+        "version_id": "custom-large-mod-064-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-065",
+        "version_id": "custom-large-mod-065-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-066",
+        "version_id": "custom-large-mod-066-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-067",
+        "version_id": "custom-large-mod-067-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-068",
+        "version_id": "custom-large-mod-068-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-069",
+        "version_id": "custom-large-mod-069-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-070",
+        "version_id": "custom-large-mod-070-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-071",
+        "version_id": "custom-large-mod-071-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-072",
+        "version_id": "custom-large-mod-072-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-073",
+        "version_id": "custom-large-mod-073-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-074",
+        "version_id": "custom-large-mod-074-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-075",
+        "version_id": "custom-large-mod-075-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-076",
+        "version_id": "custom-large-mod-076-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-077",
+        "version_id": "custom-large-mod-077-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-078",
+        "version_id": "custom-large-mod-078-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-079",
+        "version_id": "custom-large-mod-079-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-080",
+        "version_id": "custom-large-mod-080-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-081",
+        "version_id": "custom-large-mod-081-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-082",
+        "version_id": "custom-large-mod-082-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-083",
+        "version_id": "custom-large-mod-083-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-084",
+        "version_id": "custom-large-mod-084-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-085",
+        "version_id": "custom-large-mod-085-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-086",
+        "version_id": "custom-large-mod-086-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-087",
+        "version_id": "custom-large-mod-087-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-088",
+        "version_id": "custom-large-mod-088-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-089",
+        "version_id": "custom-large-mod-089-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-090",
+        "version_id": "custom-large-mod-090-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-091",
+        "version_id": "custom-large-mod-091-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-092",
+        "version_id": "custom-large-mod-092-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-093",
+        "version_id": "custom-large-mod-093-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-094",
+        "version_id": "custom-large-mod-094-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-095",
+        "version_id": "custom-large-mod-095-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-096",
+        "version_id": "custom-large-mod-096-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-097",
+        "version_id": "custom-large-mod-097-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-098",
+        "version_id": "custom-large-mod-098-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-099",
+        "version_id": "custom-large-mod-099-1.0.0",
+        "version_number": null
+      },
+      {
+        "mod_id": "custom-large-mod-001",
+        "version_id": "custom-large-mod-001-2.0.0",
+        "version_number": null
+      }
+    ]
+  },
+  "projects": [
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-001",
+      "name": "Custom Large Mod 001",
+      "slug": "custom-large-mod-001",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-002",
+      "name": "Custom Large Mod 002",
+      "slug": "custom-large-mod-002",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-003",
+      "name": "Custom Large Mod 003",
+      "slug": "custom-large-mod-003",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-004",
+      "name": "Custom Large Mod 004",
+      "slug": "custom-large-mod-004",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-005",
+      "name": "Custom Large Mod 005",
+      "slug": "custom-large-mod-005",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-006",
+      "name": "Custom Large Mod 006",
+      "slug": "custom-large-mod-006",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-007",
+      "name": "Custom Large Mod 007",
+      "slug": "custom-large-mod-007",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-008",
+      "name": "Custom Large Mod 008",
+      "slug": "custom-large-mod-008",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-009",
+      "name": "Custom Large Mod 009",
+      "slug": "custom-large-mod-009",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-010",
+      "name": "Custom Large Mod 010",
+      "slug": "custom-large-mod-010",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-011",
+      "name": "Custom Large Mod 011",
+      "slug": "custom-large-mod-011",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-012",
+      "name": "Custom Large Mod 012",
+      "slug": "custom-large-mod-012",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-013",
+      "name": "Custom Large Mod 013",
+      "slug": "custom-large-mod-013",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-014",
+      "name": "Custom Large Mod 014",
+      "slug": "custom-large-mod-014",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-015",
+      "name": "Custom Large Mod 015",
+      "slug": "custom-large-mod-015",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-016",
+      "name": "Custom Large Mod 016",
+      "slug": "custom-large-mod-016",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-017",
+      "name": "Custom Large Mod 017",
+      "slug": "custom-large-mod-017",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-018",
+      "name": "Custom Large Mod 018",
+      "slug": "custom-large-mod-018",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-019",
+      "name": "Custom Large Mod 019",
+      "slug": "custom-large-mod-019",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-020",
+      "name": "Custom Large Mod 020",
+      "slug": "custom-large-mod-020",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-021",
+      "name": "Custom Large Mod 021",
+      "slug": "custom-large-mod-021",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-022",
+      "name": "Custom Large Mod 022",
+      "slug": "custom-large-mod-022",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-023",
+      "name": "Custom Large Mod 023",
+      "slug": "custom-large-mod-023",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-024",
+      "name": "Custom Large Mod 024",
+      "slug": "custom-large-mod-024",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-025",
+      "name": "Custom Large Mod 025",
+      "slug": "custom-large-mod-025",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-026",
+      "name": "Custom Large Mod 026",
+      "slug": "custom-large-mod-026",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-027",
+      "name": "Custom Large Mod 027",
+      "slug": "custom-large-mod-027",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-028",
+      "name": "Custom Large Mod 028",
+      "slug": "custom-large-mod-028",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-029",
+      "name": "Custom Large Mod 029",
+      "slug": "custom-large-mod-029",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-030",
+      "name": "Custom Large Mod 030",
+      "slug": "custom-large-mod-030",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-031",
+      "name": "Custom Large Mod 031",
+      "slug": "custom-large-mod-031",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-032",
+      "name": "Custom Large Mod 032",
+      "slug": "custom-large-mod-032",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-033",
+      "name": "Custom Large Mod 033",
+      "slug": "custom-large-mod-033",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-034",
+      "name": "Custom Large Mod 034",
+      "slug": "custom-large-mod-034",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-035",
+      "name": "Custom Large Mod 035",
+      "slug": "custom-large-mod-035",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-036",
+      "name": "Custom Large Mod 036",
+      "slug": "custom-large-mod-036",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-037",
+      "name": "Custom Large Mod 037",
+      "slug": "custom-large-mod-037",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-038",
+      "name": "Custom Large Mod 038",
+      "slug": "custom-large-mod-038",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-039",
+      "name": "Custom Large Mod 039",
+      "slug": "custom-large-mod-039",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-040",
+      "name": "Custom Large Mod 040",
+      "slug": "custom-large-mod-040",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-041",
+      "name": "Custom Large Mod 041",
+      "slug": "custom-large-mod-041",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-042",
+      "name": "Custom Large Mod 042",
+      "slug": "custom-large-mod-042",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-043",
+      "name": "Custom Large Mod 043",
+      "slug": "custom-large-mod-043",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-044",
+      "name": "Custom Large Mod 044",
+      "slug": "custom-large-mod-044",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-045",
+      "name": "Custom Large Mod 045",
+      "slug": "custom-large-mod-045",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-046",
+      "name": "Custom Large Mod 046",
+      "slug": "custom-large-mod-046",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-047",
+      "name": "Custom Large Mod 047",
+      "slug": "custom-large-mod-047",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-048",
+      "name": "Custom Large Mod 048",
+      "slug": "custom-large-mod-048",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-049",
+      "name": "Custom Large Mod 049",
+      "slug": "custom-large-mod-049",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-050",
+      "name": "Custom Large Mod 050",
+      "slug": "custom-large-mod-050",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-051",
+      "name": "Custom Large Mod 051",
+      "slug": "custom-large-mod-051",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-052",
+      "name": "Custom Large Mod 052",
+      "slug": "custom-large-mod-052",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-053",
+      "name": "Custom Large Mod 053",
+      "slug": "custom-large-mod-053",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-054",
+      "name": "Custom Large Mod 054",
+      "slug": "custom-large-mod-054",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-055",
+      "name": "Custom Large Mod 055",
+      "slug": "custom-large-mod-055",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-056",
+      "name": "Custom Large Mod 056",
+      "slug": "custom-large-mod-056",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-057",
+      "name": "Custom Large Mod 057",
+      "slug": "custom-large-mod-057",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-058",
+      "name": "Custom Large Mod 058",
+      "slug": "custom-large-mod-058",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-059",
+      "name": "Custom Large Mod 059",
+      "slug": "custom-large-mod-059",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-060",
+      "name": "Custom Large Mod 060",
+      "slug": "custom-large-mod-060",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-061",
+      "name": "Custom Large Mod 061",
+      "slug": "custom-large-mod-061",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-062",
+      "name": "Custom Large Mod 062",
+      "slug": "custom-large-mod-062",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-063",
+      "name": "Custom Large Mod 063",
+      "slug": "custom-large-mod-063",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-064",
+      "name": "Custom Large Mod 064",
+      "slug": "custom-large-mod-064",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-065",
+      "name": "Custom Large Mod 065",
+      "slug": "custom-large-mod-065",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-066",
+      "name": "Custom Large Mod 066",
+      "slug": "custom-large-mod-066",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-067",
+      "name": "Custom Large Mod 067",
+      "slug": "custom-large-mod-067",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-068",
+      "name": "Custom Large Mod 068",
+      "slug": "custom-large-mod-068",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-069",
+      "name": "Custom Large Mod 069",
+      "slug": "custom-large-mod-069",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-070",
+      "name": "Custom Large Mod 070",
+      "slug": "custom-large-mod-070",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-071",
+      "name": "Custom Large Mod 071",
+      "slug": "custom-large-mod-071",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-072",
+      "name": "Custom Large Mod 072",
+      "slug": "custom-large-mod-072",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-073",
+      "name": "Custom Large Mod 073",
+      "slug": "custom-large-mod-073",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-074",
+      "name": "Custom Large Mod 074",
+      "slug": "custom-large-mod-074",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-075",
+      "name": "Custom Large Mod 075",
+      "slug": "custom-large-mod-075",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-076",
+      "name": "Custom Large Mod 076",
+      "slug": "custom-large-mod-076",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-077",
+      "name": "Custom Large Mod 077",
+      "slug": "custom-large-mod-077",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-078",
+      "name": "Custom Large Mod 078",
+      "slug": "custom-large-mod-078",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-079",
+      "name": "Custom Large Mod 079",
+      "slug": "custom-large-mod-079",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-080",
+      "name": "Custom Large Mod 080",
+      "slug": "custom-large-mod-080",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-081",
+      "name": "Custom Large Mod 081",
+      "slug": "custom-large-mod-081",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-082",
+      "name": "Custom Large Mod 082",
+      "slug": "custom-large-mod-082",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-083",
+      "name": "Custom Large Mod 083",
+      "slug": "custom-large-mod-083",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-084",
+      "name": "Custom Large Mod 084",
+      "slug": "custom-large-mod-084",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-085",
+      "name": "Custom Large Mod 085",
+      "slug": "custom-large-mod-085",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-086",
+      "name": "Custom Large Mod 086",
+      "slug": "custom-large-mod-086",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-087",
+      "name": "Custom Large Mod 087",
+      "slug": "custom-large-mod-087",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-088",
+      "name": "Custom Large Mod 088",
+      "slug": "custom-large-mod-088",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-089",
+      "name": "Custom Large Mod 089",
+      "slug": "custom-large-mod-089",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-090",
+      "name": "Custom Large Mod 090",
+      "slug": "custom-large-mod-090",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-091",
+      "name": "Custom Large Mod 091",
+      "slug": "custom-large-mod-091",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-092",
+      "name": "Custom Large Mod 092",
+      "slug": "custom-large-mod-092",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-093",
+      "name": "Custom Large Mod 093",
+      "slug": "custom-large-mod-093",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-094",
+      "name": "Custom Large Mod 094",
+      "slug": "custom-large-mod-094",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-095",
+      "name": "Custom Large Mod 095",
+      "slug": "custom-large-mod-095",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-096",
+      "name": "Custom Large Mod 096",
+      "slug": "custom-large-mod-096",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-097",
+      "name": "Custom Large Mod 097",
+      "slug": "custom-large-mod-097",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-098",
+      "name": "Custom Large Mod 098",
+      "slug": "custom-large-mod-098",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "custom-large-mod-099",
+      "name": "Custom Large Mod 099",
+      "slug": "custom-large-mod-099",
+      "source": "synthetic"
+    }
+  ],
+  "versions": [
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-001",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-001-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-002",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-002-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-003",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-003-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-004",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-004-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-005",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-005-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-006",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-006-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-007",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-007-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-008",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-008-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-009",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-009-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-010",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-010-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-011",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-011-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-012",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-012-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-013",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-013-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-014",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-014-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-015",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-015-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-016",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-016-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-017",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-017-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-018",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-018-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-019",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-019-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-020",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-020-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-021",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-021-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-022",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-022-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-023",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-023-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-024",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-024-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-025",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-025-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-026",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-026-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-027",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-027-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-028",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-028-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-029",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-029-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-030",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-030-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-031",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-031-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-032",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-032-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-033",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-033-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-034",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-034-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-035",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-035-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-036",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-036-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-037",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-037-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-038",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-038-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-039",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-039-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-040",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-040-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-041",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-041-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-042",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-042-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-043",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-043-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-044",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-044-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-045",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-045-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-046",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-046-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-047",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-047-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-048",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-048-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-049",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-049-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-050",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-050-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-051",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-051-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-052",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-052-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-053",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-053-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-054",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-054-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-055",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-055-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-056",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-056-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-057",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-057-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-058",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-058-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-059",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-059-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-060",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-060-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-061",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-061-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-062",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-062-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-063",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-063-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-064",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-064-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-065",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-065-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-066",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-066-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-067",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-067-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-068",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-068-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-069",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-069-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-070",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-070-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-071",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-071-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-072",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-072-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-073",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-073-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-074",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-074-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-075",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-075-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-076",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-076-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-077",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-077-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-078",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-078-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-079",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-079-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-080",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-080-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-081",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-081-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-082",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-082-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-083",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-083-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-084",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-084-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-085",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-085-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-086",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-086-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-087",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-087-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-088",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-088-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-089",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-089-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-090",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-090-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-091",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-091-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-092",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-092-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-093",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-093-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-094",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-094-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-095",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-095-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-096",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-096-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-097",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-097-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-098",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-098-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-099",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-099-1.0.0",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "custom-large-mod-001",
+      "source": "synthetic",
+      "version_id": "custom-large-mod-001-2.0.0",
+      "version_number": "2.0.0",
+      "version_type": null
+    }
+  ]
+}

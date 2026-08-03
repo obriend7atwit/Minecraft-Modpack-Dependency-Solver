@@ -1,0 +1,11 @@
+{
+  "case_id": "real-additive-loader-mismatch",
+  "expected_action_types": [],
+  "expected_issue_types": [
+    "loader_mismatch"
+  ],
+  "manually_reviewed": true,
+  "modification_description": "Reduced cached sample intentionally modified for evaluation.",
+  "modification_type": "change_loader",
+  "original_case_id": "real-additive-valid"
+}

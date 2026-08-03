@@ -1,0 +1,26 @@
+{
+  "case_id": "cascade-10-conflict-alternative",
+  "changed_mod_ids": [],
+  "description": "Complete plans are compared: one version conflicts, while another needs a library.",
+  "ground_truth_source": "construction_or_inverse_injection",
+  "known_inverse_repair": [
+    {
+      "action_type": "upgrade_mod",
+      "cost": 4,
+      "reason": "Hand-constructed independent cascading repair.",
+      "target_mod_id": "alternative-a",
+      "target_version_id": "alternative-a-v3",
+      "target_version_number": "3.0.0"
+    },
+    {
+      "action_type": "add_dependency",
+      "cost": 1,
+      "reason": "Hand-constructed independent cascading repair.",
+      "target_mod_id": "alternative-b",
+      "target_version_id": "alternative-b-1.0.0",
+      "target_version_number": "1.0.0"
+    }
+  ],
+  "observed_solver_result": null,
+  "parent_case_id": null
+}

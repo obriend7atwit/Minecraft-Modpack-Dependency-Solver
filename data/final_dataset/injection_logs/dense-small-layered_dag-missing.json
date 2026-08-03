@@ -1,0 +1,20 @@
+{
+  "case_id": "dense-small-layered_dag-missing",
+  "changed_mod_ids": [
+    "dense-small-layered_dag-mod-013"
+  ],
+  "description": "Removed selected required dependency 'dense-small-layered_dag-mod-013'; the inverse add is a known valid repair.",
+  "ground_truth_source": "construction_or_inverse_injection",
+  "known_inverse_repair": [
+    {
+      "action_type": "add_dependency",
+      "cost": 1,
+      "reason": "Inverse of the deterministic injected change.",
+      "target_mod_id": "dense-small-layered_dag-mod-013",
+      "target_version_id": "dense-small-layered_dag-mod-013-v1",
+      "target_version_number": "1.0.0"
+    }
+  ],
+  "observed_solver_result": null,
+  "parent_case_id": "dense-small-layered_dag-control"
+}

@@ -1,0 +1,22 @@
+{
+  "collected_at": "2026-07-20T00:44:02.151796+00:00",
+  "collection_method": "official_modrinth_api_mrpack_manifest_only",
+  "manifest_file_count": 74,
+  "manual_review_required": true,
+  "maximum_required_depth": 2,
+  "metadata_coverage_rate": 1.0,
+  "mod_jars_downloaded": false,
+  "pack_size_category": "medium",
+  "pack_title": "Cobblemon Official Modpack [Fabric]",
+  "project_id": "5FFgwNNP",
+  "publication_ready": false,
+  "raw_archive_retained": false,
+  "required_edge_count": 74,
+  "resolved_mod_count": 74,
+  "selected_mod_count": 74,
+  "slug": "cobblemon-fabric",
+  "source_manifest_sha256": "fa377b0d9aa5c8108877b63bbdcf88b2ebe12f103980035bb86f5fce74f37059",
+  "source_url": "https://modrinth.com/modpack/cobblemon-fabric/version/Lydu1ZNo",
+  "unresolved_mod_count": 0,
+  "version_id": "Lydu1ZNo"
+}

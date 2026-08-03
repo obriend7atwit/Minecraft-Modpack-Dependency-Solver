@@ -1,0 +1,511 @@
+{
+  "config": {
+    "loader": "fabric",
+    "minecraft_version": "1.20.1",
+    "selected_mods": [
+      {
+        "mod_id": "search-scale-05-extreme-bounded-anchor",
+        "version_id": "search-scale-05-extreme-bounded-anchor-selected",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "search-scale-05-extreme-bounded-decision-00",
+        "version_id": "search-scale-05-extreme-bounded-decision-00-injected-bad",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "search-scale-05-extreme-bounded-decision-01",
+        "version_id": "search-scale-05-extreme-bounded-decision-01-injected-bad",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "search-scale-05-extreme-bounded-decision-02",
+        "version_id": "search-scale-05-extreme-bounded-decision-02-injected-bad",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "search-scale-05-extreme-bounded-decision-03",
+        "version_id": "search-scale-05-extreme-bounded-decision-03-injected-bad",
+        "version_number": "1.0.0"
+      },
+      {
+        "mod_id": "search-scale-05-extreme-bounded-decision-04",
+        "version_id": "search-scale-05-extreme-bounded-decision-04-injected-bad",
+        "version_number": "1.0.0"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "search-scale-05-extreme-bounded-anchor",
+      "name": "Search Scale 05 Extreme Bounded Anchor",
+      "slug": "search-scale-05-extreme-bounded-anchor",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "search-scale-05-extreme-bounded-helper",
+      "name": "Search Scale 05 Extreme Bounded Helper",
+      "slug": "search-scale-05-extreme-bounded-helper",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "search-scale-05-extreme-bounded-transitive",
+      "name": "Search Scale 05 Extreme Bounded Transitive",
+      "slug": "search-scale-05-extreme-bounded-transitive",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "search-scale-05-extreme-bounded-decision-00",
+      "name": "Search Scale 05 Extreme Bounded Decision 00",
+      "slug": "search-scale-05-extreme-bounded-decision-00",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "search-scale-05-extreme-bounded-decision-01",
+      "name": "Search Scale 05 Extreme Bounded Decision 01",
+      "slug": "search-scale-05-extreme-bounded-decision-01",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "search-scale-05-extreme-bounded-decision-02",
+      "name": "Search Scale 05 Extreme Bounded Decision 02",
+      "slug": "search-scale-05-extreme-bounded-decision-02",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "search-scale-05-extreme-bounded-decision-03",
+      "name": "Search Scale 05 Extreme Bounded Decision 03",
+      "slug": "search-scale-05-extreme-bounded-decision-03",
+      "source": "synthetic"
+    },
+    {
+      "author": null,
+      "description": null,
+      "mod_id": "search-scale-05-extreme-bounded-decision-04",
+      "name": "Search Scale 05 Extreme Bounded Decision 04",
+      "slug": "search-scale-05-extreme-bounded-decision-04",
+      "source": "synthetic"
+    }
+  ],
+  "versions": [
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-05-extreme-bounded-anchor",
+      "source": "synthetic",
+      "version_id": "search-scale-05-extreme-bounded-anchor-selected",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "search-scale-05-extreme-bounded-transitive",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-05-extreme-bounded-helper",
+      "source": "synthetic",
+      "version_id": "search-scale-05-extreme-bounded-helper-missing",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-05-extreme-bounded-transitive",
+      "source": "synthetic",
+      "version_id": "search-scale-05-extreme-bounded-transitive-missing",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.19.4"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-05-extreme-bounded-decision-00",
+      "source": "synthetic",
+      "version_id": "search-scale-05-extreme-bounded-decision-00-injected-bad",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-05-extreme-bounded-decision-00",
+      "source": "synthetic",
+      "version_id": "search-scale-05-extreme-bounded-decision-00-clean-a",
+      "version_number": "2.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-05-extreme-bounded-decision-00",
+      "source": "synthetic",
+      "version_id": "search-scale-05-extreme-bounded-decision-00-alternative-1",
+      "version_number": "3.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "search-scale-05-extreme-bounded-helper",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "incompatible",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "search-scale-05-extreme-bounded-anchor",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-05-extreme-bounded-decision-00",
+      "source": "synthetic",
+      "version_id": "search-scale-05-extreme-bounded-decision-00-alternative-2",
+      "version_number": "4.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.19.4"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-05-extreme-bounded-decision-01",
+      "source": "synthetic",
+      "version_id": "search-scale-05-extreme-bounded-decision-01-injected-bad",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-05-extreme-bounded-decision-01",
+      "source": "synthetic",
+      "version_id": "search-scale-05-extreme-bounded-decision-01-clean-a",
+      "version_number": "2.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-05-extreme-bounded-decision-01",
+      "source": "synthetic",
+      "version_id": "search-scale-05-extreme-bounded-decision-01-alternative-1",
+      "version_number": "3.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "search-scale-05-extreme-bounded-helper",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "incompatible",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "search-scale-05-extreme-bounded-anchor",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-05-extreme-bounded-decision-01",
+      "source": "synthetic",
+      "version_id": "search-scale-05-extreme-bounded-decision-01-alternative-2",
+      "version_number": "4.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.19.4"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-05-extreme-bounded-decision-02",
+      "source": "synthetic",
+      "version_id": "search-scale-05-extreme-bounded-decision-02-injected-bad",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-05-extreme-bounded-decision-02",
+      "source": "synthetic",
+      "version_id": "search-scale-05-extreme-bounded-decision-02-clean-a",
+      "version_number": "2.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-05-extreme-bounded-decision-02",
+      "source": "synthetic",
+      "version_id": "search-scale-05-extreme-bounded-decision-02-alternative-1",
+      "version_number": "3.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "search-scale-05-extreme-bounded-helper",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "incompatible",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "search-scale-05-extreme-bounded-anchor",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-05-extreme-bounded-decision-02",
+      "source": "synthetic",
+      "version_id": "search-scale-05-extreme-bounded-decision-02-alternative-2",
+      "version_number": "4.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.19.4"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-05-extreme-bounded-decision-03",
+      "source": "synthetic",
+      "version_id": "search-scale-05-extreme-bounded-decision-03-injected-bad",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-05-extreme-bounded-decision-03",
+      "source": "synthetic",
+      "version_id": "search-scale-05-extreme-bounded-decision-03-clean-a",
+      "version_number": "2.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-05-extreme-bounded-decision-03",
+      "source": "synthetic",
+      "version_id": "search-scale-05-extreme-bounded-decision-03-alternative-1",
+      "version_number": "3.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "search-scale-05-extreme-bounded-helper",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "incompatible",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "search-scale-05-extreme-bounded-anchor",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-05-extreme-bounded-decision-03",
+      "source": "synthetic",
+      "version_id": "search-scale-05-extreme-bounded-decision-03-alternative-2",
+      "version_number": "4.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.19.4"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-05-extreme-bounded-decision-04",
+      "source": "synthetic",
+      "version_id": "search-scale-05-extreme-bounded-decision-04-injected-bad",
+      "version_number": "1.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-05-extreme-bounded-decision-04",
+      "source": "synthetic",
+      "version_id": "search-scale-05-extreme-bounded-decision-04-clean-a",
+      "version_number": "2.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-05-extreme-bounded-decision-04",
+      "source": "synthetic",
+      "version_id": "search-scale-05-extreme-bounded-decision-04-alternative-1",
+      "version_number": "3.0.0",
+      "version_type": null
+    },
+    {
+      "dependencies": [
+        {
+          "dependency_type": "required",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "search-scale-05-extreme-bounded-helper",
+          "target_version_id": null
+        },
+        {
+          "dependency_type": "incompatible",
+          "raw_constraint": null,
+          "source": "synthetic",
+          "target_mod_id": "search-scale-05-extreme-bounded-anchor",
+          "target_version_id": null
+        }
+      ],
+      "game_versions": [
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "mod_id": "search-scale-05-extreme-bounded-decision-04",
+      "source": "synthetic",
+      "version_id": "search-scale-05-extreme-bounded-decision-04-alternative-2",
+      "version_number": "4.0.0",
+      "version_type": null
+    }
+  ]
+}

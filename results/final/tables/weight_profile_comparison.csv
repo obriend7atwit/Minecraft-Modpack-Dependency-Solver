@@ -1,0 +1,3 @@
+profile,repair_success_rate,average_preservation_rate,average_weighted_cost_within_profile,average_action_count,average_removed_mods,median_runtime_ms,note
+weighted_default,100.00%,97.46%,4.327,1.212,0.154,3.601,Raw weighted costs use this profile's own scale and are not cross-profile comparable.
+weighted_preservation,100.00%,98.42%,6.654,1.288,0.115,3.683,Raw weighted costs use this profile's own scale and are not cross-profile comparable.

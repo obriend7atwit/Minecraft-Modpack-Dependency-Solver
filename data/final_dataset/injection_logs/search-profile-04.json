@@ -1,0 +1,34 @@
+{
+  "case_id": "search-profile-04",
+  "changed_mod_ids": [],
+  "description": "Controlled profile sensitive search case.",
+  "ground_truth_source": "construction_or_inverse_injection",
+  "known_inverse_repair": [
+    {
+      "action_type": "upgrade_mod",
+      "cost": 4,
+      "reason": "Reference-enumerated controlled search case.",
+      "target_mod_id": "search-profile-04-a",
+      "target_version_id": "search-profile-04-a-v2",
+      "target_version_number": "2.0.0"
+    },
+    {
+      "action_type": "upgrade_mod",
+      "cost": 4,
+      "reason": "Reference-enumerated controlled search case.",
+      "target_mod_id": "search-profile-04-c",
+      "target_version_id": "search-profile-04-c-v2",
+      "target_version_number": "2.0.0"
+    },
+    {
+      "action_type": "upgrade_mod",
+      "cost": 4,
+      "reason": "Reference-enumerated controlled search case.",
+      "target_mod_id": "search-profile-04-d",
+      "target_version_id": "search-profile-04-d-v2",
+      "target_version_number": "2.0.0"
+    }
+  ],
+  "observed_solver_result": null,
+  "parent_case_id": null
+}

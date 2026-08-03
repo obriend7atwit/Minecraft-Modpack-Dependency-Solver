@@ -1,0 +1,21 @@
+{
+  "case_id": "custom-focused-unresolved-selected",
+  "checker_matches_expected": true,
+  "final_known_repair_compatible": null,
+  "fixture_exists": true,
+  "graph_builds": true,
+  "injection_log_exists": true,
+  "injection_matches_case_diff": false,
+  "known_repair_replays": null,
+  "manifest_hash_present": false,
+  "metadata_cache_exists": false,
+  "metadata_coverage_rate": 0.8571428571428571,
+  "observed_issue_types": [
+    "unresolved_selected_mod"
+  ],
+  "observed_status": "incompatible",
+  "source_family_id": "custom-focused-unresolved-selected",
+  "source_url_present": false,
+  "source_version_present": false,
+  "warnings": []
+}

@@ -1,0 +1,22 @@
+name: tests
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  offline-test-suite:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+        with:
+          enable-cache: true
+      - name: Install Python and dependencies
+        run: uv sync --extra dev --extra research
+      - name: Run non-stress tests
+        run: uv run pytest
+      - name: Run display-free GUI smoke test
+        run: uv run modpack-solver --smoke-test
+      - name: Validate final dataset offline
+        run: uv run python scripts/run_final_evaluation.py --offline --validate-only
