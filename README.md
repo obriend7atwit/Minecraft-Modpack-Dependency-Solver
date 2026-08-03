@@ -2,6 +2,8 @@
 
 This Master's capstone prototype analyzes Fabric/Modrinth modpack metadata, identifies dependency and compatibility problems, and searches for an explainable minimum-disruption repair plan. It normalizes several input formats into one model, builds a dependency graph, checks compatibility rules, compares complete repair plans using fixed costs, and exports both readable and structured reports.
 
+![GUI screenshot](docs/images/gui_screenshot.png)
+
 ## Key Features
 
 - Imports basic `.mrpack` manifests, validated case JSON, Modrinth URLs, and project ID/slug lists.
@@ -120,10 +122,15 @@ The `stress` marker is excluded by default. Run it explicitly with `uv run pytes
 
 ## Academic Materials
 
-The repository archive did not contain the completed paper source/PDF or presentation deck. See [`paper/README.md`](paper/README.md) and [`presentation/README.md`](presentation/README.md) for the expected handoff locations. Generated paper-ready tables and figures remain in `results/final/paper/`.
+The completed capstone materials are available directly in this repository:
 
-When citing this work, use the capstone title shown above and the final author, institution, year, and repository URL from the submitted paper. A formal citation record has not yet been added because those publication details were not present in this archive.
+- [Final Master's capstone paper (PDF)](paper/DATA6950_Summer2026_Dylan_OBrien.pdf)
+- [Final capstone presentation (PDF)](presentation/Capstone%20FINAL%20Presentation.pdf)
+
+Generated paper-ready tables, figures, and evaluation evidence remain available in [`results/final/paper/`](results/final/paper/).
+
+When citing this work, use the title, author, institution, and year shown in the final paper together with this repository's URL.
 
 ## License
 
-[MIT](LICENSE)
+[MIT](LICENSE.txt)
