@@ -2,8 +2,6 @@
 
 This Master's capstone prototype analyzes Fabric/Modrinth modpack metadata, identifies dependency and compatibility problems, and searches for an explainable minimum-disruption repair plan. It normalizes several input formats into one model, builds a dependency graph, checks compatibility rules, compares complete repair plans using fixed costs, and exports both readable and structured reports.
 
-![Repair success by issue type](docs/images/issue-success-heatmap.png)
-
 ## Key Features
 
 - Imports basic `.mrpack` manifests, validated case JSON, Modrinth URLs, and project ID/slug lists.
@@ -81,6 +79,7 @@ The archived final corpus contains 158 offline-reproducible cases from 89 source
 The evidence categories are intentionally distinct. Complete cached Modrinth metadata represents full normalized manifests, not redistributed official exports. Reduced real-derived examples contain only relevant metadata. Synthetic, injected, dense-topology, cascading, and search-scaling cases are controlled algorithmic evidence rather than public modpacks. Human review remains incomplete and automated checks are not a substitute for publication review.
 
 ![Runtime and case complexity](docs/images/runtime-complexity.png)
+![Repair success by issue type](docs/images/issue-success-heatmap.png)
 
 The authoritative generated evidence is under [`results/final/`](results/final/), including the full [evaluation summary](results/final/reports/final_evaluation_summary.md). See [reproducibility notes](docs/reproducibility.md) for the distinction between the archived evaluation lock and the cleaned public package lock.
 
